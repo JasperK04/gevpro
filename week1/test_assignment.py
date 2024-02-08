@@ -3,6 +3,7 @@ import re
 import sys
 import json
 import pytest
+import pets
 
 STUDENT_NUMBER_PATTERN = re.compile(r's\d{7}$')
 
@@ -60,3 +61,20 @@ class TestText:
         with open('me.txt') as f:
             text = f.read()
         assert text.strip(), 'me.txt is empty'
+
+
+class TestPets:
+    def test_pet(self):
+        name = 'test'
+        assert pets.Pet(name).greeting() == f'I am {name}',
+        'failed to create pet object and print greeting'
+
+    def test_dog(self):
+        name = 'test'
+        assert pets.Dog(name).greeting() == f'Woof, I am {name}',
+        'failed to create dog object and print greeting'
+
+    def test_cat(set):
+        name = 'test'
+        assert pets.Cat(name).greeting() == f'I am {name}',
+        'failed to create cat object and print greeting'
