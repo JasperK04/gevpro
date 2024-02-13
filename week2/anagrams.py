@@ -1,6 +1,28 @@
 import json
 import time
+from collections import defaultdict
 import argparse
+
+
+def find_many(query: str = "query.txt", filename: str = "words.json"):
+    data = defaultdict(list)
+    with open(query, "r") as inp:
+        for word in inp:
+            word = word.lower().strip()
+            sorted_word = "".join(sorted(word))
+            data[sorted_word].append(word)
+
+    with open(filename, "r") as inp:
+        file = set(json.load(inp)['words']['dutch'])
+        for word in file:
+            sorted_word = "".join(sorted(word.lower().strip()))
+            if sorted_word in data.keys():
+                data[sorted_word].append(word)
+
+    for key in data.keys():
+        print(f"Anagrams of {data[key][0]} are: {set(data[key])}")
+
+    return data
 
 
 def find(word: str, filename: str = "words.json") -> set:
@@ -27,7 +49,6 @@ def find(word: str, filename: str = "words.json") -> set:
 
 
 def main():
-
     parser = argparse.ArgumentParser(description="finds anagrams")
     parser.add_argument("word", metavar="<word>", type=str,
                         help="Enter a word to find the anagrams of")
@@ -36,7 +57,6 @@ def main():
     parser.add_argument("-d", "--debug", action="store_true",
                         help="Enables debug mode")
     args = parser.parse_args()
-
     if args.debug:
         start = time.perf_counter()
 
@@ -44,6 +64,11 @@ def main():
     filename = args.file
     anagramSet = find(word, filename)
     print(f"Anagrams of '{word}' in '{filename}': \n{anagramSet}")
+
+    anagramDict = find_many("query.txt", filename)
+    for key in anagramDict.keys():
+        print(f"Anagrams of {anagramDict[key][0]} are:\
+               {set(anagramDict[key])}")
 
     if args.debug:
         end = time.perf_counter()
