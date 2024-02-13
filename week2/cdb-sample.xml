@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdbid>
+
+<cid name="attila" d_sy_id="n_a-523296" selected="true" form="nietig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-184600" cid_id="165802"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-184600" c_sy_id="n_a-521063" date="" selected="false" d_sy_id="n_a-521063" seq_nr="3" form="nietig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="120849" c_lu_id="d_a-184600"/>
+
+<cid name="attila" d_sy_id="n_a-519992" selected="true" form="nietig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13139" cid_id="165801"/>
+
+<cid name="attila" d_sy_id="n_a-520274" selected="true" form="verplicht" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-16001" cid_id="165803"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-218480" c_sy_id="n_a-515386" date="" selected="true" d_sy_id="n_a-515386" seq_nr="2" form="plastisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="83851" c_lu_id="d_a-218480"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-218478" c_sy_id="n_a-503317" date="" selected="true" d_sy_id="n_a-503317" seq_nr="1" form="plastisch" r_lu_id="a-14313" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="36301" c_lu_id="r_a-14313"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-218479" c_sy_id="n_a-523578" date="" selected="true" d_sy_id="n_a-523578" seq_nr="3" form="plastisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="104773" c_lu_id="d_a-218479"/>
+
+<cid name="attila" d_sy_id="d_a-9352" selected="false" form="intiem" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11951" cid_id="165804"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9353" date="" selected="false" d_sy_id="" seq_nr="1" form="intiem" r_lu_id="a-11950" r_seq_nr="1" score="-1.0" status="manual" pos="ADJ" cid_id="58456" c_lu_id="r_a-11950"/>
+
+<cid name="attila" d_sy_id="d_a-9352" selected="false" form="intiem" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-11950" cid_id="165805"/>
+
+<cid name="attila" d_sy_id="d_a-9353" selected="true" form="intiem" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11951" cid_id="165806"/>
+
+<cid name="attila" d_sy_id="c_1153" selected="true" form="intiem" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-12079" cid_id="165807"/>
+
+<cid name="attila" d_sy_id="d_a-9515" selected="true" form="scheef" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14814" cid_id="165808"/>
+
+<cid name="attila" d_sy_id="n_a-502680" selected="true" form="scheef" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14815" cid_id="165809"/>
+
+<cid name="attila" d_sy_id="n_a-520642" selected="false" form="onhoudbaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14104" cid_id="165810"/>
+
+<cid name="attila" d_sy_id="n_a-521243" selected="false" form="onhoudbaar" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-14105" cid_id="165811"/>
+
+<cid name="attila" d_sy_id="n_a-520642" selected="false" form="onhoudbaar" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-14105" cid_id="165812"/>
+
+<cid name="attila" d_sy_id="n_a-521243" selected="true" form="onhoudbaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14104" cid_id="165813"/>
+
+<cid name="attila" d_sy_id="c_1154" selected="true" form="berekend" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-9621" cid_id="165814"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521143" date="" selected="false" d_sy_id="" seq_nr="3" form="ongemakkelijk" r_lu_id="a-14089" r_seq_nr="3" score="-1.0" status="manual" pos="ADJ" cid_id="60616" c_lu_id="r_a-14089"/>
+
+<cid name="attila" d_sy_id="n_a-521143" selected="true" form="ongemakkelijk" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13503" cid_id="165815"/>
+
+<cid name="attila" d_sy_id="n_a-516807" selected="true" form="ongemakkelijk" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14085" cid_id="165816"/>
+
+<cid name="attila" d_sy_id="d_a-9433" selected="true" form="ongemakkelijk" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-14089" cid_id="165817"/>
+
+<cid name="attila" d_sy_id="n_a-528437" selected="true" form="speculatief" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15333" cid_id="165818"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-265748" c_sy_id="n_a-528437" date="" selected="false" d_sy_id="n_a-528437" seq_nr="3" form="speculatief" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="93730" c_lu_id="d_a-265748"/>
+
+<cid name="attila" d_sy_id="n_a-503749" selected="true" form="speculatief" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-265748" cid_id="165819"/>
+
+<cid name="attila" d_sy_id="n_a-529276" selected="true" form="steriel" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-15029" cid_id="165820"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-272602" c_sy_id="n_a-529276" date="" selected="false" d_sy_id="n_a-529276" seq_nr="3" form="steriel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="103927" c_lu_id="d_a-272602"/>
+
+<cid name="attila" d_sy_id="n_a-505663" selected="true" form="steriel" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-272602" cid_id="165821"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9571" date="" selected="false" d_sy_id="" seq_nr="1" form="verlammen" r_lu_id="v-9094" r_seq_nr="1" score="-1.0" status="manual" pos="VERB" cid_id="63198" c_lu_id="r_v-9094"/>
+
+<cid name="attila" d_sy_id="c_1155" selected="true" form="verlammen" seq_nr="1" pos="VERB" status="manual" c_lu_id="r_v-9094" cid_id="165822"/>
+
+<cid name="emaks" selected="false" d_sy_id="d_v-3649" seq_nr="1" form="kleuren" status="manual" pos="VERB" c_lu_id="r_v-3928" cid_id="163878"/>
+
+<cid name="attila" d_sy_id="d_a-9431" selected="true" form="naar" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13043" cid_id="165828"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-220790" c_sy_id="n_a-523822" date="" selected="true" d_sy_id="n_a-523822" seq_nr="2" form="polair" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="121265" c_lu_id="d_a-220790"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-220789" c_sy_id="n_a-523821" date="" selected="true" d_sy_id="n_a-523821" seq_nr="3" form="polair" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="141886" c_lu_id="d_a-220789"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-401523" c_sy_id="n_a-503955" date="" selected="false" d_sy_id="n_a-503955" seq_nr="1" form="verzadigd" r_lu_id="a-16648" r_seq_nr="0" score="88.5" status="manual" pos="ADJ" cid_id="6335" c_lu_id="r_a-16648"/>
+
+<cid name="attila" d_sy_id="n_a-532868" selected="false" form="verzadigd" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-16648" cid_id="165830"/>
+
+<cid name="attila" d_sy_id="n_a-532868" selected="false" form="verzadigd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-315154" cid_id="165829"/>
+
+<cid name="attila" d_sy_id="n_a-503955" selected="true" form="verzadigd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-315154" cid_id="165831"/>
+
+<cid name="attila" d_sy_id="d_v-5897" selected="false" form="geraffineerd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-523467" cid_id="165832"/>
+
+<cid name="attila" d_sy_id="d_a-9633" selected="false" form="geraffineerd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-523467" cid_id="165833"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-318069" c_sy_id="n_a-533244" date="" selected="true" d_sy_id="n_a-533244" seq_nr="3" form="vlezig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="89185" c_lu_id="d_a-318069"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-318067" c_sy_id="d_a-9585" date="" selected="true" d_sy_id="d_a-9585" seq_nr="1" form="vlezig" r_lu_id="a-16082" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="53341" c_lu_id="r_a-16082"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-318068" c_sy_id="d_a-9312" date="" selected="true" d_sy_id="d_a-9312" seq_nr="2" form="vlezig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="80221" c_lu_id="d_a-318068"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-237071" c_sy_id="d_a-9518" date="" selected="true" d_sy_id="d_a-9518" seq_nr="1" form="rein" r_lu_id="a-14564" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="39203" c_lu_id="r_a-14564"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="rein" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546746" cid_id="165834"/>
+
+<cid name="attila" d_sy_id="d_a-9633" selected="true" form="rein" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546746" cid_id="165836"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="rein" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546747" cid_id="165835"/>
+
+<cid name="attila" d_sy_id="n_a-506738" selected="true" form="rein" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546747" cid_id="165837"/>
+
+<cid name="attila" d_sy_id="d_a-9191" selected="true" form="stekelig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15020" cid_id="165838"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-271813" c_sy_id="d_a-9191" date="" selected="false" d_sy_id="d_a-9191" seq_nr="3" form="stekelig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="84552" c_lu_id="d_a-271813"/>
+
+<cid name="attila" d_sy_id="n_a-526430" selected="true" form="stekelig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-271813" cid_id="165839"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-512249" date="" selected="false" d_sy_id="" seq_nr="1" form="heilzaam" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="r_a-16600" c_lu_id="r_a-16600"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-510925" date="" selected="false" d_sy_id="n_a-510925" seq_nr="1" form="heilzaam" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161055" c_lu_id="r_a-16600"/>
+
+<cid name="attila" d_sy_id="n_a-510925" selected="true" form="heilzaam" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-107387" cid_id="165840"/>
+
+<cid name="attila" d_sy_id="n_a-509485" selected="true" form="gaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11497" cid_id="165841"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-85832" c_sy_id="n_a-509485" date="" selected="false" d_sy_id="n_a-509485" seq_nr="3" form="gaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="89878" c_lu_id="d_a-85832"/>
+
+<cid name="attila" d_sy_id="n_a-509483" selected="true" form="gaar" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-85832" cid_id="165842"/>
+
+<cid name="attila" d_sy_id="n_a-521386" selected="true" form="onvruchtbaar" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546748" cid_id="165845"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="onvruchtbaar" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546748" cid_id="165844"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521681" date="" selected="false" d_sy_id="" seq_nr="1" form="onvruchtbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="r_a-13804" c_lu_id="r_a-13804"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521386" date="" selected="false" d_sy_id="n_a-521386" seq_nr="1" form="onvruchtbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161429" c_lu_id="r_a-13804"/>
+
+<cid name="attila" d_sy_id="n_a-511071" selected="true" form="glazig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11130" cid_id="165846"/>
+
+<cid name="attila" d_sy_id="n_a-511072" selected="true" form="glazig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-94146" cid_id="165847"/>
+
+<cid name="attila" d_sy_id="d_a-9392" selected="true" form="beroerd" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-9700" cid_id="165850"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="beroerd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546749" cid_id="165851"/>
+
+<cid name="attila" d_sy_id="n_a-503723" selected="true" form="beroerd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546749" cid_id="165852"/>
+
+<cid name="attila" d_sy_id="c_386" selected="true" form="beroerd" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-9223" cid_id="165848"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-238844" c_sy_id="d_a-9255" date="" selected="true" d_sy_id="d_a-9255" seq_nr="1" form="respectabel" r_lu_id="a-14580" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="39561" c_lu_id="r_a-14580"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-238845" c_sy_id="n_a-524336" date="" selected="true" d_sy_id="n_a-524336" seq_nr="2" form="respectabel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="87644" c_lu_id="d_a-238845"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-238846" c_sy_id="n_a-513568" date="" selected="true" d_sy_id="n_a-513568" seq_nr="3" form="respectabel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="96787" c_lu_id="d_a-238846"/>
+
+<cid name="attila" d_sy_id="n_a-521302" selected="true" form="onnatuurlijk" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14109" cid_id="165853"/>
+
+<cid name="attila" d_sy_id="n_a-521304" selected="true" form="onnatuurlijk" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-13599" cid_id="165854"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-194733" c_sy_id="n_a-530424" date="" selected="true" d_sy_id="n_a-530424" seq_nr="1" form="onnatuurlijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="81340" c_lu_id="d_a-194733"/>
+
+<cid name="attila" d_sy_id="n_a-523434" selected="true" form="pittig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14306" cid_id="165855"/>
+
+<cid name="attila" d_sy_id="n_a-508310" selected="false" form="pittig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14305" cid_id="165856"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-38448" c_sy_id="n_a-504946" date="" selected="true" d_sy_id="n_a-504946" seq_nr="1" form="broos" r_lu_id="a-9391" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="8484" c_lu_id="r_a-9391"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="broos" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546750" cid_id="165858"/>
+
+<cid name="attila" d_sy_id="n_a-532375" selected="true" form="broos" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546750" cid_id="165860"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="broos" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546751" cid_id="165859"/>
+
+<cid name="attila" d_sy_id="n_a-530385" selected="true" form="broos" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546751" cid_id="165861"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="beter" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546752" cid_id="165864"/>
+
+<cid name="attila" d_sy_id="n_a-503854" selected="true" form="beter" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546752" cid_id="165865"/>
+
+<cid name="attila" d_sy_id="n_a-503854" selected="false" form="beter" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-9628" cid_id="165862"/>
+
+<cid name="attila" d_sy_id="c_1156" selected="false" form="beter" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-9628" cid_id="165863"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-408549" c_sy_id="n_a-503853" date="" selected="true" d_sy_id="n_a-503853" seq_nr="3" form="beter" r_lu_id="a-9627" r_seq_nr="0" score="88.5" status="D-55" pos="ADJ" cid_id="19549" c_lu_id="r_a-9627"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="" date="" selected="false" d_sy_id="n_a-502181" seq_nr="2" form="tweeslachtig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161909" c_lu_id="r_a-15473"/>
+
+<cid name="attila" d_sy_id="n_a-502181" selected="true" form="tweeslachtig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15473" cid_id="165866"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="" date="" selected="false" d_sy_id="n_a-502201" seq_nr="3" form="tweeslachtig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161911" c_lu_id="r_a-15610"/>
+
+<cid name="attila" d_sy_id="n_a-502201" selected="true" form="tweeslachtig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-15610" cid_id="165867"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-338725" c_sy_id="n_a-535182" date="" selected="true" d_sy_id="n_a-535182" seq_nr="1" form="wrang" r_lu_id="a-15782" r_seq_nr="1" score="72.75" status="D-55" pos="ADJ" cid_id="56727" c_lu_id="r_a-15782"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="wrang" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546753" cid_id="165868"/>
+
+<cid name="attila" d_sy_id="n_a-523336" selected="true" form="wrang" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546753" cid_id="165870"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="wrang" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546754" cid_id="165869"/>
+
+<cid name="attila" d_sy_id="n_a-526596" selected="true" form="wrang" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546754" cid_id="165871"/>
+
+<cid name="attila" d_sy_id="n_r-511661" selected="true" form="ellendig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="d_a-73537" cid_id="165872"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-508241" date="" selected="true" d_sy_id="" seq_nr="1" form="ellendig" r_lu_id="a-10416" r_seq_nr="1" score="-1.0" status="B-95" pos="ADJ" cid_id="60253" c_lu_id="r_a-10416"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9577" date="" selected="true" d_sy_id="" seq_nr="3" form="ellendig" r_lu_id="a-10417" r_seq_nr="2" score="-1.0" status="B-95" pos="ADJ" cid_id="63842" c_lu_id="r_a-10417"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="ellendig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546755" cid_id="165873"/>
+
+<cid name="attila" d_sy_id="c_386" selected="true" form="ellendig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546755" cid_id="165874"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="ijzig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546756" cid_id="165875"/>
+
+<cid name="attila" d_sy_id="n_r-535423" selected="true" form="ijzig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546756" cid_id="165876"/>
+
+<cid name="attila" d_sy_id="n_a-509055" selected="true" form="finaal" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-10787" cid_id="165877"/>
+
+<cid name="attila" d_sy_id="n_r-512278" selected="true" form="finaal" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-10786" cid_id="165878"/>
+
+<cid name="attila" d_sy_id="n_a-521393" selected="true" form="verward" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-314666" cid_id="165879"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-314668" c_sy_id="d_a-9578" date="" selected="true" d_sy_id="d_a-9578" seq_nr="2" form="verward" r_lu_id="a-16045" r_seq_nr="2" score="91.6" status="RESUME-75" pos="ADJ" cid_id="52671" c_lu_id="r_a-16045"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-534209" date="" selected="true" d_sy_id="" seq_nr="1" form="verward" r_lu_id="a-16044" r_seq_nr="1" score="-1.0" status="RESUME-75" pos="ADJ" cid_id="58602" c_lu_id="r_a-16044"/>
+
+<cid name="attila" d_sy_id="n_a-529742" selected="true" form="stroef" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-15082" cid_id="165880"/>
+
+<cid name="attila" d_sy_id="n_a-520179" selected="true" form="stroef" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-276184" cid_id="165882"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-276184" c_sy_id="n_a-529742" date="" selected="false" d_sy_id="n_a-529742" seq_nr="3" form="stroef" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="98898" c_lu_id="d_a-276184"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-142380" c_sy_id="n_a-521304" date="" selected="false" d_sy_id="" seq_nr="1" form="krampachtig" r_lu_id="a-12514" r_seq_nr="1" score="91.6" status="manual" pos="ADJ" cid_id="24793" c_lu_id="r_a-12514"/>
+
+<cid name="attila" d_sy_id="n_a-516030" selected="true" form="krampachtig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-12514" cid_id="165884"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-516031" date="" selected="true" d_sy_id="" seq_nr="2" form="krampachtig" r_lu_id="a-12679" r_seq_nr="2" score="-1.0" status="RESUME-75" pos="ADJ" cid_id="61383" c_lu_id="r_a-12679"/>
+
+<cid name="attila" d_sy_id="n_a-521304" selected="true" form="krampachtig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-142383" cid_id="165883"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-94024" c_sy_id="n_a-511051" date="" selected="true" d_sy_id="n_a-511051" seq_nr="1" form="glashelder" r_lu_id="a-11353" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="17587" c_lu_id="r_a-11353"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-94025" c_sy_id="n_a-511052" date="" selected="true" d_sy_id="n_a-511052" seq_nr="2" form="glashelder" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="127645" c_lu_id="d_a-94025"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-94026" c_sy_id="n_a-511053" date="" selected="true" d_sy_id="n_a-511053" seq_nr="3" form="glashelder" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="136640" c_lu_id="d_a-94026"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-334486" c_sy_id="n_a-519193" date="" selected="true" d_sy_id="n_a-519193" seq_nr="3" form="werelds" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="112966" c_lu_id="d_a-334486"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-334485" c_sy_id="n_a-501400" date="" selected="false" d_sy_id="n_a-501400" seq_nr="1" form="werelds" r_lu_id="a-15725" r_seq_nr="1" score="33.9" status="manual" pos="ADJ" cid_id="55894" c_lu_id="r_a-15725"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-532112" c_sy_id="d_a-9647" date="" selected="false" d_sy_id="d_a-9647" seq_nr="2" form="werelds" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="82024" c_lu_id="d_a-532112"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-6769" date="" selected="true" d_sy_id="d_v-6769" seq_nr="2" form="klimmen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="157685" c_lu_id="r_v-3942"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="vasthouden" seq_nr="7" pos="VERB" status="manual" c_lu_id="c_546757" cid_id="165886"/>
+
+<cid name="attila" d_sy_id="d_v-2700" selected="true" form="vasthouden" seq_nr="7" pos="VERB" status="manual" c_lu_id="c_546757" cid_id="165887"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-311033" c_sy_id="d_v-8082" date="" selected="true" d_sy_id="" seq_nr="4" form="verlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="120009" c_lu_id="d_v-311033"/>
+
+<cid name="hel" d_seq_nr="5" d_lu_id="d_v-311035" c_sy_id="d_v-8081" date="" selected="true" d_sy_id="d_v-8081" seq_nr="5" form="verlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="137968" c_lu_id="d_v-311035"/>
+
+<cid name="attila" d_sy_id="c_1135" selected="true" form="verrijden" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-9232" cid_id="165461"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-312265" c_sy_id="d_v-8174" date="" selected="false" d_sy_id="d_v-8174" seq_nr="2" form="verrijden" r_lu_id="v-9232" r_seq_nr="2" score="91.6" status="manual" pos="VERB" cid_id="52205" c_lu_id="r_v-9232"/>
+
+<cid name="attila" d_sy_id="d_v-3795" selected="false" form="bekomen" seq_nr="1" pos="VERB" status="manual" c_lu_id="r_v-1226" cid_id="165065"/>
+
+<cid name="attila" d_sy_id="d_v-1107" selected="false" form="bekomen" seq_nr="1" pos="VERB" status="manual" c_lu_id="r_v-1226" cid_id="165066"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="bekomen" seq_nr="4" pos="VERB" status="manual" c_lu_id="c_546758" cid_id="165888"/>
+
+<cid name="attila" d_sy_id="d_v-6015" selected="true" form="bekomen" seq_nr="4" pos="VERB" status="manual" c_lu_id="c_546758" cid_id="165889"/>
+
+<cid name="attila" d_sy_id="d_v-455" selected="true" form="afhangen" seq_nr="3" pos="VERB" status="manual" c_lu_id="d_v-6275" cid_id="165283"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-3988" date="" selected="true" d_sy_id="d_v-3988" seq_nr="1" form="lijden" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="158382" c_lu_id="r_v-4395"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-3987" date="" selected="true" d_sy_id="d_v-3987" seq_nr="3" form="lijden" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="158385" c_lu_id="c_545911"/>
+
+<cid name="attila" d_sy_id="d_v-5418" selected="true" form="overgaan" seq_nr="9" pos="VERB" status="manual" c_lu_id="d_v-203506" cid_id="165449"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-203504" c_sy_id="d_v-5420" date="" selected="false" d_sy_id="d_v-5420" seq_nr="7" form="overgaan" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="81746" c_lu_id="d_v-203504"/>
+
+<cid name="attila" d_sy_id="d_v-5419" selected="true" form="overgaan" seq_nr="7" pos="VERB" status="manual" c_lu_id="d_v-203504" cid_id="165446"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="overgaan" seq_nr="11" pos="VERB" status="manual" c_lu_id="c_546759" cid_id="165890"/>
+
+<cid name="attila" d_sy_id="d_v-2140" selected="true" form="overgaan" seq_nr="11" pos="VERB" status="manual" c_lu_id="c_546759" cid_id="165891"/>
+
+<cid name="attila" d_sy_id="n_a-504813" selected="false" form="vervallen" seq_nr="1" pos="ADJ" status="manual" c_lu_id="d_a-314166" cid_id="164780"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-314166" c_sy_id="n_a-532791" date="" selected="false" d_sy_id="n_a-532791" seq_nr="1" form="vervallen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="107790" c_lu_id="d_a-314166"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-9877" c_sy_id="n_a-502041" date="" selected="true" d_sy_id="n_a-502041" seq_nr="3" form="alleenstaand" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="83872" c_lu_id="d_a-9877"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-226436" c_sy_id="n_a-524562" date="" selected="true" d_sy_id="n_a-524562" seq_nr="3" form="proper" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="106101" c_lu_id="d_a-226436"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-226435" c_sy_id="d_a-9518" date="" selected="true" d_sy_id="d_a-9518" seq_nr="2" form="proper" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="97138" c_lu_id="d_a-226435"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-79825" c_sy_id="n_a-508906" date="" selected="true" d_sy_id="n_a-508906" seq_nr="3" form="fenomenaal" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="88791" c_lu_id="d_a-79825"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-79824" c_sy_id="n_a-532288" date="" selected="true" d_sy_id="n_a-532288" seq_nr="2" form="fenomenaal" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="79792" c_lu_id="d_a-79824"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-191811" c_sy_id="n_a-520659" date="" selected="true" d_sy_id="n_a-520659" seq_nr="3" form="onbekwaam" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="105259" c_lu_id="d_a-191811"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="c_145" date="" selected="true" d_sy_id="" seq_nr="3" form="onaanzienlijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="132301" c_lu_id="d_a-191558"/>
+
+<cid name="attila" d_sy_id="n_a-530564" selected="false" form="temporeel" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15572" cid_id="165892"/>
+
+<cid name="attila" d_sy_id="n_a-530790" selected="false" form="temporeel" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15572" cid_id="165893"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-287971" c_sy_id="n_a-530790" date="" selected="false" d_sy_id="n_a-530790" seq_nr="3" form="temporeel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="82400" c_lu_id="d_a-287971"/>
+
+<cid name="attila" d_sy_id="n_a-530564" selected="true" form="temporeel" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-287971" cid_id="165894"/>
+
+<cid name="attila" d_sy_id="c_1157" selected="true" form="rond" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-31974" cid_id="165895"/>
+
+<cid name="attila" d_sy_id="c_1158" selected="true" form="week" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-42633" cid_id="165896"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_a-332227" c_sy_id="n_a-527852" date="" selected="true" d_sy_id="n_a-527852" seq_nr="2" form="week" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="97405" c_lu_id="d_a-332227"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-332226" c_sy_id="n_a-527573" date="" selected="true" d_sy_id="n_a-527573" seq_nr="3" form="week" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="88284" c_lu_id="d_a-332226"/>
+
+<cid name="attila" d_sy_id="n_a-510586" selected="true" form="onzijdig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13838" cid_id="165897"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-197566" c_sy_id="n_a-521737" date="" selected="true" d_sy_id="n_a-521737" seq_nr="3" form="onzijdig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="77154" c_lu_id="d_a-197566"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-115165" c_sy_id="n_a-513260" date="" selected="true" d_sy_id="n_a-513260" seq_nr="2" form="hysterisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="77489" c_lu_id="d_a-115165"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-115164" c_sy_id="n_a-513259" date="" selected="true" d_sy_id="n_a-513259" seq_nr="3" form="hysterisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="135101" c_lu_id="d_a-115164"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-115163" c_sy_id="n_a-513258" date="" selected="true" d_sy_id="n_a-513258" seq_nr="1" form="hysterisch" r_lu_id="a-11711" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="20588" c_lu_id="r_a-11711"/>
+
+<cid name="attila" d_sy_id="d_v-2332" selected="true" form="afspelen" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-760" cid_id="165898"/>
+
+<cid name="piek" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-7636" date="" selected="true" d_sy_id="d_v-7636" seq_nr="5" form="uittrekken" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="160565" c_lu_id="d_v-302858"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_v-64046" c_sy_id="d_v-2136" date="" selected="true" d_sy_id="d_v-2136" seq_nr="6" form="doortrappen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="141669" c_lu_id="d_v-64046"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-64045" c_sy_id="d_v-2138" date="" selected="true" d_sy_id="d_v-2138" seq_nr="5" form="doortrappen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="132767" c_lu_id="d_v-64045"/>
+
+<cid name="attila" d_sy_id="d_v-2435" selected="true" form="uitlopen" seq_nr="14" pos="VERB" status="manual" c_lu_id="d_v-301825" cid_id="165296"/>
+
+<cid name="hel" d_seq_nr="15" d_lu_id="d_v-301825" c_sy_id="d_v-7504" date="" selected="false" d_sy_id="d_v-7504" seq_nr="14" form="uitlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="120896" c_lu_id="d_v-301825"/>
+
+<cid name="hel" d_seq_nr="5" d_lu_id="d_v-122077" c_sy_id="d_v-3323" date="" selected="true" d_sy_id="d_v-3323" seq_nr="4" form="inlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="78892" c_lu_id="d_v-122077"/>
+
+<cid name="hel" d_seq_nr="7" d_lu_id="d_v-536979" c_sy_id="d_v-3251" date="" selected="true" d_sy_id="d_v-3251" seq_nr="6" form="inlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="111036" c_lu_id="d_v-536979"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_v-122076" c_sy_id="d_v-3249" date="" selected="true" d_sy_id="d_v-3249" seq_nr="8" form="inlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="136572" c_lu_id="d_v-122076"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-108316" c_sy_id="d_n-28114" date="" selected="false" d_sy_id="d_n-28114" seq_nr="2" form="herder" r_lu_id="n-16662" r_seq_nr="2" score="64.6" status="manual" pos="NOUN" cid_id="19395" c_lu_id="r_n-16662"/>
+
+<cid name="piek" d_sy_id="c_1159" selected="false" form="herder" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-16662" cid_id="165899"/>
+
+<cid name="piek" d_sy_id="c_1159" selected="true" form="herdershond" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-16664" cid_id="165900"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-535656" c_sy_id="n_a-508813" date="" selected="true" d_sy_id="n_a-508813" seq_nr="3" form="bezeten" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="84042" c_lu_id="d_a-535656"/>
+
+<cid name="attila" d_sy_id="n_a-517441" selected="true" form="gewijd" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11573" cid_id="165901"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-412750" c_sy_id="n_a-515605" date="" selected="true" d_sy_id="n_a-515605" seq_nr="1" form="kokend" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="82114" c_lu_id="d_a-412750"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-525456" c_sy_id="d_a-9368" date="" selected="true" d_sy_id="d_a-9368" seq_nr="2" form="kokend" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="83704" c_lu_id="d_a-525456"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-509812" date="" selected="true" d_sy_id="n_a-509812" seq_nr="2" form="gedekt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160844" c_lu_id="r_a-11509"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-501795" date="" selected="false" d_sy_id="" seq_nr="1" form="afkerig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="2338" c_lu_id="r_a-8730"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-502064" date="" selected="false" d_sy_id="n_a-502064" seq_nr="1" form="afkerig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="150345" c_lu_id="r_a-8730"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="afkerig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546760" cid_id="165902"/>
+
+<cid name="attila" d_sy_id="n_a-501795" selected="true" form="afkerig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546760" cid_id="165903"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-6403" c_sy_id="n_a-534464" date="" selected="true" d_sy_id="n_a-534464" seq_nr="2" form="afkerig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="81983" c_lu_id="d_a-6403"/>
+
+<cid name="attila" d_sy_id="d_a-9522" selected="true" form="slijmerig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14921" cid_id="165904"/>
+
+<cid name="attila" d_sy_id="n_a-527934" selected="true" form="slijmerig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-261392" cid_id="165905"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="verdraaid" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546761" cid_id="165906"/>
+
+<cid name="attila" d_sy_id="n_r-535423" selected="true" form="verdraaid" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546761" cid_id="165907"/>
+
+<cid name="attila" d_sy_id="n_a-535764" selected="true" form="zindelijk" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-16522" cid_id="165908"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-527385" c_sy_id="n_a-520693" date="" selected="true" d_sy_id="n_a-520693" seq_nr="2" form="onbeschaafd" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="109285" c_lu_id="d_a-527385"/>
+
+<cid name="attila" d_sy_id="c_581" selected="false" form="onbeschaafd" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13322" cid_id="165911"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-520692" date="" selected="false" d_sy_id="" seq_nr="1" form="onbeschaafd" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="31500" c_lu_id="r_a-13322"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="c_581" date="" selected="false" d_sy_id="" seq_nr="1" form="onbeschaafd" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="r_a-13322" c_lu_id="r_a-13322"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-527870" c_sy_id="n_a-521938" date="" selected="true" d_sy_id="n_a-521938" seq_nr="2" form="opgemaakt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="110334" c_lu_id="d_a-527870"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-527871" c_sy_id="n_a-521939" date="" selected="true" d_sy_id="n_a-521939" seq_nr="3" form="opgemaakt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="119355" c_lu_id="d_a-527871"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9523" date="" selected="false" d_sy_id="" seq_nr="1" form="link" r_lu_id="a-12219" r_seq_nr="1" score="-1.0" status="manual" pos="ADJ" cid_id="73473" c_lu_id="r_a-12219"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-510726" date="" selected="false" d_sy_id="" seq_nr="2" form="link" r_lu_id="a-12220" r_seq_nr="2" score="-1.0" status="manual" pos="ADJ" cid_id="61581" c_lu_id="r_a-12220"/>
+
+<cid name="attila" d_sy_id="d_a-9523" selected="false" form="link" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-12220" cid_id="165914"/>
+
+<cid name="attila" d_sy_id="n_a-510726" selected="true" form="link" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-12219" cid_id="165915"/>
+
+<cid name="attila" d_sy_id="c_292" selected="true" form="link" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-158753" cid_id="165913"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-191682" c_sy_id="n_a-520619" date="" selected="true" d_sy_id="n_a-520619" seq_nr="1" form="onbedekt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="106320" c_lu_id="d_a-191682"/>
+
+<cid name="emaks" selected="false" d_sy_id="c_761" seq_nr="2" form="onbedekt" status="manual" pos="ADJ" c_lu_id="d_a-191683" cid_id="162128"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-191683" c_sy_id="n_a-521323" date="" selected="false" d_sy_id="n_a-521323" seq_nr="2" form="onbedekt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="115373" c_lu_id="d_a-191683"/>
+
+<cid name="attila" d_sy_id="n_a-510598" selected="true" form="gesloten" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-11034" cid_id="165916"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-203866" c_sy_id="n_a-534975" date="" selected="true" d_sy_id="n_a-534975" seq_nr="2" form="overjarig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="120243" c_lu_id="d_a-203866"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-203867" c_sy_id="n_a-522369" date="" selected="true" d_sy_id="n_a-522369" seq_nr="3" form="overjarig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="129267" c_lu_id="d_a-203867"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-203865" c_sy_id="n_a-522367" date="" selected="true" d_sy_id="n_a-522367" seq_nr="1" form="overjarig" r_lu_id="a-13983" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="34221" c_lu_id="r_a-13983"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-417765" c_sy_id="n_a-531638" date="" selected="true" d_sy_id="n_a-531638" seq_nr="1" form="uit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="107719" c_lu_id="d_a-417765"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_a-417766" c_sy_id="n_a-531639" date="" selected="true" d_sy_id="n_a-531639" seq_nr="2" form="uit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="116756" c_lu_id="d_a-417766"/>
+
+<cid name="attila" d_sy_id="n_a-530897" selected="false" form="aanstaande" seq_nr="1" pos="ADJ" status="manual" c_lu_id="d_a-1688" cid_id="165738"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-1688" c_sy_id="n_a-508045" date="" selected="false" d_sy_id="n_a-508045" seq_nr="1" form="aanstaande" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="119818" c_lu_id="d_a-1688"/>
+
+<cid name="attila" d_sy_id="n_a-530897" selected="true" form="aanstaande" seq_nr="2" pos="ADJ" status="manual" c_lu_id="d_a-1689" cid_id="165741"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-1689" c_sy_id="n_a-530897" date="" selected="false" d_sy_id="n_a-530897" seq_nr="2" form="aanstaande" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="128859" c_lu_id="d_a-1689"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_a-519440" c_sy_id="n_a-501296" date="" selected="true" d_sy_id="n_a-501296" seq_nr="3" form="aanstaande" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="134663" c_lu_id="d_a-519440"/>
+
+<cid name="attila" d_sy_id="d_v-7696" selected="true" form="gezwollen" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-11115" cid_id="165921"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-93126" c_sy_id="n_a-533464" date="" selected="true" d_sy_id="n_a-533464" seq_nr="3" form="gezwollen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="134323" c_lu_id="d_a-93126"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-418741" c_sy_id="n_a-504374" date="" selected="true" d_sy_id="n_a-504374" seq_nr="3" form="vleselijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="134598" c_lu_id="d_a-418741"/>
+
+<cid name="attila" d_sy_id="n_a-521329" selected="false" form="onontwikkeld" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14111" cid_id="165922"/>
+
+<cid name="attila" d_sy_id="n_a-521330" selected="false" form="onontwikkeld" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14111" cid_id="165923"/>
+
+<cid name="attila" d_sy_id="n_a-521329" selected="true" form="onontwikkeld" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-415140" cid_id="165924"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-415140" c_sy_id="n_a-521330" date="" selected="false" d_sy_id="n_a-521330" seq_nr="3" form="onontwikkeld" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="86640" c_lu_id="d_a-415140"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-234968" c_sy_id="n_a-525179" date="" selected="false" d_sy_id="n_a-525179" seq_nr="2" form="rechteloos" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="81546" c_lu_id="d_a-234968"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-234970" c_sy_id="n_a-525181" date="" selected="false" d_sy_id="n_a-525181" seq_nr="1" form="rechteloos" r_lu_id="a-14671" r_seq_nr="1" score="72.75" status="manual" pos="ADJ" cid_id="38679" c_lu_id="r_a-14671"/>
+
+<cid name="attila" d_sy_id="n_a-525179" selected="false" form="rechteloos" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14671" cid_id="165925"/>
+
+<cid name="attila" d_sy_id="n_a-525181" selected="true" form="rechteloos" seq_nr="2" pos="ADJ" status="manual" c_lu_id="d_a-234968" cid_id="165926"/>
+
+<cid name="attila" d_sy_id="n_a-532292" selected="true" form="verbonden" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-16340" cid_id="165927"/>
+
+<cid name="attila" d_sy_id="n_a-520274" selected="true" form="verbonden" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-16339" cid_id="165928"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9181" date="" selected="false" d_sy_id="" seq_nr="2" form="disponibel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="11536" c_lu_id="r_a-10065"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="c_701" date="" selected="false" d_sy_id="" seq_nr="2" form="disponibel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="r_a-10065" c_lu_id="r_a-10065"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-61369" c_sy_id="n_a-533683" date="" selected="true" d_sy_id="n_a-533683" seq_nr="3" form="disponibel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="84705" c_lu_id="d_a-61369"/>
+
+<cid name="attila" d_sy_id="d_a-9181" selected="false" form="disponibel" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-10065" cid_id="165930"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="" date="" selected="false" d_sy_id="" seq_nr="1" form="disponibel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160896" c_lu_id="c_546117"/>
+
+<cid name="attila" d_sy_id="d_a-9181" selected="false" form="disponibel" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546117" cid_id="165929"/>
+
+<cid name="attila" d_sy_id="c_701" selected="true" form="disponibel" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546117" cid_id="165931"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="bijzonder" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546765" cid_id="165932"/>
+
+<cid name="attila" d_sy_id="n_r-535423" selected="true" form="bijzonder" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546765" cid_id="165933"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-7028" date="" selected="true" d_sy_id="d_v-7028" seq_nr="4" form="terugkomen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="161460" c_lu_id="r_v-7827"/>
+
+<cid name="attila" d_sy_id="d_v-5174" selected="false" form="oppassen" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-5704" cid_id="165934"/>
+
+<cid name="attila" d_sy_id="d_v-5172" selected="true" form="oppassen" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-5704" cid_id="165936"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_v-538645" c_sy_id="d_v-8440" date="" selected="true" d_sy_id="d_v-8440" seq_nr="3" form="oppassen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="117789" c_lu_id="d_v-538645"/>
+
+<cid name="attila" d_sy_id="d_v-5174" selected="true" form="oppassen" seq_nr="4" pos="VERB" status="manual" c_lu_id="d_v-538646" cid_id="165935"/>
+
+<cid name="hel" d_seq_nr="5" d_lu_id="d_v-538646" c_sy_id="d_v-5174" date="" selected="false" d_sy_id="d_v-5174" seq_nr="4" form="oppassen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="126966" c_lu_id="d_v-538646"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-415509" c_sy_id="d_v-5173" date="" selected="true" d_sy_id="d_v-5173" seq_nr="5" form="oppassen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="137282" c_lu_id="d_v-415509"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="uitkomen" seq_nr="13" pos="VERB" status="manual" c_lu_id="c_546766" cid_id="165937"/>
+
+<cid name="attila" d_sy_id="c_1160" selected="true" form="uitkomen" seq_nr="13" pos="VERB" status="manual" c_lu_id="c_546766" cid_id="165938"/>
+
+<cid name="attila" d_sy_id="c_373" selected="false" form="gering" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11011" cid_id="165636"/>
+
+<cid name="attila" d_sy_id="n_a-520627" selected="false" form="gering" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11011" cid_id="165941"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="ademen" seq_nr="4" pos="VERB" status="manual" c_lu_id="c_546769" cid_id="165945"/>
+
+<cid name="attila" d_sy_id="d_v-7618" selected="true" form="ademen" seq_nr="4" pos="VERB" status="manual" c_lu_id="c_546769" cid_id="165946"/>
+
+<cid name="hel" d_seq_nr="5" d_lu_id="d_v-418604" c_sy_id="d_v-7974" date="" selected="false" d_sy_id="d_v-7974" seq_nr="6" form="verheffen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="90779" c_lu_id="d_v-418604"/>
+
+<cid name="attila" d_sy_id="d_v-5273" selected="true" form="verheffen" seq_nr="6" pos="VERB" status="manual" c_lu_id="d_v-418604" cid_id="165947"/>
+
+<cid name="attila" d_sy_id="d_v-8887" selected="true" form="wegtrekken" seq_nr="1" pos="VERB" status="manual" c_lu_id="r_v-10057" cid_id="165489"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_v-333475" c_sy_id="d_v-8887" date="" selected="false" d_sy_id="d_v-8887" seq_nr="2" form="wegtrekken" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="78905" c_lu_id="d_v-333475"/>
+
+<cid name="attila" d_sy_id="d_v-8893" selected="true" form="wegtrekken" seq_nr="2" pos="VERB" status="manual" c_lu_id="d_v-333475" cid_id="165490"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-333477" c_sy_id="d_v-8893" date="" selected="false" d_sy_id="" seq_nr="4" form="wegtrekken" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="97051" c_lu_id="d_v-333477"/>
+
+<cid name="attila" d_sy_id="d_v-7070" selected="true" form="wegtrekken" seq_nr="4" pos="VERB" status="manual" c_lu_id="d_v-333477" cid_id="165491"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-333474" c_sy_id="d_v-8894" date="" selected="true" d_sy_id="" seq_nr="3" form="wegtrekken" r_lu_id="v-10058" r_seq_nr="2" score="64.6" status="RESUME-75" pos="VERB" cid_id="55657" c_lu_id="r_v-10058"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-308718" c_sy_id="d_v-8413" date="" selected="true" d_sy_id="d_v-8413" seq_nr="4" form="verenigen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="95446" c_lu_id="d_v-308718"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-2141" date="" selected="true" d_sy_id="d_v-2141" seq_nr="5" form="doorgaan" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="160522" c_lu_id="c_546075"/>
+
+<cid name="attila" d_sy_id="d_v-3894" selected="false" form="afkomen" seq_nr="5" pos="VERB" status="manual" c_lu_id="r_v-573" cid_id="165266"/>
+
+<cid name="attila" d_sy_id="d_v-498" selected="false" form="afkomen" seq_nr="5" pos="VERB" status="manual" c_lu_id="r_v-573" cid_id="165269"/>
+
+<cid name="attila" d_sy_id="d_v-499" selected="false" form="afkomen" seq_nr="5" pos="VERB" status="manual" c_lu_id="r_v-573" cid_id="165271"/>
+
+<cid name="attila" d_sy_id="d_v-5064" selected="true" form="ophalen" seq_nr="5" pos="VERB" status="manual" c_lu_id="d_v-415480" cid_id="164387"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-199333" c_sy_id="d_v-3461" date="" selected="true" d_sy_id="" seq_nr="2" form="ophalen" r_lu_id="v-5580" r_seq_nr="2" score="64.6" status="RESUME-75" pos="VERB" cid_id="33199" c_lu_id="r_v-5580"/>
+
+<cid name="hel" d_seq_nr="6" d_lu_id="d_v-122079" c_sy_id="d_v-3246" date="" selected="true" d_sy_id="" seq_nr="5" form="inlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="97029" c_lu_id="d_v-122079"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_v-122074" c_sy_id="d_v-3247" date="" selected="true" d_sy_id="d_v-3247" seq_nr="7" form="inlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="118488" c_lu_id="d_v-122074"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-26939" date="" selected="false" d_sy_id="d_n-26939" seq_nr="1" form="artikel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="150667" c_lu_id="r_n-3978"/>
+
+<cid name="attila" d_sy_id="d_n-16283" selected="false" form="artikel" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-3978" cid_id="165948"/>
+
+<cid name="attila" d_sy_id="" selected="true" form="artikel" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-3978" cid_id="165949"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="krantenartikel" seq_nr="1" pos="NOUN" status="manual" c_lu_id="c_546770" cid_id="165950"/>
+
+<cid name="attila" d_sy_id="d_n-26939" selected="true" form="krantenartikel" seq_nr="1" pos="NOUN" status="manual" c_lu_id="c_546770" cid_id="165951"/>
+
+<cid name="attila" selected="true" d_sy_id="d_a-9505" seq_nr="1" form="rijk" status="manual" pos="ADJ" c_lu_id="r_a-14594" cid_id="163858"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="c_399" date="" selected="false" d_sy_id="" seq_nr="1" form="rijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="155425" c_lu_id="r_a-14594"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-513591" date="" selected="true" d_sy_id="n_a-513591" seq_nr="2" form="traag" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="150156" c_lu_id="c_545156"/>
+
+<cid name="emaks" d_sy_id="n_a-502040" selected="false" form="gewoon" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-92632" cid_id="165419"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-4288" date="" selected="true" d_sy_id="d_v-4288" seq_nr="3" form="moeten" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="158702" c_lu_id="r_v-4752"/>
+
+<cid name="attila" d_sy_id="d_v-3458" selected="true" form="inzakken" seq_nr="4" pos="VERB" status="manual" c_lu_id="d_v-124882" cid_id="164848"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-124881" c_sy_id="d_v-3459" date="" selected="true" d_sy_id="" seq_nr="1" form="inzakken" r_lu_id="v-3685" r_seq_nr="1" score="64.6" status="RESUME-75" pos="VERB" cid_id="21820" c_lu_id="r_v-3685"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-124883" c_sy_id="d_v-3460" date="" selected="true" d_sy_id="d_v-3460" seq_nr="2" form="inzakken" r_lu_id="v-3686" r_seq_nr="2" score="91.6" status="D-58" pos="VERB" cid_id="21823" c_lu_id="r_v-3686"/>
+
+<cid name="attila" d_sy_id="d_v-3361" selected="false" form="inzakken" seq_nr="3" pos="VERB" status="manual" c_lu_id="r_v-3687" cid_id="164847"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-124881" c_sy_id="d_v-3458" date="" selected="false" d_sy_id="d_v-3458" seq_nr="3" form="inzakken" r_lu_id="v-3687" r_seq_nr="3" score="83.1" status="manual" pos="VERB" cid_id="21824" c_lu_id="r_v-3687"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="afdoen" seq_nr="5" pos="VERB" status="manual" c_lu_id="c_546772" cid_id="165954"/>
+
+<cid name="piek" d_sy_id="c_1162" selected="true" form="afdoen" seq_nr="5" pos="VERB" status="manual" c_lu_id="c_546772" cid_id="165955"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="doordraaien" seq_nr="5" pos="VERB" status="manual" c_lu_id="c_546773" cid_id="165956"/>
+
+<cid name="piek" d_sy_id="c_1163" selected="true" form="doordraaien" seq_nr="5" pos="VERB" status="manual" c_lu_id="c_546773" cid_id="165957"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="doordraaien" seq_nr="6" pos="VERB" status="manual" c_lu_id="c_546774" cid_id="165958"/>
+
+<cid name="piek" d_sy_id="d_v-8252" selected="true" form="doordraaien" seq_nr="6" pos="VERB" status="manual" c_lu_id="c_546774" cid_id="165959"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="inlopen" seq_nr="9" pos="VERB" status="manual" c_lu_id="c_546775" cid_id="165960"/>
+
+<cid name="attila" d_sy_id="c_1164" selected="true" form="inlopen" seq_nr="9" pos="VERB" status="manual" c_lu_id="c_546775" cid_id="165962"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="zagen" seq_nr="4" pos="VERB" status="manual" c_lu_id="c_546776" cid_id="165963"/>
+
+<cid name="attila" d_sy_id="d_v-9041" selected="true" form="zagen" seq_nr="4" pos="VERB" status="manual" c_lu_id="c_546776" cid_id="165964"/>
+
+<cid name="attila" d_sy_id="c_1165" selected="true" form="vrij" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-41869" cid_id="165965"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9181" date="" selected="true" d_sy_id="" seq_nr="3" form="vrij" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="r_a-16158" c_lu_id="r_a-16158"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="c_702" date="" selected="true" d_sy_id="c_702" seq_nr="4" form="vrij" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160898" c_lu_id="c_546116"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-533914" date="" selected="true" d_sy_id="n_a-533914" seq_nr="5" form="vrij" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160879" c_lu_id="r_a-16160"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-511409" date="" selected="true" d_sy_id="n_a-511409" seq_nr="6" form="vrij" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160878" c_lu_id="d_a-323268"/>
+
+<cid name="hel" d_seq_nr="10" d_lu_id="d_a-323274" c_sy_id="n_a-533873" date="" selected="true" d_sy_id="n_a-533873" seq_nr="7" form="vrij" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="137433" c_lu_id="d_a-323274"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-511181" date="" selected="true" d_sy_id="n_a-511181" seq_nr="3" form="goed" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="151738" c_lu_id="c_545358"/>
+
+<cid name="emaks" selected="true" d_sy_id="" seq_nr="1" form="goed" status="manual" pos="ADJ" c_lu_id="r_a-11143" cid_id="162153"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="c_168" date="" selected="false" d_sy_id="c_168" seq_nr="1" form="goed" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="151742" c_lu_id="r_a-11143"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9446" date="" selected="false" d_sy_id="" seq_nr="2" form="ongelijk" r_lu_id="a-14081" r_seq_nr="2" score="-1.0" status="manual" pos="ADJ" cid_id="58618" c_lu_id="r_a-14081"/>
+
+<cid name="attila" d_sy_id="n_a-521067" selected="false" form="ongelijk" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14081" cid_id="165966"/>
+
+<cid name="attila" d_sy_id="n_a-521067" selected="true" form="ongelijk" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13492" cid_id="165967"/>
+
+<cid name="attila" d_sy_id="d_a-9458" selected="true" form="ongelijk" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-194009" cid_id="165968"/>
+
+<cid name="attila" d_sy_id="d_a-9647" selected="false" form="werelds" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-15725" cid_id="165885"/>
+
+<cid name="attila" d_sy_id="n_a-501400" selected="true" form="werelds" seq_nr="2" pos="ADJ" status="manual" c_lu_id="d_a-532112" cid_id="165969"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="gewoon" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546771" cid_id="165952"/>
+
+<cid name="attila" d_sy_id="n_r-510871" selected="true" form="gewoon" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546771" cid_id="165953"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="uit" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546763" cid_id="165917"/>
+
+<cid name="attila" d_sy_id="d_a-9554" selected="true" form="uit" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546763" cid_id="165919"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="uit" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546764" cid_id="165918"/>
+
+<cid name="attila" d_sy_id="n_r-531637" selected="true" form="uit" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546764" cid_id="165920"/>
+
+<cid name="hel" d_seq_nr="5" d_lu_id="d_a-417767" c_sy_id="n_a-531640" date="" selected="true" d_sy_id="n_a-531640" seq_nr="3" form="uit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="125957" c_lu_id="d_a-417767"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-531701" date="" selected="true" d_sy_id="n_a-531701" seq_nr="2" form="kapot" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="157296" c_lu_id="c_545769"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9361" date="" selected="true" d_sy_id="d_a-9361" seq_nr="1" form="kapot" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="157294" c_lu_id="r_a-12401"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="links" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546777" cid_id="165970"/>
+
+<cid name="attila" d_sy_id="n_a-517397" selected="true" form="links" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546777" cid_id="165971"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_v-97484" c_sy_id="d_v-3133" date="" selected="false" d_sy_id="d_v-3133" seq_nr="3" form="groeperen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="85608" c_lu_id="d_v-97484"/>
+
+<cid name="attila" d_sy_id="d_v-2820" selected="true" form="groeperen" seq_nr="3" pos="VERB" status="manual" c_lu_id="d_v-97484" cid_id="165051"/>
+
+<cid name="attila" d_sy_id="d_v-7925" selected="true" form="groeperen" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-3043" cid_id="165049"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="elektrisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546778" cid_id="165972"/>
+
+<cid name="attila" d_sy_id="n_a-508204" selected="true" form="elektrisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546778" cid_id="165973"/>
+
+<cid name="attila" d_sy_id="n_a-523452" selected="false" form="lokaal" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-12235" cid_id="165975"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-159672" c_sy_id="n_a-523453" date="" selected="false" d_sy_id="" seq_nr="1" form="lokaal" r_lu_id="a-12235" r_seq_nr="1" score="88.5" status="manual" pos="ADJ" cid_id="27067" c_lu_id="r_a-12235"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="plaatselijk" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546710" cid_id="165585"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="plaatselijk" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546710" cid_id="165587"/>
+
+<cid name="attila" d_sy_id="n_a-523452" selected="true" form="plaatselijk" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546710" cid_id="165974"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="plaatselijk" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546711" cid_id="165586"/>
+
+<cid name="attila" d_sy_id="n_a-523454" selected="true" form="plaatselijk" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546711" cid_id="165588"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_v-124224" c_sy_id="d_v-3395" date="" selected="true" d_sy_id="d_v-3395" seq_nr="4" form="intrappen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="80562" c_lu_id="d_v-124224"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_v-124225" c_sy_id="d_v-3396" date="" selected="true" d_sy_id="d_v-3396" seq_nr="5" form="intrappen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="89520" c_lu_id="d_v-124225"/>
+
+<cid name="attila" d_sy_id="c_1164" selected="true" form="intrappen" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-3631" cid_id="165961"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="intrappen" seq_nr="3" pos="VERB" status="manual" c_lu_id="c_546779" cid_id="165976"/>
+
+<cid name="attila" d_sy_id="c_1166" selected="true" form="intrappen" seq_nr="3" pos="VERB" status="manual" c_lu_id="c_546779" cid_id="165977"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="inlopen" seq_nr="10" pos="VERB" status="manual" c_lu_id="c_546780" cid_id="165978"/>
+
+<cid name="attila" d_sy_id="c_1166" selected="true" form="inlopen" seq_nr="10" pos="VERB" status="manual" c_lu_id="c_546780" cid_id="165979"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_a-415984" c_sy_id="n_a-520216" date="" selected="true" d_sy_id="n_a-520216" seq_nr="3" form="praktisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="80222" c_lu_id="d_a-415984"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="praktisch" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546781" cid_id="165980"/>
+
+<cid name="attila" d_sy_id="c_1167" selected="true" form="praktisch" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546781" cid_id="165981"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9423" date="" selected="false" d_sy_id="" seq_nr="1" form="nodig" r_lu_id="a-13158" r_seq_nr="1" score="-1.0" status="manual" pos="ADJ" cid_id="59763" c_lu_id="r_a-13158"/>
+
+<cid name="attila" d_sy_id="d_a-9423" selected="true" form="nodig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-13159" cid_id="165982"/>
+
+<cid name="attila" d_sy_id="c_666" selected="true" form="nodig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13158" cid_id="165983"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-532245" date="" selected="true" d_sy_id="n_a-532245" seq_nr="1" form="ver" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="151719" c_lu_id="r_a-16209"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="ver" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546782" cid_id="165985"/>
+
+<cid name="attila" d_sy_id="n_r-532661" selected="true" form="ver" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546782" cid_id="165986"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_v-71060" c_sy_id="d_v-4876" date="" selected="true" d_sy_id="d_v-4876" seq_nr="1" form="doorkrijgen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="93581" c_lu_id="d_v-71060"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521886" date="" selected="false" d_sy_id="n_a-521886" seq_nr="1" form="algemeen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="155134" c_lu_id="r_a-8753"/>
+
+<cid name="attila" d_sy_id="n_r-513305" selected="false" form="algemeen" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-3271" cid_id="165713"/>
+
+<cid name="piek" d_sy_id="n_a-521887" selected="true" form="algemeen" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-8753" cid_id="165987"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9152" date="" selected="true" d_sy_id="d_a-9152" seq_nr="2" form="algemeen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="155135" c_lu_id="r_a-8754"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="redelijk" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546783" cid_id="165988"/>
+
+<cid name="piek" d_sy_id="c_1169" selected="true" form="redelijk" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546783" cid_id="165989"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="lekker" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546784" cid_id="165990"/>
+
+<cid name="attila" d_sy_id="n_r-516995" selected="true" form="lekker" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546784" cid_id="165991"/>
+
+<cid name="attila" d_sy_id="n_a-524508" selected="true" form="progressief" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-225983" cid_id="165656"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="c_294" date="" selected="true" d_sy_id="c_294" seq_nr="3" form="vet" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="153663" c_lu_id="c_545504"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="vet" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546785" cid_id="165992"/>
+
+<cid name="attila" d_sy_id="n_a-512478" selected="true" form="vet" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546785" cid_id="165993"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="best" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546786" cid_id="165994"/>
+
+<cid name="attila" d_sy_id="c_1169" selected="true" form="best" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546786" cid_id="165995"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-510849" date="" selected="true" d_sy_id="n_a-510849" seq_nr="3" form="handig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160009" c_lu_id="d_a-105100"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="werelds" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546787" cid_id="165996"/>
+
+<cid name="attila" d_sy_id="c_269" selected="true" form="werelds" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546787" cid_id="165997"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="werelds" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546788" cid_id="165998"/>
+
+<cid name="attila" d_sy_id="d_a-9351" selected="true" form="werelds" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546788" cid_id="165999"/>
+
+<cid name="attila" d_sy_id="n_a-535103" selected="true" form="onwaarschijnlijk" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14143" cid_id="165758"/>
+
+<cid name="attila" d_sy_id="n_a-521635" selected="true" form="onwaarschijnlijk" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-197359" cid_id="165757"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-197359" c_sy_id="d_a-9468" date="" selected="false" d_sy_id="d_a-9468" seq_nr="3" form="onwaarschijnlijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="81941" c_lu_id="d_a-197359"/>
+
+<cid name="attila" d_sy_id="n_a-526106" selected="true" form="romantisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-14621" cid_id="165755"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-242724" c_sy_id="n_a-528807" date="" selected="true" d_sy_id="n_a-528807" seq_nr="1" form="romantisch" r_lu_id="a-14620" r_seq_nr="1" score="91.6" status="D-55" pos="ADJ" cid_id="40276" c_lu_id="r_a-14620"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="handig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546789" cid_id="166000"/>
+
+<cid name="attila" d_sy_id="d_a-9306" selected="true" form="handig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546789" cid_id="166001"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="onaanzienlijk" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546790" cid_id="166002"/>
+
+<cid name="attila" d_sy_id="d_a-9381" selected="true" form="onaanzienlijk" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546790" cid_id="166003"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="c_702" date="" selected="false" d_sy_id="" seq_nr="1" form="ongebonden" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="r_a-13452" c_lu_id="r_a-13452"/>
+
+<cid name="attila" d_sy_id="d_a-9598" selected="false" form="ongebonden" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13452" cid_id="166005"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="ongebonden" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546791" cid_id="166004"/>
+
+<cid name="attila" d_sy_id="c_702" selected="false" form="ongebonden" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546791" cid_id="166006"/>
+
+<cid name="attila" d_sy_id="c_702" selected="false" form="ongebonden" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-13452" cid_id="166007"/>
+
+<cid name="attila" d_sy_id="d_a-9598" selected="true" form="ongebonden" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546791" cid_id="166008"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-200274" c_sy_id="d_v-5183" date="" selected="true" d_sy_id="d_v-5183" seq_nr="1" form="oppompen" r_lu_id="v-5716" r_seq_nr="1" score="79.95" status="BM-90" pos="VERB" cid_id="33433" c_lu_id="r_v-5716"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-22889" date="" selected="false" d_sy_id="" seq_nr="2" form="test" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="94991" c_lu_id="r_n-37482"/>
+
+<cid name="piek" selected="false" d_sy_id="" seq_nr="2" form="test" status="manual" pos="NOUN" c_lu_id="r_n-37482" cid_id="163382"/>
+
+<cid name="deb" d_sy_id="c_1068" selected="false" form="test" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-37482" cid_id="164366"/>
+
+<cid name="deb" d_sy_id="" selected="true" form="test" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-37482" cid_id="164368"/>
+
+<cid name="attila" d_sy_id="n_a-533976" selected="false" form="vruchtbaar" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-16179" cid_id="165700"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="" date="" selected="false" d_sy_id="" seq_nr="2" form="vruchtbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161423" c_lu_id="c_546189"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-507579" date="" selected="false" d_sy_id="n_a-507579" seq_nr="1" form="driftig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161449" c_lu_id="r_a-10126"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-508813" date="" selected="false" d_sy_id="" seq_nr="1" form="driftig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="12465" c_lu_id="r_a-10126"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="" date="" selected="false" d_sy_id="" seq_nr="2" form="driftig" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161450" c_lu_id="c_546193"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-533975" date="" selected="true" d_sy_id="n_a-533975" seq_nr="1" form="vruchtbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161424" c_lu_id="r_a-16178"/>
+
+<cid name="Lisanne" selected="false" d_sy_id="" seq_nr="4" form="test" status="manual" pos="NOUN" c_lu_id="r_n-37481" cid_id="163383"/>
+
+<cid name="attila" d_sy_id="c_747" selected="true" form="vruchtbaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546189" cid_id="166102"/>
+
+<cid name="attila" d_sy_id="n_a-508813" selected="true" form="driftig" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546193" cid_id="166103"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="bezet" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546792" cid_id="166104"/>
+
+<cid name="attila" d_sy_id="c_1170" selected="true" form="bezet" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546792" cid_id="166105"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-23707" date="" selected="true" d_sy_id="d_n-23707" seq_nr="1" form="luik" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="155506" c_lu_id="r_n-22715"/>
+
+<cid name="attila" d_sy_id="n_a-505454" selected="true" form="centraal" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546794" cid_id="166109"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="centraal" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546794" cid_id="166107"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-46855" c_sy_id="n_a-505452" date="" selected="true" d_sy_id="n_a-505452" seq_nr="1" form="centraal" r_lu_id="a-9721" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="9128" c_lu_id="r_a-9721"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="centraal" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546793" cid_id="166106"/>
+
+<cid name="attila" d_sy_id="n_a-505453" selected="true" form="centraal" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546793" cid_id="166108"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521886" date="" selected="true" d_sy_id="n_a-521886" seq_nr="1" form="publiek" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="155237" c_lu_id="d_a-227664"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521887" date="" selected="true" d_sy_id="n_a-521887" seq_nr="2" form="publiek" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="155236" c_lu_id="r_a-14431"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-178304" c_sy_id="d_n-40659" date="" selected="false" d_sy_id="d_n-40659" seq_nr="1" form="meetinstrument" r_lu_id="n-23498" r_seq_nr="1" score="86.7333" status="manual" pos="NOUN" cid_id="28367" c_lu_id="r_n-23498"/>
+
+<cid name="attila" d_sy_id="d_n-40659" selected="false" form="sonde" seq_nr="4" pos="NOUN" status="manual" c_lu_id="d_n-264747" cid_id="166112"/>
+
+<cid name="attila" d_sy_id="" selected="true" form="meetinstrument" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-23498" cid_id="166110"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="sonde" seq_nr="4" pos="NOUN" status="manual" c_lu_id="d_n-264747" cid_id="166111"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-264747" c_sy_id="d_n-14049" date="" selected="false" d_sy_id="" seq_nr="4" form="sonde" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="105895" c_lu_id="d_n-264747"/>
+
+<cid name="attila" d_sy_id="n_a-516808" selected="false" form="pittig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14305" cid_id="165857"/>
+
+<cid name="attila" d_sy_id="n_a-516808" selected="true" form="pittig" seq_nr="3" pos="ADJ" status="manual" c_lu_id="r_a-14307" cid_id="166113"/>
+
+<cid name="agata" d_seq_nr="-1" d_lu_id="" c_sy_id="n_n-515530" date="" selected="true" d_sy_id="n_n-515530" seq_nr="1" form="koepel" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="159238" c_lu_id="r_n-20065"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="pittig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546795" cid_id="166114"/>
+
+<cid name="piek" d_sy_id="n_a-523357" selected="true" form="pittig" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546795" cid_id="166115"/>
+
+<cid name="attila" d_sy_id="n_a-529743" selected="false" form="stroef" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15083" cid_id="165881"/>
+
+<cid name="piek" d_sy_id="c_1171" selected="false" form="stroef" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15083" cid_id="166117"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="stroef" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546796" cid_id="166116"/>
+
+<cid name="piek" d_sy_id="n_a-529743" selected="false" form="stroef" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546796" cid_id="166118"/>
+
+<cid name="piek" d_sy_id="n_a-529743" selected="false" form="stroef" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15083" cid_id="166119"/>
+
+<cid name="piek" d_sy_id="c_1171" selected="true" form="stroef" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546796" cid_id="166120"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_v-306221" c_sy_id="d_v-7759" date="" selected="true" d_sy_id="d_v-7759" seq_nr="1" form="vastlopen" r_lu_id="v-8705" r_seq_nr="1" score="33.9" status="BM-90" pos="VERB" cid_id="50791" c_lu_id="r_v-8705"/>
+
+<cid name="piek" d_sy_id="d_v-6840" selected="false" form="vastlopen" seq_nr="2" pos="VERB" status="manual" c_lu_id="d_v-306222" cid_id="164991"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="vastlopen" seq_nr="2" pos="VERB" status="manual" c_lu_id="c_546797" cid_id="166121"/>
+
+<cid name="piek" d_sy_id="d_v-6840" selected="true" form="vastlopen" seq_nr="2" pos="VERB" status="manual" c_lu_id="c_546797" cid_id="166122"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_v-306222" c_sy_id="d_v-7760" date="" selected="false" d_sy_id="" seq_nr="2" form="vastlopen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="95124" c_lu_id="d_v-306222"/>
+
+<cid name="emaks" d_sy_id="c_701" selected="false" form="beschikbaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546118" cid_id="165425"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="c_533" date="" selected="true" d_sy_id="c_533" seq_nr="2" form="flauw" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="157339" c_lu_id="r_a-10694"/>
+
+<cid name="piek" d_sy_id="" c_lu_id="c_546798" cid_id="166124" form="" seq_nr="4" pos="ADJ" selected="true" status="manual"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="rot" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546799" cid_id="166125"/>
+
+<cid name="piek" d_sy_id="c_1172" selected="true" form="rot" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546799" cid_id="166126"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-1962" c_sy_id="d_n-15505" date="" selected="true" d_sy_id="d_n-15505" seq_nr="1" form="aantrekkingskracht" r_lu_id="n-2349" r_seq_nr="1" score="82.3667" status="D-75" pos="NOUN" cid_id="1498" c_lu_id="r_n-2349"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-5940" c_sy_id="d_n-15573" date="" selected="false" d_sy_id="" seq_nr="2" form="affiniteit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="83816" c_lu_id="d_n-5940"/>
+
+<cid name="piek" d_sy_id="d_n-21122" selected="true" form="affiniteit" seq_nr="2" pos="NOUN" status="manual" c_lu_id="d_n-5940" cid_id="166127"/>
+
+<cid name="piek" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-17511" date="" selected="true" d_sy_id="d_n-17511" seq_nr="1" form="haard" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="156024" c_lu_id="r_n-16078"/>
+
+<cid name="agata" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-30225" date="" selected="false" d_sy_id="d_n-30225" seq_nr="1" form="aanbieding" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="160044" c_lu_id="r_n-2188"/>
+
+<cid name="piek" d_sy_id="d_n-37951" selected="false" form="aanbieding" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-2188" cid_id="166128"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-400505" c_sy_id="d_n-37951" date="" selected="false" d_sy_id="d_n-37951" seq_nr="3" form="aanbieding" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="131480" c_lu_id="d_n-400505"/>
+
+<cid name="piek" d_sy_id="d_n-30225" selected="true" form="aanbieding" seq_nr="3" pos="NOUN" status="manual" c_lu_id="d_n-400505" cid_id="166129"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-167986" c_sy_id="d_n-40634" date="" selected="true" d_sy_id="d_n-40634" seq_nr="1" form="mat" r_lu_id="n-23328" r_seq_nr="1" score="76.35" status="D-75" pos="NOUN" cid_id="28098" c_lu_id="r_n-23328"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-205990" c_sy_id="d_n-35408" date="" selected="true" d_sy_id="d_n-35408" seq_nr="1" form="ontrouw" r_lu_id="n-26223" r_seq_nr="0" score="92.8" status="D-75" pos="NOUN" cid_id="31916" c_lu_id="r_n-26223"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-196075" c_sy_id="d_n-43741" date="" selected="true" d_sy_id="d_n-43741" seq_nr="3" form="ontrouw" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="111268" c_lu_id="d_n-196075"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-38157" date="" selected="true" d_sy_id="d_n-38157" seq_nr="2" form="archief" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="150649" c_lu_id="c_545217"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-32542" date="" selected="true" d_sy_id="d_n-32542" seq_nr="1" form="archief" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="150651" c_lu_id="r_n-3870"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="zat" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546800" cid_id="166130"/>
+
+<cid name="attila" d_sy_id="n_a-510344" selected="true" form="zat" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546800" cid_id="166131"/>
+
+<cid name="attila" d_sy_id="n_a-524894" selected="false" form="raak" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14501" cid_id="165825"/>
+
+<cid name="attila" d_sy_id="n_a-531221" selected="true" form="raak" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-14501" cid_id="165984"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="raak" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546801" cid_id="166132"/>
+
+<cid name="attila" d_sy_id="n_a-524893" selected="true" form="raak" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546801" cid_id="166133"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-232684" c_sy_id="n_a-524893" date="" selected="false" d_sy_id="n_a-524893" seq_nr="3" form="raak" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="121814" c_lu_id="d_a-232684"/>
+
+<cid name="attila" d_sy_id="n_a-524894" selected="true" form="raak" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-232684" cid_id="165827"/>
+
+<cid name="attila" d_sy_id="d_a-9308" selected="false" form="gevestigd" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-11062" cid_id="165781"/>
+
+<cid name="attila" d_sy_id="n_a-513652" selected="false" form="gevestigd" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-11062" cid_id="166134"/>
+
+<cid name="attila" d_sy_id="d_a-9308" selected="true" form="gevestigd" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-11063" cid_id="166135"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-512200" date="" selected="true" d_sy_id="n_a-512200" seq_nr="1" form="heerlijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160086" c_lu_id="r_a-11642"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="c_644" date="" selected="true" d_sy_id="c_644" seq_nr="2" form="heerlijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160085" c_lu_id="r_a-11643"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="gekleurd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546802" cid_id="166136"/>
+
+<cid name="attila" d_sy_id="c_1173" selected="true" form="gekleurd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546802" cid_id="166137"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-131348" c_sy_id="d_n-40011" date="" selected="true" d_sy_id="d_n-40011" seq_nr="1" form="kar" r_lu_id="n-19071" r_seq_nr="1" score="83.8333" status="D-75" pos="NOUN" cid_id="22772" c_lu_id="r_n-19071"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-294860" c_sy_id="d_n-34402" date="" selected="true" d_sy_id="d_n-34402" seq_nr="9" form="trek" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="123125" c_lu_id="d_n-294860"/>
+
+<cid name="piek" selected="true" d_sy_id="d_n-31602" seq_nr="2" form="visioen" status="manual" pos="NOUN" c_lu_id="d_n-317153" cid_id="162433"/>
+
+<cid name="piek" selected="true" d_sy_id="d_n-14824" seq_nr="1" form="visioen" status="manual" pos="NOUN" c_lu_id="r_n-40954" cid_id="162434"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-80740" c_sy_id="d_n-15101" date="" selected="true" d_sy_id="d_n-15101" seq_nr="1" form="filosofie" r_lu_id="n-13275" r_seq_nr="1" score="80.9" status="D-75" pos="NOUN" cid_id="14593" c_lu_id="r_n-13275"/>
+
+<cid name="attila" d_seq_nr="2" d_lu_id="d_n-80741" c_sy_id="d_n-39220" date="" selected="false" d_sy_id="d_n-39220" seq_nr="3" form="filosofie" r_lu_id="" r_seq_nr="-1" status="manual" score="-1.0" pos="NOUN" cid_id="89302" c_lu_id="d_n-80741"/>
+
+<cid name="attila" comment="" selected="true" d_sy_id="d_n-39220" seq_nr="3" form="filosofie" status="manual" pos="NOUN" cid_id="163256" c_lu_id="d_n-80741"/>
+
+<cid name="attila" d_seq_nr="3" d_lu_id="d_n-80742" c_sy_id="d_n-29216" date="" selected="false" d_sy_id="d_n-29216" seq_nr="4" form="filosofie" r_lu_id="" r_seq_nr="-1" status="manual" score="-1.0" pos="NOUN" cid_id="98448" c_lu_id="d_n-80742"/>
+
+<cid name="attila" comment="" selected="true" d_sy_id="d_n-29216" seq_nr="4" form="filosofie" status="manual" pos="NOUN" cid_id="163257" c_lu_id="d_n-80742"/>
+
+<cid name="piek" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-22714" date="" selected="true" d_sy_id="d_n-22714" seq_nr="3" form="haard" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="156025" c_lu_id="r_n-16080"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_n-81705" c_sy_id="d_n-28006" date="" selected="true" d_sy_id="d_n-28006" seq_nr="4" form="flits" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="135719" c_lu_id="d_n-81705"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-176975" c_sy_id="d_n-18380" date="" selected="true" d_sy_id="d_n-18380" seq_nr="3" form="mysterie" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="134292" c_lu_id="d_n-176975"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-176973" c_sy_id="d_n-12761" date="" selected="true" d_sy_id="d_n-12761" seq_nr="2" form="mysterie" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="116160" c_lu_id="d_n-176973"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-60840" c_sy_id="d_n-17626" date="" selected="true" d_sy_id="d_n-17626" seq_nr="4" form="ding" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="121442" c_lu_id="d_n-60840"/>
+
+<cid name="agata" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-36759" date="" selected="true" d_sy_id="d_n-36759" seq_nr="2" form="stroom" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="154996" c_lu_id="r_n-36321"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-14295" date="" selected="true" d_sy_id="" seq_nr="3" form="stroom" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="128362" c_lu_id="r_n-36322"/>
+
+<cid name="attila" selected="false" d_sy_id="d_n-30362" seq_nr="1" form="ras" status="manual" pos="NOUN" c_lu_id="r_n-30520" cid_id="163283"/>
+
+<cid name="attila" d_seq_nr="1" comment="" d_lu_id="d_n-234189" c_sy_id="d_n-43807" date="" selected="false" d_sy_id="d_n-43807" seq_nr="1" form="ras" r_lu_id="n-30520" r_seq_nr="1" score="91.6" status="manual" pos="NOUN" cid_id="38489" c_lu_id="r_n-30520"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-237428" c_sy_id="n_a-525507" date="" selected="true" d_sy_id="n_a-525507" seq_nr="2" form="rekkelijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="86259" c_lu_id="d_a-237428"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-237427" c_sy_id="d_a-9350" date="" selected="true" d_sy_id="d_a-9350" seq_nr="1" form="rekkelijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="77263" c_lu_id="d_a-237427"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-416235" c_sy_id="d_a-9644" date="" selected="true" d_sy_id="d_a-9644" seq_nr="3" form="rekkelijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="103711" c_lu_id="d_a-416235"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-192185" c_sy_id="n_a-520771" date="" selected="true" d_sy_id="n_a-520771" seq_nr="1" form="onbuigbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="77404" c_lu_id="d_a-192185"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-192186" c_sy_id="n_a-515826" date="" selected="true" d_sy_id="n_a-515826" seq_nr="2" form="onbuigbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="86384" c_lu_id="d_a-192186"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-192187" c_sy_id="n_a-521690" date="" selected="true" d_sy_id="n_a-521690" seq_nr="3" form="onbuigbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="95479" c_lu_id="d_a-192187"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-508206" date="" selected="false" d_sy_id="n_a-508206" seq_nr="3" form="elektrisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161341" c_lu_id="d_a-73288"/>
+
+<cid name="attila" d_sy_id="n_a-520692" selected="true" form="onbeschaafd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546762" cid_id="165912"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="onbeschaafd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546762" cid_id="165909"/>
+
+<cid name="attila" d_sy_id="c_581" selected="false" form="onbeschaafd" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546762" cid_id="165910"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-517089" date="" selected="true" d_sy_id="n_a-517089" seq_nr="3" form="dol" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="157330" c_lu_id="r_a-10079"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-193800" c_sy_id="n_a-522312" date="" selected="true" d_sy_id="n_a-522312" seq_nr="3" form="onfeilbaar" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="137059" c_lu_id="d_a-193800"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-264496" c_sy_id="n_a-512785" date="" selected="true" d_sy_id="n_a-512785" seq_nr="2" form="solidair" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="115892" c_lu_id="d_a-264496"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-3038" c_sy_id="n_a-509995" date="" selected="true" d_sy_id="n_a-509995" seq_nr="2" form="abnormaal" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="98313" c_lu_id="d_a-3038"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-3037" c_sy_id="n_a-521201" date="" selected="true" d_sy_id="n_a-521201" seq_nr="1" form="abnormaal" r_lu_id="a-8867" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="1727" c_lu_id="r_a-8867"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_a-400581" c_sy_id="n_a-501908" date="" selected="true" d_sy_id="n_a-501908" seq_nr="3" form="abnormaal" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="104375" c_lu_id="d_a-400581"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="ongewoon" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546741" cid_id="165779"/>
+
+<cid name="attila" d_sy_id="n_a-520649" selected="true" form="ongewoon" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546741" cid_id="165780"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-194397" c_sy_id="d_a-9188" date="" selected="true" d_sy_id="d_a-9188" seq_nr="2" form="ongewoon" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="87225" c_lu_id="d_a-194397"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-521201" date="" selected="false" d_sy_id="" seq_nr="1" form="ongewoon" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="32073" c_lu_id="r_a-13546"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-520649" date="" selected="false" d_sy_id="n_a-520649" seq_nr="1" form="ongewoon" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="152936" c_lu_id="r_a-13546"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="solide" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546803" cid_id="166139"/>
+
+<cid name="attila" d_sy_id="c_342" selected="true" form="solide" seq_nr="1" pos="ADJ" status="manual" c_lu_id="c_546803" cid_id="166140"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="lam" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546804" cid_id="166141"/>
+
+<cid name="attila" d_sy_id="d_a-9410" selected="true" form="lam" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546804" cid_id="166142"/>
+
+<cid name="attila" comment="" selected="true" d_sy_id="d_n-31775" seq_nr="3" form="vorming" status="manual" pos="NOUN" cid_id="163263" c_lu_id="d_n-322416"/>
+
+<cid name="attila" d_seq_nr="3" d_lu_id="d_n-322416" c_sy_id="d_n-31775" date="" selected="false" d_sy_id="d_n-31775" seq_nr="3" form="vorming" r_lu_id="" r_seq_nr="-1" status="manual" score="-1.0" pos="NOUN" cid_id="92709" c_lu_id="d_n-322416"/>
+
+<cid name="attila" d_seq_nr="2" d_lu_id="d_n-322415" c_sy_id="d_n-26159" date="" selected="false" d_sy_id="d_n-26159" seq_nr="2" form="vorming" r_lu_id="" r_seq_nr="-1" status="manual" score="-1.0" pos="NOUN" cid_id="83628" c_lu_id="d_n-322415"/>
+
+<cid name="attila" comment="" selected="true" d_sy_id="d_n-26159" seq_nr="2" form="vorming" status="manual" pos="NOUN" cid_id="163262" c_lu_id="d_n-322415"/>
+
+<cid name="attila" d_sy_id="d_n-24201" selected="false" form="vorming" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-41731" cid_id="166143"/>
+
+<cid name="attila" comment="" selected="false" d_sy_id="d_n-26159" seq_nr="1" form="vorming" status="manual" pos="NOUN" cid_id="163260" c_lu_id="r_n-41731"/>
+
+<cid name="attila" comment="" selected="false" d_sy_id="d_n-20544" seq_nr="1" form="vorming" status="manual" pos="NOUN" cid_id="163261" c_lu_id="r_n-41731"/>
+
+<cid name="attila" d_seq_nr="1" d_lu_id="d_n-322414" c_sy_id="d_n-20544" date="" selected="false" d_sy_id="d_n-20544" seq_nr="1" form="vorming" r_lu_id="n-41731" r_seq_nr="1" status="manual" score="33.9" pos="NOUN" cid_id="54296" c_lu_id="r_n-41731"/>
+
+<cid name="agata" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-36536" date="" selected="true" d_sy_id="d_n-36536" seq_nr="1" form="speculatie" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="154915" c_lu_id="r_n-34833"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-265745" c_sy_id="d_n-14070" date="" selected="true" d_sy_id="d_n-14070" seq_nr="3" form="speculatie" r_lu_id="n-34835" r_seq_nr="3" score="91.6" status="D-75" pos="NOUN" cid_id="44111" c_lu_id="r_n-34835"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-39547" c_sy_id="d_n-10397" date="" selected="true" d_sy_id="d_n-10397" seq_nr="2" form="bult" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="116304" c_lu_id="d_n-39547"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-39546" c_sy_id="d_n-21792" date="" selected="true" d_sy_id="d_n-21792" seq_nr="1" form="bult" r_lu_id="n-8814" r_seq_nr="1" score="71.2667" status="D-75" pos="NOUN" cid_id="8741" c_lu_id="r_n-8814"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-39548" c_sy_id="n_n-505203" date="" selected="true" d_sy_id="n_n-505203" seq_nr="3" form="bult" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="125480" c_lu_id="d_n-39548"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-302714" c_sy_id="d_n-43969" date="" selected="false" d_sy_id="d_n-43969" seq_nr="1" form="uitstraling" r_lu_id="n-39129" r_seq_nr="1" score="64.6" status="manual" pos="NOUN" cid_id="50122" c_lu_id="r_n-39129"/>
+
+<cid name="attila" d_sy_id="d_n-34241" selected="false" form="uitstraling" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-39129" cid_id="166144"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-300516" c_sy_id="d_n-20214" date="" selected="true" d_sy_id="d_n-20214" seq_nr="1" form="uitbouw" r_lu_id="n-38940" r_seq_nr="1" score="62.05" status="BM-90" pos="NOUN" cid_id="49540" c_lu_id="r_n-38940"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-300517" c_sy_id="n_n-531645" date="" selected="true" d_sy_id="n_n-531645" seq_nr="2" form="uitbouw" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="106547" c_lu_id="d_n-300517"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-1998" c_sy_id="d_n-14903" date="" selected="true" d_sy_id="d_n-14903" seq_nr="2" form="aanvaller" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="121367" c_lu_id="d_n-1998"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-1997" c_sy_id="d_n-21123" date="" selected="true" d_sy_id="d_n-21123" seq_nr="1" form="aanvaller" r_lu_id="n-2355" r_seq_nr="1" score="72.75" status="BM-90" pos="NOUN" cid_id="1520" c_lu_id="r_n-2355"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="oosten" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546805" cid_id="166145"/>
+
+<cid name="attila" d_sy_id="d_n-35463" selected="true" form="oosten" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546805" cid_id="166146"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-198199" c_sy_id="d_n-29844" date="" selected="true" d_sy_id="d_n-29844" seq_nr="1" form="oosten" r_lu_id="n-26487" r_seq_nr="1" score="73.3667" status="BM-90" pos="NOUN" cid_id="32911" c_lu_id="r_n-26487"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-46999" c_sy_id="d_n-38693" date="" selected="true" d_sy_id="d_n-38693" seq_nr="2" form="certificaat" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="112259" c_lu_id="d_n-46999"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-503217" date="" selected="true" d_sy_id="" seq_nr="3" form="verdacht" r_lu_id="a-15944" r_seq_nr="2" score="-1.0" status="RESUME-75" pos="ADJ" cid_id="67395" c_lu_id="r_a-15944"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-308001" c_sy_id="n_a-532303" date="" selected="false" d_sy_id="n_a-532303" seq_nr="1" form="verdacht" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="85076" c_lu_id="d_a-308001"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-308000" c_sy_id="d_a-9568" date="" selected="false" d_sy_id="d_a-9568" seq_nr="2" form="verdacht" r_lu_id="a-15943" r_seq_nr="1" score="91.6" status="manual" pos="ADJ" cid_id="51278" c_lu_id="r_a-15943"/>
+
+<cid name="attila" d_sy_id="n_a-532303" selected="false" form="verdacht" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15943" cid_id="166147"/>
+
+<cid name="attila" d_sy_id="d_a-9568" selected="true" form="verdacht" seq_nr="1" pos="ADJ" status="manual" c_lu_id="d_a-308001" cid_id="166148"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="simpel" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546806" cid_id="166149"/>
+
+<cid name="attila" d_sy_id="d_a-9525" selected="true" form="simpel" seq_nr="3" pos="ADJ" status="manual" c_lu_id="c_546806" cid_id="166150"/>
+
+<cid name="attila" d_sy_id="n_a-507923" selected="true" form="ecologisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-10578" cid_id="165650"/>
+
+<cid name="attila" d_sy_id="n_a-519697" selected="false" form="ecologisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-10578" cid_id="165646"/>
+
+<cid name="attila" d_sy_id="n_a-507923" selected="false" form="ecologisch" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-71688" cid_id="165648"/>
+
+<cid name="attila" d_sy_id="n_a-519697" selected="false" form="ecologisch" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-71688" cid_id="165649"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-71688" c_sy_id="n_a-507922" date="" selected="false" d_sy_id="n_a-507922" seq_nr="3" form="ecologisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="110542" c_lu_id="d_a-71688"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-346905" c_sy_id="d_a-9633" date="" selected="true" d_sy_id="d_a-9633" seq_nr="4" form="zuiver" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="133149" c_lu_id="d_a-346905"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_a-346906" c_sy_id="n_a-536020" date="" selected="true" d_sy_id="n_a-536020" seq_nr="1" form="zuiver" r_lu_id="a-16454" r_seq_nr="1" score="91.6" status="D-55" pos="ADJ" cid_id="57909" c_lu_id="r_a-16454"/>
+
+<cid name="attila" selected="true" d_sy_id="d_a-9518" seq_nr="2" form="zuiver" status="manual" pos="ADJ" c_lu_id="r_a-16455" cid_id="163973"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="zuiver" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546807" cid_id="166151"/>
+
+<cid name="attila" d_sy_id="c_680" selected="true" form="zuiver" seq_nr="5" pos="ADJ" status="manual" c_lu_id="c_546807" cid_id="166152"/>
+
+<cid name="attila" d_sy_id="n_r-502043" selected="true" form="zuiver" seq_nr="7" pos="ADJ" status="manual" c_lu_id="c_546720" cid_id="165658"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="zuiver" seq_nr="7" pos="ADJ" status="manual" c_lu_id="c_546720" cid_id="165657"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="zuiver" seq_nr="6" pos="ADJ" status="manual" c_lu_id="c_546808" cid_id="166153"/>
+
+<cid name="attila" d_sy_id="n_a-519884" selected="true" form="zuiver" seq_nr="6" pos="ADJ" status="manual" c_lu_id="c_546808" cid_id="166154"/>
+
+<cid name="attila" d_sy_id="n_a-529105" selected="false" form="statisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15010" cid_id="165791"/>
+
+<cid name="attila" d_sy_id="n_a-529105" selected="false" form="elektrisch" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-73288" cid_id="166138"/>
+
+<cid name="attila" d_sy_id="n_a-529105" selected="false" form="statisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15010" cid_id="166159"/>
+
+<cid name="attila" d_sy_id="c_344" selected="true" form="statisch" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-15009" cid_id="165790"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="statisch" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546809" cid_id="166155"/>
+
+<cid name="attila" d_sy_id="n_a-529105" selected="false" form="statisch" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546809" cid_id="166157"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="statisch" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546809" cid_id="166158"/>
+
+<cid name="attila" d_sy_id="n_a-529105" selected="true" form="statisch" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546809" cid_id="166160"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="c_344" date="" selected="false" d_sy_id="" seq_nr="3" form="statisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="80777" c_lu_id="d_a-271145"/>
+
+<cid name="attila" d_sy_id="d_a-9538" selected="true" form="statisch" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-271145" cid_id="165792"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-309168" c_sy_id="n_a-532387" date="" selected="false" d_sy_id="n_a-532387" seq_nr="1" form="vergevensgezind" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="142097" c_lu_id="d_a-309168"/>
+
+<cid name="attila" d_sy_id="n_a-532387" selected="true" form="vergevensgezind" seq_nr="1" pos="ADJ" status="manual" c_lu_id="d_a-309168" cid_id="166162"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-90066" c_sy_id="n_a-503123" date="" selected="false" d_sy_id="n_a-503123" seq_nr="1" form="genadig" r_lu_id="a-10956" r_seq_nr="1" score="33.9" status="manual" pos="ADJ" cid_id="16495" c_lu_id="r_a-10956"/>
+
+<cid name="attila" d_sy_id="n_a-532387" selected="false" form="genadig" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-10956" cid_id="166163"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-526768" c_sy_id="n_n-519090" date="" selected="true" d_sy_id="n_n-519090" seq_nr="3" form="module" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="95014" c_lu_id="d_n-526768"/>
+
+<cid name="attila" d_sy_id="d_n-13880" selected="true" form="gat" seq_nr="7" pos="NOUN" status="manual" c_lu_id="r_n-14046" cid_id="166165"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="correctie" seq_nr="5" pos="NOUN" status="manual" c_lu_id="c_546810" cid_id="166166"/>
+
+<cid name="attila" d_sy_id="d_n-17718" selected="true" form="correctie" seq_nr="5" pos="NOUN" status="manual" c_lu_id="c_546810" cid_id="166167"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-12781" c_sy_id="d_n-15685" date="" selected="false" d_sy_id="d_n-15685" seq_nr="1" form="arbeider" r_lu_id="n-3802" r_seq_nr="1" score="33.9" status="manual" pos="NOUN" cid_id="3653" c_lu_id="r_n-3802"/>
+
+<cid name="attila" d_sy_id="d_n-20687" selected="false" form="arbeider" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-3802" cid_id="166168"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-12782" c_sy_id="d_n-20687" date="" selected="false" d_sy_id="d_n-20687" seq_nr="2" form="arbeider" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="113027" c_lu_id="d_n-12782"/>
+
+<cid name="attila" d_sy_id="d_n-15685" selected="true" form="arbeider" seq_nr="2" pos="NOUN" status="manual" c_lu_id="d_n-12782" cid_id="166169"/>
+
+<cid name="piek" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-27270" date="" selected="true" d_sy_id="d_n-27270" seq_nr="1" form="bok" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="152313" c_lu_id="r_n-7906"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="kraak" seq_nr="5" pos="NOUN" status="manual" c_lu_id="c_546811" cid_id="166170"/>
+
+<cid name="attila" d_sy_id="d_n-43842" selected="true" form="kraak" seq_nr="5" pos="NOUN" status="manual" c_lu_id="c_546811" cid_id="166171"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-166715" c_sy_id="d_n-40598" date="" selected="false" d_sy_id="d_n-40598" seq_nr="1" form="management" r_lu_id="n-23114" r_seq_nr="1" score="64.6" status="manual" pos="NOUN" cid_id="27847" c_lu_id="r_n-23114"/>
+
+<cid name="attila" selected="false" d_sy_id="d_n-12521" seq_nr="1" form="management" status="manual" pos="NOUN" c_lu_id="r_n-23114" cid_id="164104"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-166715" c_sy_id="d_n-12521" date="" selected="false" d_sy_id="" seq_nr="2" form="management" r_lu_id="n-23115" r_seq_nr="2" score="91.6" status="manual" pos="NOUN" cid_id="27849" c_lu_id="r_n-23115"/>
+
+<cid name="attila" selected="true" d_sy_id="d_n-40598" seq_nr="2" form="management" status="manual" pos="NOUN" c_lu_id="r_n-23115" cid_id="164105"/>
+
+<cid name="piek" selected="true" d_sy_id="c_880" seq_nr="3" form="management" status="manual" pos="NOUN" c_lu_id="d_n-166716" cid_id="163505"/>
+
+<cid name="Lisanne" selected="false" d_sy_id="" seq_nr="3" form="management" status="manual" pos="NOUN" c_lu_id="d_n-166716" cid_id="163386"/>
+
+<cid name="roxane" d_seq_nr="-1" d_lu_id="" c_sy_id="c_77" date="" selected="false" d_sy_id="" seq_nr="5" form="bank" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="161880" c_lu_id="r_n-5922"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="onfeilbaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546812" cid_id="166172"/>
+
+<cid name="attila" d_sy_id="n_a-506736" selected="true" form="onfeilbaar" seq_nr="2" pos="ADJ" status="manual" c_lu_id="c_546812" cid_id="166173"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-193798" c_sy_id="n_a-520986" date="" selected="true" d_sy_id="n_a-520986" seq_nr="1" form="onfeilbaar" r_lu_id="a-13446" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="31937" c_lu_id="r_a-13446"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_a-9598" date="" selected="true" d_sy_id="" seq_nr="3" form="onbeperkt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="118139" c_lu_id="d_a-191866"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="onbeperkt" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546739" cid_id="165773"/>
+
+<cid name="attila" d_sy_id="n_r-520672" selected="true" form="onbeperkt" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546739" cid_id="165774"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_a-191865" c_sy_id="n_a-521166" date="" selected="true" d_sy_id="n_a-521166" seq_nr="1" form="onbeperkt" r_lu_id="a-13316" r_seq_nr="1" score="33.9" status="D-55" pos="ADJ" cid_id="31490" c_lu_id="r_a-13316"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_a-415038" c_sy_id="n_a-520673" date="" selected="true" d_sy_id="n_a-520673" seq_nr="2" form="onbeperkt" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="ADJ" cid_id="116771" c_lu_id="d_a-415038"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_n-420785" c_sy_id="d_n-23431" date="" selected="true" d_sy_id="d_n-23431" seq_nr="4" form="leger" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="116372" c_lu_id="d_n-420785"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-78726" c_sy_id="d_n-26597" date="" selected="true" d_sy_id="d_n-26597" seq_nr="3" form="faam" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="115126" c_lu_id="d_n-78726"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-128802" c_sy_id="d_n-43601" date="" selected="true" d_sy_id="d_n-43601" seq_nr="2" form="juweel" r_lu_id="n-18671" r_seq_nr="2" score="83.8333" status="D-75" pos="NOUN" cid_id="22291" c_lu_id="r_n-18671"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-272659" c_sy_id="d_n-42295" date="" selected="true" d_sy_id="d_n-42295" seq_nr="3" form="sterkte" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="139971" c_lu_id="d_n-272659"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-272661" c_sy_id="d_n-14218" date="" selected="true" d_sy_id="d_n-14218" seq_nr="2" form="sterkte" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="128348" c_lu_id="d_n-272661"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="reconstructie" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546813" cid_id="166174"/>
+
+<cid name="attila" d_sy_id="d_n-30393" selected="true" form="reconstructie" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546813" cid_id="166175"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="reconstructie" seq_nr="3" pos="NOUN" status="manual" c_lu_id="c_546814" cid_id="166176"/>
+
+<cid name="attila" d_sy_id="d_n-36011" selected="true" form="reconstructie" seq_nr="3" pos="NOUN" status="manual" c_lu_id="c_546814" cid_id="166177"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-235564" c_sy_id="d_n-24779" date="" selected="true" d_sy_id="d_n-24779" seq_nr="1" form="reconstructie" r_lu_id="n-30796" r_seq_nr="1" score="64.25" status="D-75" pos="NOUN" cid_id="38836" c_lu_id="r_n-30796"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_n-267786" c_sy_id="d_n-19732" date="" selected="true" d_sy_id="d_n-19732" seq_nr="9" form="spoor" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="89299" c_lu_id="d_n-267786"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-266871" c_sy_id="d_n-23875" date="" selected="true" d_sy_id="" seq_nr="1" form="spil" r_lu_id="n-35028" r_seq_nr="1" score="33.9" status="RESUME-75" pos="NOUN" cid_id="44375" c_lu_id="r_n-35028"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-266873" c_sy_id="d_n-26941" date="" selected="true" d_sy_id="d_n-26941" seq_nr="3" form="spil" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="132746" c_lu_id="d_n-266873"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_n-266875" c_sy_id="n_n-528558" date="" selected="true" d_sy_id="n_n-528558" seq_nr="2" form="spil" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="84115" c_lu_id="d_n-266875"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-266874" c_sy_id="n_n-528557" date="" selected="true" d_sy_id="" seq_nr="4" form="spil" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="141656" c_lu_id="d_n-266874"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-204412" c_sy_id="d_n-13073" date="" selected="true" d_sy_id="d_n-13073" seq_nr="3" form="overschrijving" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="113735" c_lu_id="d_n-204412"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-204411" c_sy_id="n_n-522392" date="" selected="true" d_sy_id="n_n-522392" seq_nr="2" form="overschrijving" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="104737" c_lu_id="d_n-204411"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-510235" date="" selected="true" d_sy_id="n_a-510235" seq_nr="1" form="makkelijk" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="155363" c_lu_id="r_a-12732"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="makkelijk" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546815" cid_id="166178"/>
+
+<cid name="attila" d_sy_id="n_a-511955" selected="true" form="makkelijk" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546815" cid_id="166179"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="c_682" date="" selected="false" d_sy_id="" seq_nr="3" form="gering" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="141493" c_lu_id="d_a-90934"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-515188" date="" selected="false" d_sy_id="" seq_nr="3" form="gering" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="160243" c_lu_id="d_a-90934"/>
+
+<cid name="attila" d_sy_id="n_a-520627" selected="false" form="gering" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-90934" cid_id="165634"/>
+
+<cid name="attila" d_sy_id="c_682" selected="false" form="gering" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-90934" cid_id="165942"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="gering" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546767" cid_id="165939"/>
+
+<cid name="attila" d_sy_id="c_373" selected="true" form="gering" seq_nr="4" pos="ADJ" status="manual" c_lu_id="c_546767" cid_id="165943"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-27768" c_sy_id="n_n-503815" date="" selected="true" d_sy_id="n_n-503815" seq_nr="1" form="bestelling" r_lu_id="n-6909" r_seq_nr="1" score="33.9" status="D-75" pos="NOUN" cid_id="6039" c_lu_id="r_n-6909"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="bestelling" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546817" cid_id="166182"/>
+
+<cid name="attila" d_sy_id="d_n-38368" selected="true" form="bestelling" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546817" cid_id="166185"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="bestelling" seq_nr="3" pos="NOUN" status="manual" c_lu_id="c_546818" cid_id="166183"/>
+
+<cid name="attila" d_sy_id="d_n-10287" selected="true" form="bestelling" seq_nr="3" pos="NOUN" status="manual" c_lu_id="c_546818" cid_id="166184"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="aanhouden" seq_nr="10" pos="VERB" status="manual" c_lu_id="c_546816" cid_id="166180"/>
+
+<cid name="piek" d_sy_id="d_v-5323" selected="true" form="aanhouden" seq_nr="10" pos="VERB" status="manual" c_lu_id="c_546816" cid_id="166181"/>
+
+<cid name="emaks" d_seq_nr="-1" d_lu_id="" c_sy_id="n_a-508205" date="" selected="false" d_sy_id="n_a-508205" seq_nr="1" form="elektrisch" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ" cid_id="161340" c_lu_id="r_a-10411"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="statisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15010" cid_id="166156"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="elektrisch" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-73288" cid_id="166161"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="elektrisch" seq_nr="1" pos="ADJ" status="manual" c_lu_id="r_a-10411" cid_id="166186"/>
+
+<cid name="attila" d_sy_id="n_a-508206" selected="true" form="statisch" seq_nr="2" pos="ADJ" status="manual" c_lu_id="r_a-15010" cid_id="166187"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="aankunnen" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-126" cid_id="165358"/>
+
+<cid name="attila" d_sy_id="d_v-1231" selected="true" form="aanslaan" seq_nr="9" pos="VERB" status="manual" c_lu_id="d_v-1524" cid_id="165347"/>
+
+<cid name="piek" d_sy_id="" selected="false" form="aanslaan" seq_nr="10" pos="VERB" status="manual" c_lu_id="c_546819" cid_id="166188"/>
+
+<cid name="piek" d_sy_id="c_1176" selected="true" form="aanslaan" seq_nr="10" pos="VERB" status="manual" c_lu_id="c_546819" cid_id="166189"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-228" date="" selected="true" d_sy_id="d_v-228" seq_nr="1" form="aanvaarden" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="150278" c_lu_id="r_v-283"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-1207" c_sy_id="d_n-21115" date="" selected="true" d_sy_id="" seq_nr="1" form="adoptie" r_lu_id="n-2761" r_seq_nr="0" score="33.9" status="D-75" pos="NOUN" cid_id="1320" c_lu_id="r_n-2761"/>
+
+<cid name="attila" selected="false" d_sy_id="" seq_nr="4" form="aanzet" status="manual" pos="NOUN" c_lu_id="c_546561" cid_id="164090"/>
+
+<cid name="attila" selected="true" d_sy_id="c_1024" seq_nr="4" form="aanzet" status="manual" pos="NOUN" c_lu_id="c_546561" cid_id="164091"/>
+
+<cid name="hel" d_seq_nr="3" d_lu_id="d_n-2299" c_sy_id="n_n-501337" date="" selected="true" d_sy_id="n_n-501337" seq_nr="3" form="aanzet" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="112425" c_lu_id="d_n-2299"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-2298" c_sy_id="n_n-501336" date="" selected="true" d_sy_id="n_n-501336" seq_nr="2" form="aanzet" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="103382" c_lu_id="d_n-2298"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-697" date="" selected="false" d_sy_id="d_v-697" seq_nr="4" form="afspelen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="150927" c_lu_id="d_v-7873"/>
+
+<cid name="attila" d_sy_id="d_v-2332" selected="false" form="afspelen" seq_nr="4" pos="VERB" status="manual" c_lu_id="d_v-7873" cid_id="165326"/>
+
+<cid name="piek" d_seq_nr="-1" d_lu_id="" c_sy_id="d_n-25234" date="" selected="true" d_sy_id="d_n-25234" seq_nr="2" form="besluit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="156882" c_lu_id="r_n-6866"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_n-27372" c_sy_id="d_n-21922" date="" selected="true" d_sy_id="d_n-21922" seq_nr="3" form="besluit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="84315" c_lu_id="d_n-27372"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="achterstand" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546820" cid_id="166190"/>
+
+<cid name="attila" d_sy_id="d_n-21161" selected="true" form="achterstand" seq_nr="2" pos="NOUN" status="manual" c_lu_id="c_546820" cid_id="166191"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-4181" c_sy_id="d_n-15544" date="" selected="true" d_sy_id="d_n-15544" seq_nr="1" form="achterstand" r_lu_id="n-2633" r_seq_nr="1" score="64.25" status="BM-90" pos="NOUN" cid_id="1951" c_lu_id="r_n-2633"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-294154" c_sy_id="d_n-35378" date="" selected="false" d_sy_id="" seq_nr="2" form="transformatie" r_lu_id="n-38286" r_seq_nr="2" score="78.8" status="manual" pos="NOUN" cid_id="48734" c_lu_id="r_n-38286"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-294153" c_sy_id="d_n-31373" date="" selected="false" d_sy_id="" seq_nr="1" form="transformatie" r_lu_id="n-38285" r_seq_nr="1" score="83.1" status="manual" pos="NOUN" cid_id="48732" c_lu_id="r_n-38285"/>
+
+<cid name="attila" d_sy_id="d_n-35378" selected="false" form="transformatie" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-38285" cid_id="166192"/>
+
+<cid name="attila" d_sy_id="d_n-31373" selected="true" form="transformatie" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-38286" cid_id="166193"/>
+
+<cid name="hel" d_seq_nr="4" d_lu_id="d_n-294157" c_sy_id="d_n-42601" date="" selected="false" d_sy_id="d_n-42601" seq_nr="4" form="transformatie" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="124009" c_lu_id="d_n-294157"/>
+
+<cid name="attila" d_sy_id="c_1177" selected="false" form="transformatie" seq_nr="4" pos="NOUN" status="manual" c_lu_id="d_n-294157" cid_id="166195"/>
+
+<cid name="attila" d_sy_id="" selected="false" form="transformatie" seq_nr="5" pos="NOUN" status="manual" c_lu_id="c_546821" cid_id="166194"/>
+
+<cid name="attila" d_sy_id="c_1177" selected="true" form="transformatie" seq_nr="5" pos="NOUN" status="manual" c_lu_id="c_546821" cid_id="166196"/>
+
+<cid name="attila" d_sy_id="n_a-502777" selected="true" form="automatisch" seq_nr="3" pos="ADJ" status="manual" c_lu_id="d_a-15111" cid_id="165621"/>
+
+<cid name="hel" d_seq_nr="2" d_lu_id="d_n-15228" c_sy_id="d_n-22590" date="" selected="true" d_sy_id="d_n-22590" seq_nr="4" form="autoriteit" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="NOUN" cid_id="117580" c_lu_id="d_n-15228"/>
+
+<cid name="roxane" selected="false" d_sy_id="d_n-28204" seq_nr="1" form="gezagdrager" status="manual" pos="NOUN" c_lu_id="c_546287" cid_id="162722"/>
+
+<cid name="piek" d_sy_id="d_n-15742" selected="true" form="gezagsdrager" seq_nr="1" pos="NOUN" status="manual" c_lu_id="r_n-15035" cid_id="166198"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-407540" c_sy_id="d_n-21359" date="" selected="false" d_sy_id="d_n-21359" seq_nr="1" form="gezagsdragers" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="NOUN" cid_id="79718" c_lu_id="d_n-407540"/>
+
+<cid name="piek" d_sy_id="d_n-15742" selected="false" form="gezagsdragers" seq_nr="1" pos="NOUN" status="manual" c_lu_id="d_n-407540" cid_id="166199"/>
+
+<cid name="piek" d_sy_id="d_n-15742" selected="false" form="gezagdrager" seq_nr="1" pos="NOUN" status="manual" c_lu_id="c_546287" cid_id="166197"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-6032" date="" selected="true" d_sy_id="d_v-6032" seq_nr="2" form="rijden" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="160966" c_lu_id="r_v-6715"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-4107" date="" selected="true" d_sy_id="d_v-4107" seq_nr="1" form="maken" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="158493" c_lu_id="r_v-4523"/>
+
+<cid name="hel" d_seq_nr="7" d_lu_id="d_v-538581" c_sy_id="d_v-4856" date="" selected="true" d_sy_id="d_v-4856" seq_nr="5" form="ontspannen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="" pos="VERB" cid_id="141903" c_lu_id="d_v-538581"/>
+
+<cid name="attila" d_sy_id="d_v-3650" selected="false" form="kleuren" seq_nr="1" pos="VERB" status="manual" c_lu_id="r_v-3928" cid_id="165824"/>
+
+<cid name="hel" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-3651" date="" selected="false" d_sy_id="" seq_nr="2" form="kleuren" r_lu_id="v-3930" r_seq_nr="3" score="-1.0" status="manual" pos="VERB" cid_id="70157" c_lu_id="r_v-3930"/>
+
+<cid name="piek" d_sy_id="d_v-3650" selected="true" form="kleuren" seq_nr="2" pos="VERB" status="manual" c_lu_id="r_v-3930" cid_id="166200"/>
+
+<cid name="hel" d_seq_nr="1" d_lu_id="d_n-262648" c_sy_id="d_n-25245" date="" selected="false" d_sy_id="d_n-25245" seq_nr="1" form="smeltkroes" r_lu_id="n-34348" r_seq_nr="1" score="80.9" status="manual" pos="NOUN" cid_id="43429" c_lu_id="r_n-34348"/>
+
+<cid name="attila" d_sy_id="d_n-25245" selected="true" form="smeltkroes" seq_nr="2" pos="NOUN" status="manual" c_lu_id="r_n-34349" cid_id="166201"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-1225" date="" selected="true" d_sy_id="d_v-1225" seq_nr="3" form="beschouwen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="152230" c_lu_id="c_545410"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" c_sy_id="d_v-1168" date="" selected="true" d_sy_id="d_v-1168" seq_nr="1" form="beschouwen" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" pos="VERB" cid_id="152234" c_lu_id="r_v-1376"/>
+
+<cid r_lu_id="" status="manual" c_sy_id="d_v-3971" pos="VERB" d_lu_id="" form="lezen" name="hennie" seq_nr="2" cid_id="158338" c_lu_id="r_v-4379" score="-1.0" d_seq_nr="-1" selected="true" date="" r_seq_nr="-1" d_sy_id="d_v-3971"/>
+
+<cid form="figuur" d_sy_id="d_n-13205" date="" seq_nr="5" c_sy_id="d_n-13205" pos="NOUN" selected="false" r_seq_nr="-1" r_lu_id="" c_lu_id="r_n-13202" score="-1.0" status="manual" cid_id="152351" d_lu_id="" name="piek" d_seq_nr="-1"/>
+
+<cid form="figuur" d_sy_id="" seq_nr="9" pos="NOUN" selected="false" c_lu_id="c_546822" cid_id="166202" status="manual" name="attila"/>
+
+<cid form="figuur" d_sy_id="d_n-13205" seq_nr="9" pos="NOUN" selected="true" c_lu_id="c_546822" cid_id="166203" status="manual" name="attila"/>
+
+<cid form="figuur" d_sy_id="d_n-27675" seq_nr="5" pos="NOUN" selected="true" c_lu_id="r_n-13202" cid_id="166204" status="manual" name="attila"/>
+
+<cid pos="VERB" seq_nr="1" name="piek" form="blazen" d_sy_id="d_v-1549" c_lu_id="r_v-1734" status="manual" cid_id="166205" selected="true"/>
+
+<cid pos="VERB" seq_nr="1" name="piek" form="aanslepen" d_sy_id="c_1178" c_lu_id="r_v-223" status="manual" cid_id="166207" selected="true"/>
+
+<cid c_lu_id="r_v-224" cid_id="166206" d_sy_id="d_v-171" pos="VERB" selected="true" seq_nr="2" form="aanslepen" name="piek" status="manual"/>
+
+<cid c_lu_id="r_v-1734" cid_id="152823" date="" c_sy_id="c_226" d_sy_id="" pos="VERB" selected="false" seq_nr="1" form="blazen" d_lu_id="" name="hennie" r_lu_id="" status="manual" d_seq_nr="-1" score="-1.0" r_seq_nr="-1"/>
+
+<cid score="-1.0" status="manual" d_sy_id="d_v-2617" cid_id="153394" r_seq_nr="-1" d_lu_id="" d_seq_nr="-1" date="" r_lu_id="" pos="VERB" selected="true" c_lu_id="c_545489" name="hennie" seq_nr="6" c_sy_id="d_v-2617" form="dienen"/>
+
+<cid score="-1.0" status="manual" d_sy_id="d_v-2004" cid_id="153386" r_seq_nr="-1" d_lu_id="" d_seq_nr="-1" date="" r_lu_id="" pos="VERB" selected="true" c_lu_id="r_v-2241" name="hennie" seq_nr="4" c_sy_id="d_v-2004" form="dienen"/>
+
+<cid score="-1.0" seq_nr="6" selected="true" d_sy_id="d_v-1401" name="hennie" form="doen" pos="VERB" status="manual" r_seq_nr="-1" r_lu_id="" cid_id="153871" c_lu_id="r_v-2280" date="" c_sy_id="d_v-1401" d_seq_nr="-1" d_lu_id=""/>
+
+<cid d_sy_id="" status="manual" name="piek" cid_id="166208" form="draaien" seq_nr="14" pos="VERB" c_lu_id="c_546823" selected="false"/>
+
+<cid d_sy_id="d_v-2621" status="manual" name="piek" cid_id="166209" form="draaien" seq_nr="14" pos="VERB" c_lu_id="c_546823" selected="true"/>
+
+<cid date="" seq_nr="5" status="manual" d_sy_id="d_v-4724" d_lu_id="" pos="VERB" r_seq_nr="-1" form="dragen" r_lu_id="" cid_id="160615" name="hennie" score="-1.0" selected="true" c_sy_id="d_v-4724" d_seq_nr="-1" c_lu_id="r_v-2508"/>
+
+<cid score="-1.0" status="manual" date="" cid_id="160628" selected="true" c_sy_id="d_v-9118" d_sy_id="d_v-9118" form="drijven" c_lu_id="c_546083" d_seq_nr="-1" r_seq_nr="-1" seq_nr="6" d_lu_id="" r_lu_id="" pos="VERB" name="hennie"/>
+
+<cid c_sy_id="d_v-2818" date="" selected="true" seq_nr="3" r_lu_id="" c_lu_id="c_545596" r_seq_nr="-1" status="manual" d_lu_id="" score="-1.0" d_seq_nr="-1" form="groeien" pos="VERB" d_sy_id="d_v-2818" cid_id="154934" name="hennie"/>
+
+<cid c_sy_id="d_v-8097" date="" selected="true" seq_nr="1" r_lu_id="" c_lu_id="r_v-3040" r_seq_nr="-1" status="manual" d_lu_id="" score="-1.0" d_seq_nr="-1" form="groeien" pos="VERB" d_sy_id="d_v-8097" cid_id="154937" name="hennie"/>
+
+<cid status="manual" pos="VERB" d_sy_id="d_v-2848" c_lu_id="r_v-3076" score="-1.0" name="hennie" d_lu_id="" selected="true" cid_id="154949" d_seq_nr="-1" date="" seq_nr="1" r_lu_id="" r_seq_nr="-1" c_sy_id="d_v-2848" form="halen"/>
+
+<cid status="manual" pos="VERB" d_sy_id="d_v-2849" c_lu_id="r_v-3080" score="-1.0" name="hennie" d_lu_id="" selected="false" cid_id="154960" d_seq_nr="-1" date="" seq_nr="5" r_lu_id="" r_seq_nr="-1" c_sy_id="" form="halen"/>
+
+<cid pos="VERB" status="manual" d_sy_id="d_v-1187" c_lu_id="r_v-3080" name="attila" selected="true" cid_id="165048" seq_nr="5" form="halen"/>
+
+<cid pos="VERB" seq_nr="4" c_sy_id="d_v-3182" r_lu_id="" d_seq_nr="5" form="inspringen" c_lu_id="d_v-123015" name="hel" status="manual" d_sy_id="d_v-3182" date="" d_lu_id="d_v-123015" r_seq_nr="-1" cid_id="83274" score="-1.0" selected="false"/>
+
+<cid pos="VERB" seq_nr="3" form="inspringen" c_lu_id="r_v-3578" name="piek" status="manual" d_sy_id="c_821" cid_id="163332" selected="false"/>
+
+<cid pos="VERB" seq_nr="3" form="inspringen" c_lu_id="r_v-3578" name="attila" d_sy_id="d_v-3182" status="manual" cid_id="166210" selected="false"/>
+
+<cid pos="VERB" seq_nr="4" form="inspringen" c_lu_id="d_v-123015" name="attila" d_sy_id="c_821" status="manual" cid_id="166211" selected="true"/>
+
+<cid seq_nr="5" name="hennie" d_lu_id="" score="-1.0" selected="true" form="ingaan" r_seq_nr="-1" status="manual" d_sy_id="d_v-1285" cid_id="156397" c_sy_id="d_v-1285" c_lu_id="c_545732" r_lu_id="" d_seq_nr="-1" date="" pos="VERB"/>
+
+<cid score="-1.0" d_lu_id="" date="" selected="true" d_sy_id="d_v-1066" c_lu_id="c_545735" status="manual" cid_id="156412" form="inhouden" name="hennie" seq_nr="4" r_lu_id="" d_seq_nr="-1" c_sy_id="d_v-1066" pos="VERB" r_seq_nr="-1"/>
+
+<cid c_sy_id="d_n-25334" d_sy_id="d_n-25334" d_seq_nr="4" date="" d_lu_id="d_n-266913" cid_id="86209" r_seq_nr="-1" c_lu_id="d_n-266913" seq_nr="3" r_lu_id="" score="-1.0" form="spin" name="hel" selected="true" pos="NOUN" status=""/>
+
+<cid c_sy_id="n_n-528564" d_sy_id="n_n-528564" d_seq_nr="5" date="" d_lu_id="d_n-266914" cid_id="95289" r_seq_nr="-1" c_lu_id="d_n-266914" seq_nr="4" r_lu_id="" score="-1.0" form="spin" name="hel" selected="true" pos="NOUN" status=""/>
+
+<cid c_sy_id="d_n-14099" d_sy_id="d_n-14099" d_seq_nr="2" date="" d_lu_id="d_n-266908" cid_id="137538" r_seq_nr="-1" c_lu_id="d_n-266908" seq_nr="5" r_lu_id="" score="-1.0" form="spin" name="hel" selected="true" pos="NOUN" status=""/>
+
+<cid status="manual" cid_id="157545" date="" d_sy_id="d_v-3751" r_lu_id="" c_lu_id="c_545797" score="-1.0" seq_nr="10" d_lu_id="" c_sy_id="d_v-3751" pos="VERB" r_seq_nr="-1" selected="true" form="komen" name="hennie" d_seq_nr="-1"/>
+
+<cid status="manual" cid_id="157533" date="" d_sy_id="d_v-3601" r_lu_id="" c_lu_id="r_v-4070" score="-1.0" seq_nr="5" d_lu_id="" c_sy_id="d_v-3601" pos="VERB" r_seq_nr="-1" selected="true" form="komen" name="hennie" d_seq_nr="-1"/>
+
+<cid date="" selected="true" status="manual" d_lu_id="" pos="VERB" r_lu_id="" d_sy_id="d_v-3797" cid_id="158130" form="krijgen" score="-1.0" name="hennie" d_seq_nr="-1" seq_nr="4" r_seq_nr="-1" c_lu_id="r_v-4157" c_sy_id="d_v-3797"/>
+
+<cid date="" selected="true" status="manual" d_lu_id="" pos="VERB" r_lu_id="" d_sy_id="d_v-3796" cid_id="158129" form="krijgen" score="-1.0" name="hennie" d_seq_nr="-1" seq_nr="2" r_seq_nr="-1" c_lu_id="r_v-4155" c_sy_id="d_v-3796"/>
+
+<cid d_seq_nr="-1" seq_nr="1" pos="VERB" c_lu_id="r_v-4154" status="manual" cid_id="158128" name="hennie" form="krijgen" score="-1.0" c_sy_id="d_v-3795" r_lu_id="" d_sy_id="d_v-3795" d_lu_id="" r_seq_nr="-1" date="" selected="true"/>
+
+<cid d_seq_nr="-1" seq_nr="3" pos="VERB" c_lu_id="r_v-4156" status="manual" cid_id="158135" name="hennie" form="krijgen" score="-1.0" c_sy_id="c_595" r_lu_id="" d_sy_id="c_595" d_lu_id="" r_seq_nr="-1" date="" selected="true"/>
+
+<cid name="hennie" d_seq_nr="-1" status="manual" d_lu_id="" date="" pos="VERB" cid_id="158142" c_sy_id="d_v-3845" score="-1.0" seq_nr="4" form="kunnen" r_lu_id="" r_seq_nr="-1" selected="true" d_sy_id="d_v-3845" c_lu_id="r_v-10418"/>
+
+<cid name="hel" d_seq_nr="-1" status="manual" d_lu_id="" date="" pos="VERB" cid_id="r_v-4763" c_sy_id="d_v-3845" score="-1.0" seq_nr="3" form="mogen" r_lu_id="" r_seq_nr="-1" selected="false" d_sy_id="" c_lu_id="r_v-4763"/>
+
+<cid name="hennie" d_seq_nr="-1" status="manual" d_lu_id="" date="" pos="VERB" cid_id="158706" c_sy_id="" score="-1.0" seq_nr="3" form="mogen" r_lu_id="" r_seq_nr="-1" selected="false" d_sy_id="d_v-3845" c_lu_id="r_v-4763"/>
+
+<cid name="piek" status="manual" pos="VERB" cid_id="166212" form="mogen" seq_nr="3" d_sy_id="d_v-3843" c_lu_id="r_v-4763" selected="false"/>
+
+<cid name="hennie" d_seq_nr="-1" d_lu_id="" status="manual" date="" pos="VERB" cid_id="158144" c_sy_id="d_v-3843" score="-1.0" seq_nr="2" form="kunnen" r_lu_id="" r_seq_nr="-1" selected="true" d_sy_id="d_v-3843" c_lu_id="r_v-4218"/>
+
+<cid r_lu_id="" pos="VERB" selected="true" cid_id="84397" c_lu_id="d_v-544532" d_lu_id="d_v-544532" r_seq_nr="-1" d_sy_id="d_v-3880" score="-1.0" name="hel" date="" d_seq_nr="5" form="laden" c_sy_id="d_v-3880" seq_nr="4" status=""/>
+
+<cid r_lu_id="" pos="VERB" selected="true" cid_id="158184" c_lu_id="r_v-4301" d_lu_id="" r_seq_nr="-1" score="-1.0" d_sy_id="d_v-7164" name="hennie" date="" d_seq_nr="-1" form="laten" status="manual" seq_nr="8" c_sy_id="d_v-7164"/>
+
+<cid c_sy_id="d_v-3905" cid_id="158186" r_seq_nr="-1" selected="true" c_lu_id="r_v-4296" d_lu_id="" d_seq_nr="-1" form="laten" r_lu_id="" score="-1.0" seq_nr="3" pos="VERB" status="manual" name="hennie" date="" d_sy_id="d_v-3905"/>
+
+<cid c_sy_id="d_v-5462" r_seq_nr="-1" cid_id="158191" selected="true" c_lu_id="c_545876" d_lu_id="" d_seq_nr="-1" form="laten" r_lu_id="" score="-1.0" seq_nr="10" pos="VERB" status="manual" name="hennie" date="" d_sy_id="d_v-5462"/>
+
+<cid seq_nr="4" score="-1.0" c_sy_id="d_v-3941" d_seq_nr="-1" r_lu_id="" cid_id="158197" d_lu_id="" form="leggen" r_seq_nr="-1" selected="true" d_sy_id="d_v-3941" date="" name="hennie" c_lu_id="r_v-4337" status="manual" pos="VERB"/>
+
+<cid name="hennie" date="" pos="VERB" seq_nr="2" d_lu_id="" selected="true" c_sy_id="d_v-3985" status="manual" r_seq_nr="-1" d_seq_nr="-1" d_sy_id="d_v-3985" c_lu_id="r_v-4390" score="-1.0" form="liggen" r_lu_id="" cid_id="158372"/>
+
+<cid name="hennie" date="" seq_nr="3" r_lu_id="" d_sy_id="d_v-196" score="-1.0" status="manual" selected="true" pos="VERB" c_sy_id="d_v-196" form="maken" cid_id="158495" d_seq_nr="-1" c_lu_id="r_v-4525" d_lu_id="" r_seq_nr="-1"/>
+
+<cid status="manual" selected="false" c_lu_id="r_v-826" score="91.6" name="hel" pos="VERB" cid_id="2724" d_lu_id="d_v-8182" form="afstrijken" d_sy_id="" d_seq_nr="1" seq_nr="4" date="" c_sy_id="d_v-752" r_lu_id="v-826" r_seq_nr="4"/>
+
+<cid c_lu_id="r_v-823" selected="true" status="manual" name="piek" cid_id="166213" pos="VERB" form="afstrijken" d_sy_id="d_v-752" seq_nr="1"/>
+
+<cid name="hennie" form="moeten" c_lu_id="r_v-4754" d_seq_nr="-1" d_lu_id="" selected="true" score="-1.0" r_lu_id="" pos="VERB" r_seq_nr="-1" status="manual" date="" seq_nr="5" d_sy_id="c_614" cid_id="158699" c_sy_id="c_614"/>
+
+<cid d_sy_id="" r_lu_id="" status="" d_lu_id="" cid_id="c_545939" name="hel" date="" d_seq_nr="-1" c_sy_id="d_v-4095" pos="VERB" seq_nr="4" r_seq_nr="-1" selected="true" c_lu_id="c_545939" score="-1.0" form="mogen"/>
+
+<cid d_sy_id="d_v-4095" r_lu_id="" status="manual" d_lu_id="" cid_id="158705" name="hennie" date="" d_seq_nr="-1" c_sy_id="" pos="VERB" seq_nr="4" r_seq_nr="-1" selected="true" c_lu_id="c_545939" score="-1.0" form="mogen"/>
+
+<cid c_sy_id="d_v-4303" form="monteren" c_lu_id="d_v-175390" seq_nr="3" d_lu_id="d_v-175390" d_sy_id="d_v-4303" status="" d_seq_nr="3" r_lu_id="" date="" selected="true" pos="VERB" cid_id="85284" r_seq_nr="-1" score="-1.0" name="hel"/>
+
+<cid d_seq_nr="2" selected="false" cid_id="82119" r_lu_id="" d_sy_id="n_n-502865" form="bêta" name="hel" seq_nr="1" d_lu_id="d_n-540111" c_sy_id="n_n-502865" score="-1.0" pos="NOUN" date="" c_lu_id="d_n-540111" r_seq_nr="-1" status="manual"/>
+
+<cid d_seq_nr="1" selected="false" cid_id="139612" r_lu_id="" d_sy_id="d_n-26985" form="bêta" name="hel" seq_nr="3" d_lu_id="d_n-540110" c_sy_id="d_n-26985" score="-1.0" pos="NOUN" date="" c_lu_id="d_n-540110" r_seq_nr="-1" status="manual"/>
+
+<cid d_seq_nr="3" selected="false" cid_id="100198" r_lu_id="" d_sy_id="d_n-43408" form="bêta" name="hel" seq_nr="2" d_lu_id="d_n-540113" c_sy_id="d_n-43408" score="-1.0" pos="NOUN" date="" c_lu_id="d_n-540113" r_seq_nr="-1" status="manual"/>
+
+<cid cid_id="166214" selected="false" d_sy_id="" form="bèta" name="piek" seq_nr="4" pos="NOUN" c_lu_id="c_546824" status="manual"/>
+
+<cid cid_id="166215" selected="true" d_sy_id="c_1179" form="bèta" name="piek" seq_nr="4" pos="NOUN" c_lu_id="c_546824" status="manual"/>
+
+<cid seq_nr="1" c_lu_id="c_546401" form="rivierbeheer" pos="NOUN" status="manual" selected="true" cid_id="163576" name="mplattel" d_sy_id=""/>
+
+<cid name="mplattel" seq_nr="1" form="zeevogelfamilie" cid_id="163569" pos="NOUN" c_lu_id="c_546443" status="manual" selected="true" d_sy_id=""/>
+
+<cid c_lu_id="c_546571" selected="true" form="opmaak" seq_nr="3" status="manual" name="piek" d_sy_id="c_348" cid_id="166216" pos="NOUN"/>
+
+<cid selected="false" c_lu_id="c_546571" form="opmaak" seq_nr="3" status="manual" name="attila" d_sy_id="" pos="NOUN" cid_id="164162"/>
+
+<cid name="piek" pos="VERB" d_sy_id="c_1180" seq_nr="1" form="communiceren" selected="true" c_lu_id="r_v-1986" cid_id="166217" status="manual"/>
+
+<cid d_seq_nr="1" r_seq_nr="2" name="hel" pos="VERB" score="91.6" date="" d_sy_id="d_v-1786" seq_nr="2" r_lu_id="v-1987" c_sy_id="d_v-1786" form="communiceren" selected="false" status="manual" d_lu_id="d_v-49874" cid_id="9617" c_lu_id="r_v-1987"/>
+
+<cid name="piek" pos="VERB" d_sy_id="d_v-1786" seq_nr="3" form="communiceren" selected="true" c_lu_id="r_v-1988" cid_id="166218" status="manual"/>
+
+<cid name="piek" pos="VERB" d_sy_id="c_1181" seq_nr="2" form="communiceren" selected="true" c_lu_id="r_v-1987" cid_id="166219" status="manual"/>
+
+<cid name="laura" selected="false" cid_id="163589" status="manual" d_sy_id="c_938" c_lu_id="r_n-39127" seq_nr="1" pos="NOUN" form="uitstoot"/>
+
+<cid name="piek" selected="false" cid_id="166220" status="manual" d_sy_id="" c_lu_id="c_546825" seq_nr="3" pos="NOUN" form="uitstoot"/>
+
+<cid name="piek" selected="true" cid_id="166221" status="manual" d_sy_id="c_938" c_lu_id="c_546825" seq_nr="3" pos="NOUN" form="uitstoot"/>
+
+<cid name="piek" selected="true" cid_id="166222" status="manual" d_sy_id="d_n-24199" c_lu_id="r_n-39128" seq_nr="2" pos="NOUN" form="uitstoot"/>
+
+<cid name="laura" seq_nr="1" selected="true" form="fabriek" c_lu_id="r_n-12920" status="manual" d_sy_id="" pos="NOUN" cid_id="163588"/>
+
+<cid seq_nr="1" pos="NOUN" form="onttrekking" selected="true" cid_id="166223" status="manual" c_lu_id="r_n-26258" name="piek" d_sy_id="c_1182"/>
+
+<cid seq_nr="2" pos="NOUN" form="onttrekking" selected="true" cid_id="166224" status="manual" c_lu_id="r_n-26259" name="piek" d_sy_id="c_1183"/>
+
+<cid seq_nr="1" pos="NOUN" form="drinkwater" selected="true" status="manual" cid_id="163574" c_lu_id="r_n-11588" name="mplattel" d_sy_id=""/>
+
+<cid d_seq_nr="2" c_lu_id="d_n-89498" name="hel" pos="NOUN" cid_id="97946" d_lu_id="d_n-89498" form="geluiddemper" score="-1.0" date="" selected="true" r_seq_nr="-1" seq_nr="1" c_sy_id="d_n-33763" status="" d_sy_id="d_n-33763" r_lu_id=""/>
+
+<cid d_seq_nr="-1" c_lu_id="r_n-39955" name="agata" pos="NOUN" cid_id="158536" d_lu_id="" form="verdichting" score="-1.0" date="" selected="true" r_seq_nr="-1" seq_nr="2" c_sy_id="d_n-31637" status="manual" d_sy_id="d_n-31637" r_lu_id=""/>
+
+<cid d_seq_nr="1" name="hel" pos="NOUN" form="verdichting" score="80.9" c_sy_id="n_n-532323" status="D-75" d_lu_id="d_n-308157" r_lu_id="n-39954" cid_id="51332" date="" d_sy_id="n_n-532323" c_lu_id="r_n-39954" selected="true" r_seq_nr="1" seq_nr="1"/>
+
+<cid form="staaf" c_lu_id="c_546826" selected="false" seq_nr="2" pos="NOUN" d_sy_id="" cid_id="166225" name="piek" status="manual"/>
+
+<cid form="staaf" c_lu_id="c_546826" selected="true" seq_nr="2" pos="NOUN" d_sy_id="c_1184" cid_id="166226" name="piek" status="manual"/>
+
+<cid d_sy_id="" cid_id="166227" status="manual" c_lu_id="c_546827" form="blinde vlek" selected="false" seq_nr="1" pos="NOUN" name="piek"/>
+
+<cid d_sy_id="c_1185" cid_id="166229" status="manual" c_lu_id="c_546827" form="blinde vlek" selected="true" seq_nr="1" pos="NOUN" name="piek"/>
+
+<cid d_sy_id="" cid_id="166228" status="manual" c_lu_id="c_546828" form="blinde vlek" selected="false" seq_nr="2" pos="NOUN" name="piek"/>
+
+<cid d_sy_id="c_1186" cid_id="166230" status="manual" c_lu_id="c_546828" form="blinde vlek" selected="true" seq_nr="2" pos="NOUN" name="piek"/>
+
+<cid status="D-75" d_seq_nr="1" date="" selected="true" cid_id="10638" seq_nr="1" name="hel" form="data" c_sy_id="d_n-38853" score="33.9" d_lu_id="d_n-403567" r_lu_id="n-10442" r_seq_nr="1" c_lu_id="r_n-10442" d_sy_id="" pos="NOUN"/>
+
+<cid status="manual" cid_id="166231" selected="false" seq_nr="1" name="piek" form="drumstok" c_lu_id="c_546829" d_sy_id="" pos="NOUN"/>
+
+<cid status="manual" cid_id="166232" selected="true" seq_nr="1" name="piek" form="drumstok" c_lu_id="c_546829" d_sy_id="c_1187" pos="NOUN"/>
+
+<cid name="piek" d_sy_id="" c_lu_id="c_546830" cid_id="166233" form="bankpas:" seq_nr="1" pos="NOUN" selected="true" status="manual"/>
+
+<cid name="piek" selected="false" form="bankpas" pos="NOUN" d_sy_id="" seq_nr="1" c_lu_id="c_546831" status="manual" cid_id="166234"/>
+
+<cid name="piek" selected="true" form="bankpas" pos="NOUN" d_sy_id="c_1188" seq_nr="1" c_lu_id="c_546831" status="manual" cid_id="166235"/>
+
+<cid form="schilder" name="attila" selected="false" c_lu_id="r_n-33004" d_sy_id="c_1012" pos="NOUN" seq_nr="2" status="manual" cid_id="163954"/>
+
+<cid d_seq_nr="1" c_sy_id="d_n-41905" form="schilder" score="79.95" name="hel" selected="false" r_seq_nr="1" c_lu_id="r_n-33003" d_sy_id="d_n-41905" pos="NOUN" date="" seq_nr="1" d_lu_id="d_n-253675" status="manual" r_lu_id="n-33003" cid_id="41636"/>
+
+<cid form="schilder" name="piek" selected="false" c_lu_id="r_n-33003" d_sy_id="c_1012" pos="NOUN" seq_nr="1" status="manual" cid_id="166236"/>
+
+<cid form="schilder" name="piek" selected="true" c_lu_id="r_n-33004" d_sy_id="d_n-41905" pos="NOUN" seq_nr="2" status="manual" cid_id="166237"/>
+
+<cid selected="true" status="manual" d_sy_id="d_v-6920" form="surfen" seq_nr="1" name="piek" c_lu_id="r_v-7682" cid_id="166238" pos="VERB"/>
+
+<cid selected="true" status="manual" d_sy_id="c_1189" form="surfen" seq_nr="2" name="piek" c_lu_id="r_v-7683" cid_id="166239" pos="VERB"/>
+
+<cid selected="true" status="manual" d_sy_id="c_1190" form="surfen" seq_nr="3" name="piek" c_lu_id="r_v-7684" cid_id="166240" pos="VERB"/>
+
+<cid selected="true" form="kunstwol" seq_nr="1" c_sy_id="d_n-34712" d_seq_nr="2" name="hel" d_lu_id="d_n-144913" r_seq_nr="-1" status="" date="" pos="NOUN" cid_id="142228" c_lu_id="d_n-144913" score="-1.0" d_sy_id="d_n-34712" r_lu_id=""/>
+
+<cid pos="VERB" name="piek" seq_nr="5" status="manual" c_lu_id="r_v-5590" cid_id="166241" selected="true" d_sy_id="d_v-5071" form="ophebben"/>
+
+<cid pos="VERB" name="piek" seq_nr="1" status="manual" c_lu_id="r_v-5586" cid_id="166242" selected="true" d_sy_id="d_v-5072" form="ophebben"/>
+
+<cid c_lu_id="r_v-5587" form="ophebben" status="manual" name="piek" cid_id="166243" d_sy_id="d_v-2690" pos="VERB" selected="true" seq_nr="2"/>
+
+<cid c_lu_id="r_v-5588" form="ophebben" status="manual" name="piek" cid_id="166244" d_sy_id="d_v-3021" pos="VERB" selected="true" seq_nr="3"/>
+
+<cid status="manual" c_lu_id="r_v-6964" cid_id="166245" form="scharrelen" pos="VERB" selected="true" d_sy_id="d_v-6269" seq_nr="1" name="piek"/>
+
+<cid score="-1.0" d_seq_nr="-1" d_lu_id="" r_lu_id="" date="" selected="true" name="hennie" status="manual" c_sy_id="d_v-1122" pos="VERB" r_seq_nr="-1" cid_id="161212" d_sy_id="d_v-1122" form="opnemen" c_lu_id="r_v-5696" seq_nr="11"/>
+
+<cid score="-1.0" d_seq_nr="-1" d_lu_id="" r_lu_id="" name="hennie" date="" selected="true" status="manual" c_sy_id="d_v-5166" pos="VERB" r_seq_nr="-1" cid_id="161096" d_sy_id="d_v-5166" seq_nr="8" form="opnemen" c_lu_id="r_v-5693"/>
+
+<cid status="manual" date="" d_lu_id="" c_lu_id="r_v-8667" d_seq_nr="-1" d_sy_id="d_v-7724" pos="VERB" cid_id="160593" c_sy_id="d_v-7724" r_lu_id="" r_seq_nr="-1" score="-1.0" selected="true" form="vallen" name="piek" seq_nr="2"/>
+
+<cid d_lu_id="" c_lu_id="r_v-7111" date="" r_seq_nr="-1" score="-1.0" selected="true" status="manual" cid_id="161650" d_seq_nr="-1" r_lu_id="" d_sy_id="d_v-6398" name="hennie" seq_nr="3" c_sy_id="d_v-6398" form="schuiven" pos="VERB"/>
+
+<cid d_sy_id="d_v-6676" seq_nr="5" r_seq_nr="-1" name="hennie" date="" status="manual" d_lu_id="" selected="true" cid_id="161470" c_lu_id="c_546196" score="-1.0" d_seq_nr="-1" form="springen" r_lu_id="" pos="VERB" c_sy_id="d_v-6676"/>
+
+<cid d_sy_id="d_v-5424" seq_nr="2" name="piek" selected="true" status="manual" cid_id="166246" c_lu_id="r_v-6084" form="overstappen" pos="VERB"/>
+
+<cid d_sy_id="c_1191" seq_nr="3" name="piek" selected="true" status="manual" cid_id="166247" c_lu_id="r_v-6085" form="overstappen" pos="VERB"/>
+
+<cid name="hel" d_sy_id="d_v-6723" cid_id="134229" form="starten" status="" d_lu_id="d_v-270995" date="" selected="true" seq_nr="4" r_lu_id="" pos="VERB" c_lu_id="d_v-270995" d_seq_nr="3" score="-1.0" c_sy_id="d_v-6723" r_seq_nr="-1"/>
+
+<cid name="piek" d_sy_id="d_v-1047" cid_id="164307" form="starten" status="manual" selected="false" seq_nr="1" pos="VERB" c_lu_id="r_v-7460"/>
+
+<cid name="hel" d_sy_id="" cid_id="73830" form="starten" status="manual" d_lu_id="" date="" selected="false" seq_nr="1" r_lu_id="v-7460" pos="VERB" c_lu_id="r_v-7460" d_seq_nr="-1" score="-1.0" c_sy_id="d_v-6724" r_seq_nr="1"/>
+
+<cid c_lu_id="c_546194" date="" seq_nr="3" status="manual" cid_id="161453" r_seq_nr="-1" d_seq_nr="-1" c_sy_id="d_v-3802" r_lu_id="" d_sy_id="d_v-3802" score="-1.0" form="sterven" name="hennie" d_lu_id="" selected="true" pos="VERB"/>
+
+<cid c_lu_id="r_v-7494" date="" seq_nr="1" status="manual" r_seq_nr="1" cid_id="63750" d_seq_nr="-1" c_sy_id="d_v-8319" r_lu_id="v-7494" d_sy_id="" score="-1.0" form="steunen" name="roxane" d_lu_id="" selected="false" pos="VERB"/>
+
+<cid c_lu_id="r_v-7494" seq_nr="1" status="manual" cid_id="162386" comment="" d_sy_id="d_v-6905" form="steunen" name="roxane" selected="true" pos="VERB"/>
+
+<cid c_lu_id="r_v-7494" seq_nr="1" status="manual" cid_id="162379" comment="" d_sy_id="d_v-6905" form="steunen" name="roxane" selected="false" pos="VERB"/>
+
+<cid c_lu_id="r_v-7494" seq_nr="1" status="manual" cid_id="162378" comment="" d_sy_id="d_v-6905" form="steunen" name="roxane" selected="false" pos="VERB"/>
+
+<cid c_lu_id="d_v-420833" date="" seq_nr="6" status="manual" r_seq_nr="-1" cid_id="125189" d_seq_nr="6" c_sy_id="d_v-1211" r_lu_id="" d_sy_id="d_v-1211" score="-1.0" form="steunen" name="roxane" d_lu_id="d_v-420833" selected="false" pos="VERB"/>
+
+<cid c_lu_id="d_v-420833" seq_nr="6" status="manual" cid_id="162385" comment="" d_sy_id="d_v-1211" form="steunen" name="roxane" selected="true" pos="VERB"/>
+
+<cid c_lu_id="r_v-7495" form="steunen" d_sy_id="c_778" name="roxane" seq_nr="2" status="manual" comment="" cid_id="162387" selected="true" pos="VERB"/>
+
+<cid c_lu_id="r_v-7495" form="steunen" d_sy_id="c_778" name="roxane" seq_nr="2" status="manual" cid_id="162384" selected="false" pos="VERB"/>
+
+<cid score="64.6" date="" d_seq_nr="5" c_lu_id="r_v-7495" r_seq_nr="2" c_sy_id="d_v-6905" r_lu_id="v-7495" form="steunen" d_sy_id="" name="hel" d_lu_id="d_v-272821" seq_nr="2" status="manual" cid_id="45482" selected="false" pos="VERB"/>
+
+<cid c_lu_id="d_v-272820" form="steunen" name="roxane" d_sy_id="d_v-8319" status="manual" seq_nr="4" comment="" selected="true" pos="VERB" cid_id="162388"/>
+
+<cid c_lu_id="d_v-272820" form="steunen" name="roxane" d_sy_id="d_v-8319" status="manual" seq_nr="4" comment="" selected="false" pos="VERB" cid_id="162382"/>
+
+<cid score="-1.0" date="" d_seq_nr="4" c_sy_id="d_v-6759" r_seq_nr="-1" c_lu_id="d_v-272820" r_lu_id="" form="steunen" name="roxane" d_lu_id="d_v-272820" d_sy_id="" status="manual" seq_nr="4" selected="false" pos="VERB" cid_id="120006"/>
+
+<cid status="manual" d_seq_nr="-1" name="hennie" selected="true" c_lu_id="r_v-7663" r_seq_nr="-1" r_lu_id="" d_lu_id="" score="-1.0" date="" d_sy_id="d_v-6902" cid_id="160997" seq_nr="2" c_sy_id="d_v-6902" form="sturen" pos="VERB"/>
+
+<cid d_seq_nr="-1" status="manual" name="hennie" selected="false" c_lu_id="c_546144" r_seq_nr="-1" r_lu_id="" d_lu_id="" date="" d_sy_id="d_v-1294" score="-1.0" cid_id="161004" c_sy_id="d_v-1294" seq_nr="5" form="sturen" pos="VERB"/>
+
+<cid status="manual" name="attila" selected="false" c_lu_id="c_546144" d_sy_id="d_v-1293" cid_id="165057" form="sturen" seq_nr="5" pos="VERB"/>
+
+<cid status="manual" d_seq_nr="-1" name="hennie" selected="true" c_lu_id="c_546143" r_seq_nr="-1" r_lu_id="" d_lu_id="" score="-1.0" date="" d_sy_id="d_v-6901" cid_id="161001" seq_nr="4" c_sy_id="d_v-6901" form="sturen" pos="VERB"/>
+
+<cid c_lu_id="r_v-847" date="" d_seq_nr="2" score="91.6" r_lu_id="v-847" d_sy_id="d_v-7462" cid_id="2760" d_lu_id="d_v-8295" r_seq_nr="6" name="hel" c_sy_id="d_v-7462" form="aftekenen" status="manual" seq_nr="6" pos="VERB" selected="false"/>
+
+<cid c_lu_id="r_v-842" d_sy_id="d_v-7462" cid_id="166248" name="piek" form="aftekenen" seq_nr="1" pos="VERB" status="manual" selected="true"/>
+
+<cid c_lu_id="r_v-844" d_sy_id="d_v-4219" cid_id="166250" name="piek" form="aftekenen" seq_nr="3" pos="VERB" status="manual" selected="true"/>
+
+<cid c_lu_id="r_v-847" d_sy_id="c_1192" cid_id="166251" name="piek" form="aftekenen" seq_nr="6" pos="VERB" status="manual" selected="true"/>
+
+<cid d_sy_id="d_v-4632" form="aftekenen" seq_nr="2" pos="VERB" c_lu_id="r_v-843" cid_id="166252" status="manual" name="piek" selected="true"/>
+
+<cid d_sy_id="d_v-729" form="aftekenen" seq_nr="5" pos="VERB" c_lu_id="r_v-846" cid_id="166249" status="manual" name="piek" selected="false"/>
+
+<cid d_sy_id="c_1193" form="aftekenen" seq_nr="5" pos="VERB" c_lu_id="r_v-846" cid_id="166253" status="manual" name="piek" selected="false"/>
+
+<cid d_sy_id="c_1193" form="aftekenen" seq_nr="4" pos="VERB" c_lu_id="r_v-845" cid_id="166254" status="manual" name="piek" selected="true"/>
+
+<cid score="-1.0" d_seq_nr="3" form="uitleggen" date="" seq_nr="4" c_lu_id="d_v-301687" d_lu_id="d_v-301687" name="hel" pos="VERB" r_seq_nr="-1" status="" selected="true" r_lu_id="" c_sy_id="d_v-7599" d_sy_id="d_v-7599" cid_id="106987"/>
+
+<cid score="64.6" d_seq_nr="1" form="uitleggen" date="" seq_nr="1" c_lu_id="r_v-8370" d_lu_id="d_v-301685" name="hel" pos="VERB" r_seq_nr="1" status="D-58" selected="true" r_lu_id="v-8370" c_sy_id="d_v-7476" d_sy_id="d_v-7476" cid_id="49869"/>
+
+<cid name="attila" selected="true" form="uitvallen" pos="VERB" status="manual" cid_id="165074" d_sy_id="d_v-7642" seq_nr="5" c_lu_id="d_v-302917"/>
+
+<cid name="hel" selected="false" form="uitvallen" pos="VERB" r_lu_id="" r_seq_nr="-1" score="-1.0" status="manual" cid_id="79020" date="" d_seq_nr="1" d_lu_id="d_v-302917" d_sy_id="d_v-7642" seq_nr="5" c_sy_id="d_v-7642" c_lu_id="d_v-302917"/>
+
+<cid seq_nr="5" d_lu_id="d_v-307628" pos="VERB" name="hel" c_sy_id="d_v-7826" r_lu_id="" cid_id="125259" c_lu_id="d_v-307628" r_seq_nr="-1" score="-1.0" d_seq_nr="5" date="" d_sy_id="d_v-7826" status="" selected="true" form="verbinden"/>
+
+<cid c_lu_id="r_v-8796" r_lu_id="" form="verbinden" c_sy_id="d_v-7823" d_seq_nr="-1" d_sy_id="d_v-7823" selected="true" score="-1.0" name="piek" date="" status="manual" r_seq_nr="-1" cid_id="160604" d_lu_id="" pos="VERB" seq_nr="2"/>
+
+<cid d_sy_id="d_v-8034" r_lu_id="" r_seq_nr="-1" seq_nr="1" name="piek" d_lu_id="" form="verkopen" status="manual" d_seq_nr="-1" selected="true" score="-1.0" c_lu_id="r_v-9071" date="" pos="VERB" cid_id="160653" c_sy_id="d_v-8034"/>
+
+<cid name="hel" date="" pos="VERB" seq_nr="4" c_lu_id="d_v-311200" r_seq_nr="-1" d_lu_id="d_v-311200" d_sy_id="d_v-8091" r_lu_id="" status="" c_sy_id="d_v-8091" form="vermaken" cid_id="141147" d_seq_nr="1" selected="true" score="-1.0"/>
+
+<cid c_lu_id="r_v-9133" form="vermaken" selected="true" name="hel" pos="VERB" r_seq_nr="1" d_seq_nr="-1" r_lu_id="v-9133" d_lu_id="" seq_nr="1" d_sy_id="" c_sy_id="d_v-8094" score="-1.0" date="" status="RESUME-75" cid_id="75684"/>
+
+<cid selected="true" form="verspreiden" c_lu_id="r_v-9323" name="attila" pos="VERB" d_sy_id="d_v-8254" seq_nr="1" status="manual" cid_id="164773"/>
+
+<cid selected="true" form="verspreiden" c_lu_id="d_v-420744" name="attila" pos="VERB" d_sy_id="d_v-8255" seq_nr="3" status="manual" cid_id="164775"/>
+
+<cid selected="false" form="verspreiden" c_lu_id="d_v-420744" name="hel" d_seq_nr="2" r_seq_nr="-1" pos="VERB" r_lu_id="" d_lu_id="d_v-420744" c_sy_id="d_v-8255" d_sy_id="d_v-8255" seq_nr="3" score="-1.0" date="" status="manual" cid_id="79575"/>
+
+<cid selected="false" form="verspreiden" c_lu_id="r_v-9324" name="attila" pos="VERB" d_sy_id="d_v-8256" seq_nr="2" status="manual" cid_id="164774"/>
+
+<cid selected="false" form="verspreiden" c_lu_id="r_v-9324" name="attila" pos="VERB" d_sy_id="d_v-8255" seq_nr="2" status="manual" cid_id="164772"/>
+
+<cid seq_nr="4" status="manual" cid_id="164706" d_sy_id="d_v-8422" selected="true" pos="VERB" form="verzekeren" name="attila" c_lu_id="d_v-315320"/>
+
+<cid pos="VERB" seq_nr="3" status="manual" cid_id="164551" d_sy_id="d_v-7108" selected="true" name="attila" c_lu_id="d_v-319737" form="voldoen"/>
+
+<cid form="volgen" r_seq_nr="-1" seq_nr="6" selected="true" status="" d_seq_nr="6" date="" c_sy_id="d_v-8532" cid_id="98583" r_lu_id="" score="-1.0" name="hel" d_lu_id="d_v-319800" d_sy_id="d_v-8532" pos="VERB" c_lu_id="d_v-319800"/>
+
+<cid form="volgen" r_seq_nr="-1" seq_nr="7" selected="true" status="" d_seq_nr="7" date="" c_sy_id="d_v-4405" cid_id="107555" r_lu_id="" score="-1.0" name="hel" d_lu_id="d_v-319801" d_sy_id="d_v-4405" pos="VERB" c_lu_id="d_v-319801"/>
+
+<cid form="volgen" r_seq_nr="-1" seq_nr="8" selected="true" status="" d_seq_nr="5" date="" c_sy_id="d_v-8531" cid_id="141173" r_lu_id="" score="-1.0" name="hel" d_lu_id="d_v-319799" d_sy_id="d_v-8531" pos="VERB" c_lu_id="d_v-319799"/>
+
+<cid seq_nr="2" status="manual" form="niveau" name="attila" d_sy_id="d_n-11670" c_lu_id="c_546547" cid_id="164056" selected="true" pos="NOUN"/>
+
+<cid seq_nr="2" status="manual" form="niveau" name="attila" d_sy_id="" c_lu_id="c_546547" cid_id="164054" selected="false" pos="NOUN"/>
+
+<cid c_sy_id="d_n-40917" d_sy_id="d_n-40917" r_seq_nr="1" seq_nr="1" date="" pos="NOUN" c_lu_id="r_n-25104" score="64.25" d_lu_id="d_n-185056" r_lu_id="n-25104" status="BM-90" d_seq_nr="1" name="hel" form="niveau" cid_id="30505" selected="true"/>
+
+<cid d_sy_id="n_a-510560" name="emaks" selected="true" cid_id="165257" c_lu_id="r_a-11655" form="historisch" seq_nr="1" pos="ADJ" status="manual"/>
+
+<cid d_sy_id="n_a-512540" name="hel" r_lu_id="a-11655" score="33.9" selected="false" d_lu_id="d_a-109946" c_sy_id="n_a-512540" date="" r_seq_nr="1" cid_id="19728" c_lu_id="r_a-11655" form="historisch" d_seq_nr="1" seq_nr="1" status="manual" pos="ADJ"/>
+
+<cid d_sy_id="n_a-512540" name="emaks" selected="true" cid_id="165256" c_lu_id="c_546678" form="historisch" seq_nr="2" pos="ADJ" status="manual"/>
+
+<cid d_sy_id="" name="emaks" selected="false" cid_id="165253" c_lu_id="c_546678" form="historisch" seq_nr="2" pos="ADJ" status="manual"/>
+
+<cid d_sy_id="c_1126" name="emaks" selected="true" cid_id="165258" c_lu_id="c_546679" form="historisch" seq_nr="3" pos="ADJ" status="manual"/>
+
+<cid d_sy_id="" name="emaks" selected="false" cid_id="165254" c_lu_id="c_546679" form="historisch" seq_nr="3" pos="ADJ" status="manual"/>
+
+<cid seq_nr="3" c_lu_id="r_n-25316" selected="true" status="manual" cid_id="164219" name="attila" form="nota" pos="NOUN" d_sy_id="d_n-32353"/>
+
+<cid seq_nr="3" r_seq_nr="3" d_seq_nr="1" d_lu_id="d_n-185878" c_lu_id="r_n-25316" date="" selected="false" c_sy_id="d_n-30430" score="64.6" status="manual" cid_id="30700" name="hel" r_lu_id="n-25316" form="nota" pos="NOUN" d_sy_id="d_n-30430"/>
+
+<cid d_seq_nr="1" seq_nr="2" d_sy_id="" form="oppervlak" pos="NOUN" c_lu_id="r_n-26696" r_seq_nr="2" d_lu_id="d_n-200190" r_lu_id="n-26696" name="hel" status="B-95" selected="true" c_sy_id="d_n-41096" cid_id="33417" score="80.9" date=""/>
+
+<cid selected="false" r_lu_id="" d_lu_id="" c_sy_id="n_a-515188" d_seq_nr="-1" d_sy_id="" form="klein" c_lu_id="c_545312" name="emaks" seq_nr="4" cid_id="160244" date="" r_seq_nr="-1" score="-1.0" status="manual" pos="ADJ"/>
+
+<cid selected="false" r_lu_id="" d_lu_id="" c_sy_id="" d_seq_nr="-1" d_sy_id="" form="klein" c_lu_id="c_545312" name="emaks" seq_nr="4" cid_id="151432" score="-1.0" status="manual" date="" pos="ADJ" r_seq_nr="-1"/>
+
+<cid selected="true" d_sy_id="c_682" form="klein" c_lu_id="c_545312" name="attila" cid_id="166256" seq_nr="4" pos="ADJ" status="manual"/>
+
+<cid score="-1.0" seq_nr="1" d_sy_id="d_n-29082" c_lu_id="r_n-20997" status="manual" date="" c_sy_id="d_n-29082" r_lu_id="" d_lu_id="" selected="true" pos="NOUN" cid_id="154671" r_seq_nr="-1" name="piek" d_seq_nr="-1" form="kunst"/>
+
+<cid date="" form="kunst" pos="NOUN" status="" d_sy_id="d_n-23469" seq_nr="4" d_lu_id="d_n-144558" selected="true" r_seq_nr="-1" cid_id="102957" c_lu_id="d_n-144558" d_seq_nr="2" c_sy_id="d_n-23469" r_lu_id="" score="-1.0" name="hel"/>
+
+<cid date="" r_lu_id="" seq_nr="3" d_sy_id="d_n-24400" c_lu_id="r_n-27930" score="-1.0" cid_id="152749" r_seq_nr="-1" c_sy_id="d_n-24400" d_seq_nr="-1" pos="NOUN" name="piek" status="manual" d_lu_id="" selected="true" form="patroon"/>
+
+<cid date="" r_lu_id="" seq_nr="6" d_sy_id="d_n-15002" c_lu_id="r_n-28070" score="-1.0" cid_id="153249" r_seq_nr="-1" c_sy_id="d_n-15002" d_seq_nr="-1" pos="NOUN" name="piek" status="manual" d_lu_id="" selected="true" form="pen"/>
+
+<cid date="" r_lu_id="n-28067" seq_nr="3" d_sy_id="d_n-13181" c_lu_id="r_n-28067" score="64.6" cid_id="35438" r_seq_nr="3" c_sy_id="d_n-13181" d_seq_nr="3" pos="NOUN" name="hel" status="D-75" d_lu_id="d_n-213435" selected="true" form="pen"/>
+
+<cid date="" r_lu_id="" seq_nr="5" d_sy_id="d_n-10508" c_lu_id="r_n-28069" score="-1.0" cid_id="153252" r_seq_nr="-1" c_sy_id="d_n-10508" d_seq_nr="-1" pos="NOUN" name="piek" status="manual" d_lu_id="" selected="true" form="pen"/>
+
+<cid name="piek" selected="true" score="-1.0" form="pen" seq_nr="4" d_lu_id="" r_lu_id="" d_sy_id="d_n-30085" r_seq_nr="-1" d_seq_nr="-1" status="manual" date="" cid_id="153251" c_lu_id="r_n-28068" c_sy_id="d_n-30085" pos="NOUN"/>
+
+<cid d_lu_id="" name="piek" c_lu_id="r_n-28659" form="plaats" r_lu_id="" pos="NOUN" c_sy_id="d_n-35720" cid_id="152756" r_seq_nr="-1" date="" d_sy_id="d_n-35720" score="-1.0" status="manual" d_seq_nr="-1" seq_nr="3" selected="true"/>
+
+<cid r_lu_id="" c_lu_id="r_n-28660" r_seq_nr="-1" pos="NOUN" seq_nr="4" c_sy_id="d_n-13254" status="manual" d_seq_nr="-1" date="" d_sy_id="d_n-13254" selected="true" name="piek" d_lu_id="" cid_id="152757" score="-1.0" form="plaats"/>
+
+<cid r_lu_id="" c_lu_id="r_n-28661" r_seq_nr="-1" pos="NOUN" seq_nr="5" c_sy_id="d_n-17525" status="manual" d_seq_nr="-1" date="" d_sy_id="d_n-17525" selected="true" name="piek" d_lu_id="" cid_id="152759" score="-1.0" form="plaats"/>
+
+<cid selected="true" cid_id="136195" name="hel" date="" r_lu_id="" d_lu_id="d_n-528670" c_sy_id="d_n-40332" d_sy_id="d_n-40332" d_seq_nr="2" seq_nr="2" pos="NOUN" score="-1.0" form="plaatsing" r_seq_nr="-1" status="" c_lu_id="d_n-528670"/>
+
+<cid seq_nr="1" r_lu_id="n-28763" status="manual" form="plat" name="hel" d_seq_nr="1" c_sy_id="d_n-43479" d_lu_id="d_n-56045" score="79.35" pos="NOUN" cid_id="10535" selected="false" r_seq_nr="0" date="" c_lu_id="r_n-28763" d_sy_id="d_n-43479"/>
+
+<cid seq_nr="1" r_lu_id="n-28763" status="manual" form="plat" name="hel" d_seq_nr="1" c_sy_id="d_n-43784" d_lu_id="d_n-218501" score="62.05" pos="NOUN" cid_id="36304" selected="false" r_seq_nr="1" date="" c_lu_id="r_n-28763" d_sy_id="d_n-43784"/>
+
+<cid status="manual" selected="true" form="ploeg" cid_id="156327" d_lu_id="" d_sy_id="d_n-18907" score="-1.0" d_seq_nr="-1" r_seq_nr="-1" date="" c_sy_id="d_n-18907" pos="NOUN" c_lu_id="r_n-28869" seq_nr="1" r_lu_id="" name="piek"/>
+
+<cid status="" selected="true" form="ploeg" cid_id="142542" d_lu_id="d_n-219491" d_sy_id="d_n-41366" score="-1.0" d_seq_nr="1" r_seq_nr="-1" date="" c_sy_id="d_n-41366" pos="NOUN" c_lu_id="d_n-219491" seq_nr="3" r_lu_id="" name="hel"/>
+
+<cid score="73.3667" date="" seq_nr="1" d_lu_id="d_n-220273" d_seq_nr="1" r_seq_nr="1" form="podium" c_sy_id="d_n-35765" r_lu_id="n-28946" selected="true" status="D-75" cid_id="36580" name="hel" d_sy_id="d_n-35765" pos="NOUN" c_lu_id="r_n-28946"/>
+
+<cid score="-1.0" date="" seq_nr="2" d_lu_id="d_n-220274" d_seq_nr="2" r_seq_nr="-1" form="podium" c_sy_id="d_n-25724" r_lu_id="" selected="true" status="" cid_id="136300" name="hel" d_sy_id="d_n-25724" pos="NOUN" c_lu_id="d_n-220274"/>
+
+<cid score="-1.0" date="" seq_nr="3" d_lu_id="d_n-528806" d_seq_nr="3" r_seq_nr="-1" form="podium" c_sy_id="d_n-27904" r_lu_id="" selected="true" status="" cid_id="131790" name="hel" d_sy_id="d_n-27904" pos="NOUN" c_lu_id="d_n-528806"/>
+
+<cid seq_nr="1" d_lu_id="" r_seq_nr="-1" name="agata" selected="true" d_sy_id="d_n-35766" form="poeder" status="manual" score="-1.0" c_sy_id="d_n-35766" r_lu_id="" pos="NOUN" d_seq_nr="-1" cid_id="158858" c_lu_id="r_n-28952" date=""/>
+
+<cid c_sy_id="d_n-41672" d_seq_nr="2" status="" score="-1.0" name="hel" c_lu_id="d_n-237994" selected="true" form="rendement" cid_id="115903" d_sy_id="d_n-41672" r_lu_id="" date="" seq_nr="2" d_lu_id="d_n-237994" pos="NOUN" r_seq_nr="-1"/>
+
+<cid c_sy_id="d_n-13595" d_seq_nr="3" status="" score="-1.0" name="hel" c_lu_id="d_n-237995" selected="true" form="rendement" cid_id="125078" d_sy_id="d_n-13595" r_lu_id="" date="" seq_nr="3" d_lu_id="d_n-237995" pos="NOUN" r_seq_nr="-1"/>
+
+<cid date="" c_sy_id="d_n-19214" seq_nr="2" d_lu_id="d_n-238071" pos="NOUN" status="" form="renovatie" name="hel" d_seq_nr="2" r_lu_id="" cid_id="121539" d_sy_id="d_n-19214" c_lu_id="d_n-238071" r_seq_nr="-1" score="-1.0" selected="true"/>
+
+<cid seq_nr="1" selected="true" d_sy_id="" c_lu_id="r_n-26805" pos="NOUN" form="opwarming" name="laura" cid_id="163579" status="manual"/>
+
+<cid d_seq_nr="2" c_lu_id="d_n-254228" r_seq_nr="-1" name="hel" seq_nr="2" selected="true" r_lu_id="" d_lu_id="d_n-254228" pos="NOUN" d_sy_id="d_n-30687" score="-1.0" date="" c_sy_id="d_n-30687" status="" form="schoen" cid_id="118411"/>
+
+<cid form="broeikaseffect" selected="true" seq_nr="1" cid_id="163515" name="laura" d_sy_id="" status="manual" pos="NOUN" c_lu_id="r_n-8559"/>
+
+<cid score="-1.0" d_lu_id="d_n-269254" c_lu_id="d_n-269254" form="staal" pos="NOUN" cid_id="85814" name="hel" seq_nr="3" r_lu_id="" r_seq_nr="-1" date="" d_seq_nr="2" selected="false" d_sy_id="d_n-25379" status="manual" c_sy_id="d_n-25379"/>
+
+<cid c_lu_id="r_n-35330" cid_id="166257" form="staal" pos="NOUN" name="attila" seq_nr="1" d_sy_id="d_n-25379" selected="true" status="manual"/>
+
+<cid c_lu_id="d_n-269254" cid_id="166258" form="staal" pos="NOUN" name="attila" seq_nr="3" d_sy_id="n_n-528849" selected="true" status="manual"/>
+
+<cid c_lu_id="r_n-37999" status="D-75" cid_id="48377" d_seq_nr="2" d_lu_id="d_n-292525" date="" score="83.1" d_sy_id="d_n-25723" pos="NOUN" selected="true" r_lu_id="n-37999" r_seq_nr="2" form="ton" seq_nr="2" name="hel" c_sy_id="d_n-25723"/>
+
+<cid pos="NOUN" status="" d_seq_nr="2" date="" r_lu_id="" cid_id="85707" c_lu_id="d_n-531613" selected="true" form="vervoer" seq_nr="2" d_lu_id="d_n-531613" r_seq_nr="-1" name="hel" score="-1.0" d_sy_id="d_n-42850" c_sy_id="d_n-42850"/>
+
+<cid d_seq_nr="-1" seq_nr="3" pos="NOUN" score="-1.0" status="" selected="true" c_sy_id="d_n-35759" d_sy_id="" form="pluim" r_seq_nr="-1" d_lu_id="" name="hel" c_lu_id="d_n-415937" r_lu_id="" cid_id="36521" date=""/>
+
+<cid d_seq_nr="4" seq_nr="5" pos="NOUN" score="-1.0" status="" selected="true" c_sy_id="d_n-29109" d_sy_id="d_n-29109" form="pluim" r_seq_nr="-1" d_lu_id="d_n-219863" name="hel" c_lu_id="d_n-219863" r_lu_id="" cid_id="104346" date=""/>
+
+<cid seq_nr="1" selected="false" r_lu_id="n-26244" score="64.6" name="hel" d_lu_id="d_n-196251" date="" status="manual" d_sy_id="" pos="NOUN" c_sy_id="d_n-41042" form="ontspanning" c_lu_id="r_n-26244" d_seq_nr="2" cid_id="32488" r_seq_nr="1"/>
+
+<cid seq_nr="2" selected="false" r_lu_id="n-26245" score="-1.0" name="hel" d_lu_id="" date="" status="manual" d_sy_id="" pos="NOUN" c_sy_id="d_n-12965" form="ontspanning" c_lu_id="r_n-26245" d_seq_nr="-1" cid_id="69798" r_seq_nr="2"/>
+
+<cid seq_nr="2" selected="false" name="piek" d_sy_id="d_n-41042" pos="NOUN" status="manual" c_lu_id="r_n-26245" form="ontspanning" cid_id="166259"/>
+
+<cid seq_nr="1" selected="true" name="piek" d_sy_id="d_n-12965" pos="NOUN" status="manual" c_lu_id="r_n-26244" form="ontspanning" cid_id="166260"/>
+
+<cid cid_id="166261" status="manual" d_sy_id="d_n-12969" c_lu_id="r_n-26262" name="piek" form="ontvanger" seq_nr="1" pos="NOUN" selected="true"/>
+
+<cid status="manual" date="" cid_id="32521" d_sy_id="" c_lu_id="r_n-26262" score="64.25" d_lu_id="d_n-196474" r_seq_nr="1" name="hel" c_sy_id="d_n-41045" d_seq_nr="1" seq_nr="1" form="ontvanger" r_lu_id="n-26262" pos="NOUN" selected="false"/>
+
+<cid form="ontvanger" cid_id="166263" status="manual" selected="true" d_sy_id="c_1194" pos="NOUN" name="piek" c_lu_id="c_546833" seq_nr="2"/>
+
+<cid form="ontvanger" cid_id="166262" status="manual" selected="false" d_sy_id="" pos="NOUN" name="piek" c_lu_id="c_546833" seq_nr="2"/>
+
+<cid selected="true" c_sy_id="d_n-23474" d_sy_id="d_n-23474" date="" r_seq_nr="-1" seq_nr="1" pos="NOUN" status="manual" score="-1.0" d_seq_nr="-1" form="tour" r_lu_id="" name="piek" d_lu_id="" cid_id="156721" c_lu_id="d_n-530887"/>
+
+<cid selected="true" c_sy_id="d_n-31358" d_sy_id="d_n-31358" date="" r_seq_nr="-1" seq_nr="2" pos="NOUN" status="" score="-1.0" d_seq_nr="2" form="tour" r_lu_id="" name="hel" d_lu_id="d_n-293454" cid_id="124572" c_lu_id="d_n-293454"/>
+
+<cid selected="true" c_sy_id="d_n-42553" d_sy_id="d_n-42553" date="" r_seq_nr="-1" seq_nr="3" pos="NOUN" status="" score="-1.0" d_seq_nr="5" form="tour" r_lu_id="" name="hel" d_lu_id="d_n-530888" cid_id="130837" c_lu_id="d_n-530888"/>
+
+<cid d_seq_nr="-1" c_lu_id="r_n-14005" cid_id="152405" r_lu_id="" c_sy_id="d_n-22478" pos="NOUN" name="piek" r_seq_nr="-1" seq_nr="4" score="-1.0" status="manual" d_lu_id="" form="gast" d_sy_id="d_n-22478" date="" selected="true"/>
+
+<cid c_lu_id="r_n-18183" seq_nr="5" pos="NOUN" selected="true" form="introductie" r_seq_nr="5" status="D-75" d_lu_id="d_n-124304" score="83.1" name="hel" d_seq_nr="1" d_sy_id="d_n-34291" cid_id="21707" date="" c_sy_id="d_n-34291" r_lu_id="n-18183"/>
+
+<cid r_seq_nr="-1" date="" c_lu_id="r_n-18801" r_lu_id="" selected="true" c_sy_id="n_n-514365" d_lu_id="" status="manual" d_seq_nr="-1" cid_id="157557" seq_nr="2" pos="NOUN" form="kaffer" name="roxane" d_sy_id="n_n-514365" score="-1.0"/>
+
+<cid status="manual" selected="false" seq_nr="7" date="" c_sy_id="d_n-16748" cid_id="129303" c_lu_id="d_n-401789" name="hel" score="-1.0" form="brik" pos="NOUN" d_lu_id="d_n-401789" d_seq_nr="6" r_seq_nr="-1" d_sy_id="d_n-16748" r_lu_id=""/>
+
+<cid status="manual" selected="false" seq_nr="2" date="" c_sy_id="d_n-16748" cid_id="129690" c_lu_id="d_n-146856" name="hel" score="-1.0" form="karretje" pos="NOUN" d_lu_id="d_n-146856" d_seq_nr="2" r_seq_nr="-1" d_sy_id="d_n-16748" r_lu_id=""/>
+
+<cid selected="false" status="manual" seq_nr="7" c_lu_id="d_n-401789" cid_id="166264" name="piek" form="brik" pos="NOUN" d_sy_id="c_1195"/>
+
+<cid selected="false" status="manual" seq_nr="2" c_lu_id="d_n-146856" cid_id="166266" name="piek" form="karretje" pos="NOUN" d_sy_id="c_1195"/>
+
+<cid selected="true" status="manual" seq_nr="4" c_lu_id="r_n-5736" cid_id="166267" name="piek" form="bak" pos="NOUN" d_sy_id="c_1196"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="r_n-19783" score="-1.0" d_lu_id="" d_sy_id="" pos="NOUN" r_seq_nr="-1" d_seq_nr="-1" r_lu_id="" c_lu_id="r_n-19783" name="hel" seq_nr="3" form="klep"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="4371" score="64.25" d_lu_id="d_n-20504" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="1" d_seq_nr="2" r_lu_id="n-5754" c_lu_id="r_n-5754" name="hel" seq_nr="1" form="bakkes"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-28207" cid_id="4370" score="-1.0" d_lu_id="" d_sy_id="" pos="NOUN" r_seq_nr="-1" d_seq_nr="-1" r_lu_id="" c_lu_id="r_n-5754" name="hel" seq_nr="1" form="bakkes"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="156873" score="-1.0" d_lu_id="" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="-1" r_lu_id="" c_lu_id="r_n-6398" name="piek" seq_nr="2" form="bek"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="92461" score="-1.0" d_lu_id="d_n-520240" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="2" r_lu_id="" c_lu_id="d_n-520240" name="hel" seq_nr="1" form="bekje"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="78562" score="-1.0" d_lu_id="d_n-129948" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="2" r_lu_id="" c_lu_id="d_n-129948" name="hel" seq_nr="1" form="kakement"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="82950" score="-1.0" d_lu_id="d_n-413864" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="1" r_lu_id="" c_lu_id="d_n-413864" name="hel" seq_nr="1" form="moel"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="159004" score="-1.0" d_lu_id="" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="-1" r_lu_id="" c_lu_id="r_n-24379" name="agata" seq_nr="2" form="muil"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="79577" score="-1.0" d_lu_id="d_n-263753" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="2" r_lu_id="" c_lu_id="d_n-263753" name="hel" seq_nr="2" form="snoet"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="25358" score="64.6" d_lu_id="d_n-145646" d_sy_id="" pos="NOUN" r_seq_nr="2" d_seq_nr="1" r_lu_id="n-21116" c_lu_id="r_n-21116" name="hel" seq_nr="2" form="kwebbel"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="43461" score="64.6" d_lu_id="d_n-262770" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="1" d_seq_nr="1" r_lu_id="n-34364" c_lu_id="r_n-34364" name="hel" seq_nr="1" form="smoel"/>
+
+<cid selected="false" cid_id="166269" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="r_n-5754" name="piek" seq_nr="1" form="bakkes"/>
+
+<cid selected="false" cid_id="166270" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="r_n-6398" name="piek" seq_nr="2" form="bek"/>
+
+<cid selected="false" cid_id="166271" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="d_n-520240" name="piek" seq_nr="1" form="bekje"/>
+
+<cid selected="false" cid_id="166272" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="d_n-129948" name="piek" seq_nr="1" form="kakement"/>
+
+<cid selected="false" status="manual" date="" c_sy_id="d_n-29556" cid_id="120750" score="-1.0" d_lu_id="d_n-151413" d_sy_id="d_n-29556" pos="NOUN" r_seq_nr="-1" d_seq_nr="3" r_lu_id="" c_lu_id="d_n-151413" name="hel" seq_nr="3" form="laadklep"/>
+
+<cid selected="false" cid_id="166273" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="d_n-413864" name="piek" seq_nr="1" form="moel"/>
+
+<cid selected="false" cid_id="166274" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="r_n-24379" name="piek" seq_nr="2" form="muil"/>
+
+<cid selected="false" cid_id="166275" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="d_n-263753" name="piek" seq_nr="2" form="snoet"/>
+
+<cid selected="false" cid_id="166268" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="r_n-19783" name="piek" seq_nr="3" form="klep"/>
+
+<cid selected="false" cid_id="166276" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="r_n-21116" name="piek" seq_nr="2" form="kwebbel"/>
+
+<cid selected="false" cid_id="166277" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="r_n-34364" name="piek" seq_nr="1" form="smoel"/>
+
+<cid selected="true" cid_id="166278" status="manual" d_sy_id="c_1197" pos="NOUN" c_lu_id="d_n-151413" name="piek" seq_nr="3" form="laadklep"/>
+
+<cid d_seq_nr="-1" selected="true" d_sy_id="d_n-13150" score="-1.0" seq_nr="5" c_sy_id="d_n-13150" pos="NOUN" name="roxane" r_seq_nr="-1" status="manual" form="pas" r_lu_id="" c_lu_id="d_n-211993" d_lu_id="" date="" cid_id="157179"/>
+
+<cid selected="true" name="piek" d_sy_id="c_1198" seq_nr="5" c_lu_id="r_n-33245" status="manual" form="schot" pos="NOUN" cid_id="166279"/>
+
+<cid selected="true" name="piek" d_sy_id="c_1199" seq_nr="6" c_lu_id="r_n-33246" status="manual" form="schot" pos="NOUN" cid_id="166280"/>
+
+<cid selected="true" name="piek" d_sy_id="c_1200" seq_nr="8" c_lu_id="r_n-33247" status="manual" form="schot" pos="NOUN" cid_id="166281"/>
+
+<cid selected="true" name="piek" d_sy_id="c_1201" seq_nr="10" c_lu_id="r_n-33249" status="manual" form="schot" pos="NOUN" cid_id="166282"/>
+
+<cid d_sy_id="d_n-13766" selected="true" form="schakering" c_lu_id="d_n-251051" score="-1.0" r_seq_nr="-1" status="" seq_nr="3" d_lu_id="d_n-251051" name="hel" pos="NOUN" cid_id="121461" date="" d_seq_nr="3" c_sy_id="d_n-13766" r_lu_id=""/>
+
+<cid d_sy_id="d_n-36932" selected="true" form="schakering" c_lu_id="d_n-251050" score="-1.0" r_seq_nr="-1" status="" seq_nr="2" d_lu_id="d_n-251050" name="hel" pos="NOUN" cid_id="112333" date="" d_seq_nr="2" c_sy_id="d_n-36932" r_lu_id=""/>
+
+<cid d_sy_id="d_n-25018" selected="true" form="schakering" c_lu_id="d_n-251052" score="-1.0" r_seq_nr="-1" status="" seq_nr="4" d_lu_id="d_n-251052" name="hel" pos="NOUN" cid_id="130454" date="" d_seq_nr="4" c_sy_id="d_n-25018" r_lu_id=""/>
+
+<cid c_lu_id="r_n-39910" pos="NOUN" status="manual" d_sy_id="d_n-37163" selected="true" cid_id="166283" name="piek" form="verbond" seq_nr="2"/>
+
+<cid date="" c_lu_id="r_n-39910" pos="NOUN" status="manual" d_lu_id="d_n-307767" selected="false" d_sy_id="" d_seq_nr="1" cid_id="51226" name="hel" form="verbond" score="64.6" seq_nr="2" c_sy_id="d_n-31545" r_lu_id="n-39910" r_seq_nr="2"/>
+
+<cid score="64.25" status="manual" d_seq_nr="1" cid_id="28814" c_lu_id="r_n-9440" date="" r_lu_id="n-9440" seq_nr="1" c_sy_id="d_n-40732" pos="NOUN" selected="false" r_seq_nr="0" name="hel" d_sy_id="d_n-40732" form="clementie" d_lu_id="d_n-178998"/>
+
+<cid score="81.55" status="manual" d_seq_nr="1" cid_id="9379" c_lu_id="r_n-9440" date="" r_lu_id="n-9440" seq_nr="1" c_sy_id="d_n-33776" pos="NOUN" selected="false" r_seq_nr="1" name="hel" d_sy_id="d_n-33776" form="clementie" d_lu_id="d_n-48668"/>
+
+<cid status="manual" c_lu_id="c_546834" cid_id="166284" seq_nr="2" pos="NOUN" selected="false" name="piek" d_sy_id="" form="clementie"/>
+
+<cid status="manual" c_lu_id="c_546834" cid_id="166285" seq_nr="2" pos="NOUN" selected="true" name="piek" d_sy_id="d_n-33776" form="clementie"/>
+
+<cid score="81.55" status="manual" d_seq_nr="1" cid_id="18152" c_lu_id="r_n-15716" date="" r_lu_id="n-15716" seq_nr="1" c_sy_id="d_n-39519" pos="NOUN" selected="false" r_seq_nr="1" name="hel" d_sy_id="d_n-39519" form="gretigheid" d_lu_id="d_n-101861"/>
+
+<cid score="88.5" status="manual" d_seq_nr="1" cid_id="5067" c_lu_id="r_n-15716" date="" r_lu_id="n-15716" seq_nr="1" c_sy_id="d_n-11555" pos="NOUN" selected="false" r_seq_nr="0" name="hel" d_sy_id="d_n-11555" form="gretigheid" d_lu_id="d_n-40806"/>
+
+<cid score="82.8" status="manual" d_seq_nr="1" cid_id="25037" c_lu_id="r_n-15718" date="" r_lu_id="n-15718" seq_nr="2" c_sy_id="d_n-17830" pos="NOUN" selected="false" r_seq_nr="0" name="hel" d_sy_id="d_n-17830" form="gribus" d_lu_id="d_n-143694"/>
+
+<cid score="91.6" status="manual" d_seq_nr="1" cid_id="18153" c_lu_id="r_n-15718" date="" r_lu_id="n-15718" seq_nr="2" c_sy_id="d_n-21155" pos="NOUN" selected="false" r_seq_nr="2" name="hel" d_sy_id="d_n-21155" form="gribus" d_lu_id="d_n-96872"/>
+
+<cid status="manual" c_lu_id="r_n-15717" cid_id="166286" seq_nr="1" pos="NOUN" selected="true" name="piek" d_sy_id="d_n-21155" form="gribus"/>
+
+<cid score="-1.0" d_seq_nr="-1" cid_id="12252" c_lu_id="r_a-10116" r_seq_nr="-1" name="hel" d_lu_id="" c_sy_id="d_a-9418" d_sy_id="" r_lu_id="" date="" pos="ADJ" selected="false" status="manual" seq_nr="1" form="down"/>
+
+<cid score="-1.0" d_seq_nr="-1" cid_id="158000" c_lu_id="r_a-10116" r_seq_nr="-1" name="emaks" d_lu_id="" c_sy_id="d_a-9527" d_sy_id="d_a-9527" r_lu_id="" date="" pos="ADJ" selected="false" status="manual" seq_nr="1" form="down"/>
+
+<cid c_lu_id="d_a-64641" cid_id="166287" name="piek" d_sy_id="d_a-9418" pos="ADJ" selected="true" status="manual" form="down" seq_nr="2"/>
+
+<cid score="-1.0" d_seq_nr="2" cid_id="120192" c_lu_id="d_a-64641" r_seq_nr="-1" name="hel" d_lu_id="d_a-64641" c_sy_id="n_a-507410" d_sy_id="" r_lu_id="" date="" pos="ADJ" selected="false" status="manual" seq_nr="2" form="down"/>
+
+<cid name="piek" status="manual" cid_id="166288" form="grenswacht" seq_nr="1" d_sy_id="d_n-10913" c_lu_id="r_n-15713" selected="false" pos="NOUN"/>
+
+<cid score="91.6" name="hel" status="manual" c_sy_id="d_n-27762" form="grenswacht" cid_id="18144" d_lu_id="d_n-96837" seq_nr="2" r_lu_id="n-15714" d_sy_id="d_n-27762" c_lu_id="r_n-15714" date="" r_seq_nr="2" selected="false" d_seq_nr="1" pos="NOUN"/>
+
+<cid name="piek" status="manual" cid_id="166290" form="grensbewaker" seq_nr="1" d_sy_id="d_n-10913" c_lu_id="d_n-96767" selected="true" pos="NOUN"/>
+
+<cid status="manual" cid_id="166289" seq_nr="2" pos="NOUN" d_sy_id="d_n-10913" c_lu_id="r_n-15714" selected="false" name="piek" form="grenswacht"/>
+
+<cid cid_id="166291" seq_nr="1" status="manual" pos="NOUN" d_sy_id="d_n-27762" c_lu_id="r_n-15713" selected="true" name="piek" form="grenswacht"/>
+
+<cid status="manual" cid_id="137360" seq_nr="1" r_seq_nr="-1" date="" d_seq_nr="1" pos="NOUN" d_sy_id="" c_lu_id="d_n-96767" selected="false" score="-1.0" c_sy_id="d_n-17057" d_lu_id="d_n-96767" name="hel" form="grensbewaker" r_lu_id=""/>
+
+<cid status="manual" cid_id="18145" seq_nr="2" r_seq_nr="0" date="" d_seq_nr="1" pos="NOUN" d_sy_id="" c_lu_id="r_n-15714" selected="false" score="33.9" c_sy_id="d_n-17057" d_lu_id="d_n-96841" name="hel" form="grenswacht" r_lu_id="n-15714"/>
+
+<cid date="" status="" pos="VERB" cid_id="84132" selected="true" d_seq_nr="5" c_sy_id="d_v-2266" seq_nr="1" name="hel" r_seq_nr="-1" score="-1.0" c_lu_id="d_v-64047" r_lu_id="" d_lu_id="d_v-64047" form="doortrappen" d_sy_id="d_v-2266"/>
+
+<cid pos="VERB" status="manual" cid_id="165487" selected="true" seq_nr="1" name="attila" c_lu_id="r_v-10310" form="zuigen" d_sy_id="d_v-9081"/>
+
+<cid pos="VERB" status="manual" cid_id="165488" selected="true" seq_nr="4" name="attila" c_lu_id="r_v-10313" form="zuigen" d_sy_id="d_v-7263"/>
+
+<cid status="" date="" pos="VERB" cid_id="89881" selected="true" d_seq_nr="5" c_sy_id="d_v-9083" seq_nr="5" score="-1.0" name="hel" c_lu_id="d_v-346787" r_seq_nr="-1" r_lu_id="" d_lu_id="d_v-346787" form="zuigen" d_sy_id="d_v-9083"/>
+
+<cid status="" date="" pos="VERB" cid_id="102380" selected="true" d_seq_nr="3" c_sy_id="d_v-5366" seq_nr="6" score="-1.0" name="hel" c_lu_id="d_v-346781" r_seq_nr="-1" r_lu_id="" d_lu_id="d_v-346781" form="zuigen" d_sy_id="d_v-5366"/>
+
+<cid status="RESUME-75" date="" pos="VERB" cid_id="57880" selected="true" d_seq_nr="1" c_sy_id="d_v-6797" seq_nr="3" score="83.8333" name="hel" c_lu_id="r_v-10312" r_seq_nr="3" r_lu_id="v-10312" d_lu_id="d_v-346776" form="zuigen" d_sy_id=""/>
+
+<cid form="zuigen" pos="VERB" status="manual" d_sy_id="d_v-9082" cid_id="165486" selected="true" seq_nr="2" name="attila" c_lu_id="r_v-10311"/>
+
+<cid d_sy_id="d_v-2250" cid_id="164871" status="manual" name="attila" selected="true" seq_nr="4" form="doorsteken" pos="VERB" c_lu_id="d_v-63933"/>
+
+<cid d_sy_id="d_v-2249" cid_id="164869" status="manual" name="attila" selected="false" seq_nr="4" form="doorsteken" pos="VERB" c_lu_id="d_v-63933"/>
+
+<cid c_sy_id="d_v-3355" date="" d_sy_id="d_v-3355" r_lu_id="" cid_id="102040" status="manual" name="hel" selected="false" seq_nr="4" d_seq_nr="2" form="doorsteken" r_seq_nr="-1" d_lu_id="d_v-63933" pos="VERB" c_lu_id="d_v-63933" score="-1.0"/>
+
+<cid d_sy_id="d_v-9086" cid_id="164625" status="manual" name="attila" selected="false" seq_nr="1" form="zuiveren" pos="VERB" c_lu_id="r_v-10315"/>
+
+<cid c_sy_id="d_v-5897" date="" d_sy_id="" r_lu_id="v-10315" cid_id="57910" status="manual" name="hel" selected="false" seq_nr="1" d_seq_nr="1" form="zuiveren" r_seq_nr="1" d_lu_id="d_v-346920" pos="VERB" c_lu_id="r_v-10315" score="91.6"/>
+
+<cid d_sy_id="d_v-5897" cid_id="164626" status="manual" name="attila" selected="false" seq_nr="2" form="zuiveren" pos="VERB" c_lu_id="d_v-346921"/>
+
+<cid c_sy_id="d_v-9087" date="" d_sy_id="d_v-9087" r_lu_id="" cid_id="102658" status="manual" name="hel" selected="false" seq_nr="2" d_seq_nr="2" form="zuiveren" r_seq_nr="-1" d_lu_id="d_v-346921" pos="VERB" c_lu_id="d_v-346921" score="-1.0"/>
+
+<cid d_sy_id="d_v-9087" cid_id="164627" status="manual" name="attila" selected="true" seq_nr="3" form="zuiveren" pos="VERB" c_lu_id="r_v-10316"/>
+
+<cid form="afscheiden" cid_id="165281" pos="VERB" seq_nr="1" selected="true" c_lu_id="r_v-694" name="attila" status="manual" d_sy_id="d_v-865"/>
+
+<cid form="afscheiden" cid_id="165280" pos="VERB" seq_nr="1" selected="false" c_lu_id="r_v-694" name="attila" status="manual" d_sy_id=""/>
+
+<cid form="afscheiden" cid_id="165278" pos="VERB" seq_nr="1" selected="false" c_lu_id="r_v-694" name="attila" status="manual" d_sy_id="d_v-621"/>
+
+<cid score="-1.0" d_lu_id="" c_lu_id="c_545363" date="" status="manual" d_seq_nr="-1" d_sy_id="d_v-4788" seq_nr="6" selected="true" pos="VERB" r_lu_id="" cid_id="151770" r_seq_nr="-1" name="hennie" c_sy_id="d_v-4788" form="afsluiten"/>
+
+<cid form="drama" status="manual" c_lu_id="d_n-65020" cid_id="163603" pos="NOUN" d_sy_id="d_n-25725" name="attila" selected="false" seq_nr="3"/>
+
+<cid form="vechten" status="manual" c_lu_id="d_v-420857" cid_id="164969" pos="VERB" d_sy_id="d_v-8786" name="attila" selected="false" seq_nr="4"/>
+
+<cid form="beschikbaar" status="manual" c_lu_id="r_a-9233" cid_id="166123" pos="ADJ" d_sy_id="c_701" name="piek" selected="false" seq_nr="1"/>
+
+<cid form="aanspraak" status="manual" c_lu_id="r_n-2317" cid_id="164112" pos="NOUN" d_sy_id="d_n-24764" name="attila" selected="false" seq_nr="2"/>
+
+<cid form="achterland" status="manual" c_lu_id="r_n-2614" cid_id="162717" pos="NOUN" d_sy_id="d_n-26833" name="roxane" selected="false" seq_nr="1"/>
+
+<cid form="achterland" c_lu_id="d_n-3985" cid_id="166292" status="manual" pos="NOUN" d_sy_id="d_n-26833" name="piek" selected="true" seq_nr="2"/>
+
+<cid selected="true" c_sy_id="n_n-528530" c_lu_id="d_n-266641" status="" r_seq_nr="-1" score="-1.0" date="" seq_nr="3" d_seq_nr="3" d_sy_id="n_n-528530" form="spier" name="hel" d_lu_id="d_n-266641" r_lu_id="" cid_id="104697" pos="NOUN"/>
+
+<cid selected="true" c_sy_id="n_n-528531" c_lu_id="d_n-266639" status="manual" r_seq_nr="-1" score="-1.0" date="" seq_nr="4" d_seq_nr="-1" d_sy_id="n_n-528531" form="spier" name="agata" d_lu_id="" r_lu_id="" cid_id="158743" pos="NOUN"/>
+
+<cid selected="true" c_lu_id="r_n-3688" status="manual" seq_nr="1" d_sy_id="" form="Antwerpenaar" name="roxane" cid_id="162712" pos="NOUN"/>
+
+<cid selected="false" c_lu_id="r_n-39130" status="manual" seq_nr="2" d_sy_id="d_n-43968" form="uitstraling" name="attila" cid_id="164185" pos="NOUN"/>
+
+<cid selected="false" c_lu_id="r_n-4057" status="manual" seq_nr="1" d_sy_id="c_984" form="assistent" name="attila" cid_id="163844" pos="NOUN"/>
+
+<cid selected="false" c_sy_id="d_v-8963" c_lu_id="r_v-1016" status="manual" r_seq_nr="-1" score="-1.0" date="" seq_nr="1" d_seq_nr="-1" d_sy_id="" form="attenderen" name="hennie" d_lu_id="" r_lu_id="" cid_id="155701" pos="VERB"/>
+
+<cid selected="false" c_sy_id="d_v-124" c_lu_id="r_v-158" status="manual" r_seq_nr="1" score="71.2667" date="" seq_nr="1" d_seq_nr="2" d_sy_id="" form="aanmoedigen" name="hel" d_lu_id="d_v-1145" r_lu_id="v-158" cid_id="1302" pos="VERB"/>
+
+<cid c_lu_id="d_v-1144" selected="true" status="manual" seq_nr="2" d_sy_id="d_v-1345" form="aanmoedigen" name="piek" cid_id="166293" pos="VERB"/>
+
+<cid status="manual" cid_id="163217" d_sy_id="d_v-3757" selected="false" form="aanschaffen" pos="VERB" name="piek" seq_nr="1" c_lu_id="r_v-198"/>
+
+<cid status="manual" cid_id="162974" d_sy_id="d_v-351" selected="false" form="afjagen" pos="VERB" name="emaks" seq_nr="1" c_lu_id="r_v-536"/>
+
+<cid pos="NOUN" score="-1.0" selected="true" d_seq_nr="-1" c_sy_id="n_n-515729" seq_nr="4" c_lu_id="r_n-34414" status="manual" form="sneeuw" r_lu_id="" r_seq_nr="-1" d_sy_id="n_n-515729" cid_id="156580" d_lu_id="" name="piek" date=""/>
+
+<cid c_sy_id="d_v-8445" selected="true" d_sy_id="d_v-8445" name="hel" c_lu_id="d_v-315744" d_lu_id="d_v-315744" r_seq_nr="-1" score="-1.0" pos="VERB" cid_id="125917" date="" form="verzuipen" status="" r_lu_id="" d_seq_nr="3" seq_nr="3"/>
+
+<cid c_sy_id="d_v-8446" selected="true" d_sy_id="d_v-8446" name="hel" c_lu_id="d_v-315745" d_lu_id="d_v-315745" r_seq_nr="-1" score="-1.0" pos="VERB" cid_id="134879" date="" form="verzuipen" status="" r_lu_id="" d_seq_nr="4" seq_nr="5"/>
+
+<cid d_seq_nr="5" seq_nr="4" name="hel" pos="VERB" form="verzuipen" r_seq_nr="-1" status="" d_sy_id="d_v-4562" d_lu_id="d_v-420866" cid_id="133806" selected="true" r_lu_id="" score="-1.0" c_sy_id="d_v-4562" date="" c_lu_id="d_v-420866"/>
+
+<cid status="manual" d_seq_nr="2" r_seq_nr="-1" cid_id="100719" name="hel" form="kar" d_sy_id="d_n-16748" c_lu_id="d_n-131349" pos="NOUN" score="-1.0" r_lu_id="" d_lu_id="d_n-131349" date="" c_sy_id="d_n-16748" seq_nr="3" selected="false"/>
+
+<cid status="manual" cid_id="166265" name="piek" form="kar" d_sy_id="c_1195" c_lu_id="d_n-131349" pos="NOUN" seq_nr="3" selected="false"/>
+
+<cid d_sy_id="d_v-3412" selected="true" cid_id="163331" c_lu_id="r_v-3576" pos="VERB" name="piek" seq_nr="1" form="inspringen" status="manual"/>
+
+<cid d_lu_id="d_n-267783" c_sy_id="d_n-14114" date="" score="64.6" selected="true" seq_nr="5" r_lu_id="n-35142" status="D-75" pos="NOUN" name="hel" form="spoor" cid_id="44541" d_seq_nr="1" r_seq_nr="5" c_lu_id="r_n-35142" d_sy_id="d_n-14114"/>
+
+<cid pos="VERB" cid_id="164342" c_lu_id="d_v-19162" d_sy_id="d_v-591" status="manual" seq_nr="3" name="hennie" selected="false" form="afvliegen"/>
+
+<cid pos="VERB" score="-1.0" date="" cid_id="140047" d_lu_id="d_v-19162" r_seq_nr="-1" c_lu_id="d_v-19162" d_seq_nr="3" c_sy_id="d_v-802" d_sy_id="d_v-802" status="manual" seq_nr="3" name="hel" selected="false" r_lu_id="" form="afvliegen"/>
+
+<cid c_sy_id="d_n-35541" name="piek" status="manual" c_lu_id="r_n-27204" date="" d_seq_nr="-1" form="overspanning" r_lu_id="" pos="NOUN" cid_id="154745" d_sy_id="d_n-35541" seq_nr="1" selected="true" d_lu_id="" score="-1.0" r_seq_nr="-1"/>
+
+<cid d_sy_id="d_v-2129" date="" seq_nr="4" selected="true" c_sy_id="d_v-2129" form="doordringen" r_lu_id="" d_seq_nr="-1" c_lu_id="c_545530" d_lu_id="" pos="VERB" r_seq_nr="-1" status="manual" name="hennie" cid_id="153878" score="-1.0"/>
+
+<cid pos="VERB" selected="false" seq_nr="6" cid_id="166294" status="manual" c_lu_id="c_546835" name="piek" d_sy_id="" form="verteren"/>
+
+<cid pos="VERB" selected="true" seq_nr="6" cid_id="166295" status="manual" c_lu_id="c_546835" name="piek" d_sy_id="d_v-8387" form="verteren"/>
+
+<cid form="kar" r_lu_id="n-19072" d_seq_nr="3" score="83.8333" d_lu_id="d_n-131350" c_lu_id="r_n-19072" seq_nr="2" d_sy_id="d_n-26965" pos="NOUN" cid_id="22775" c_sy_id="d_n-26965" date="" status="manual" selected="false" r_seq_nr="2" name="hel"/>
+
+<cid form="statusblik" r_lu_id="" score="-1.0" d_seq_nr="1" d_lu_id="d_n-271180" seq_nr="1" c_lu_id="d_n-271180" d_sy_id="d_n-26965" pos="NOUN" c_sy_id="d_n-26965" cid_id="82806" date="" status="manual" selected="false" name="hel" r_seq_nr="-1"/>
+
+<cid form="kar" c_lu_id="r_n-19072" seq_nr="2" d_sy_id="c_1202" pos="NOUN" cid_id="166296" selected="false" status="manual" name="piek"/>
+
+<cid form="statusblik" c_lu_id="d_n-271180" seq_nr="1" d_sy_id="c_1202" pos="NOUN" cid_id="166297" selected="false" status="manual" name="piek"/>
+
+<cid name="piek" d_sy_id="" c_lu_id="c_546836" cid_id="166298" form="" seq_nr="8" pos="VERB" selected="true" status="manual"/>
+
+<cid name="piek" d_sy_id="" seq_nr="8" selected="false" form="afspringen" cid_id="166299" status="manual" c_lu_id="c_546837" pos="VERB"/>
+
+<cid name="piek" d_sy_id="d_v-670" seq_nr="8" selected="true" form="afspringen" cid_id="166300" status="manual" c_lu_id="c_546837" pos="VERB"/>
+
+<cid form="onregelmatigheid" d_sy_id="c_1035" status="manual" pos="NOUN" name="attila" cid_id="164166" selected="true" c_lu_id="r_n-26125" seq_nr="2"/>
+
+<cid form="ontrouw" status="" d_seq_nr="4" pos="ADJ" cid_id="139171" selected="true" d_sy_id="n_a-522402" name="hel" seq_nr="2" score="-1.0" r_seq_nr="-1" date="" d_lu_id="d_a-538572" r_lu_id="" c_sy_id="n_a-522402" c_lu_id="d_a-538572"/>
+
+<cid form="tuig" r_lu_id="" name="hel" r_seq_nr="-1" selected="true" c_sy_id="n_n-531417" pos="NOUN" date="" d_lu_id="d_n-296406" cid_id="125367" c_lu_id="d_n-296406" score="-1.0" d_seq_nr="3" status="" seq_nr="4" d_sy_id="n_n-531417"/>
+
+<cid d_lu_id="" form="canon" r_seq_nr="-1" d_seq_nr="-1" seq_nr="5" d_sy_id="d_n-21818" r_lu_id="" status="manual" date="" selected="true" c_sy_id="d_n-21818" cid_id="150297" score="-1.0" pos="NOUN" c_lu_id="d_n-521087" name="roxane"/>
+</cdbid>
