@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import sys
 
+
 def get_adjectives(filename: str = "cdb-sample.xml") -> set:
     adjectives = set()
     tree = ET.parse(filename)
