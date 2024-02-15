@@ -1,4 +1,4 @@
-# usage of programs
+# usage of the programs
 
 ## cdb.py
 
@@ -16,12 +16,16 @@ python3 cdb.py [<lexicon>]
 use -h or --help to print the help
 ```
 python3 cdb.py -h
+```
+```
 python3 cdb.py --help
 ```
 
 use -d or --debug to print extra information
 ```
 python3 cdb.py -d [<lexicon>]
+```
+```
 python3 cdb.py --debug [<lexicon>]
 ```
 
@@ -48,6 +52,8 @@ use -o or --one to print only the result of running the function find
 this function takes a single word and returns its anagrams as a set
 ```
 python3 cdb.py -o <word> [<file.json>] [<query.txt>]
+```
+```
 python3 cdb.py --one <word> [<file.json>] [<query.txt>]
 ```
 
@@ -56,26 +62,53 @@ this function takes the query and returns all anagrams as a dictionary
 unfortunately a word still has to be specified even though it is not used
 ```
 python3 cdb.py -m <word> [<file.json>] [<query.txt>]
+```
+```
 python3 cdb.py --many <word> [<file.json>] [<query.txt>]
 ```
 
-**if neither of these flags are set both functions will run**
+**if neither of the above flags are set both functions will run**
+**if both of the above flags are set no function will run**
 
 use -t or --time to print the timed results
 ```
-python3 cdb.py -t
-python3 cdb.py --time
+python3 cdb.py -t <word> [<file.json>] [<query.txt>]
+```
+```
+python3 cdb.py --time <word> [<file.json>] [<query.txt>]
 ```
 
 use -d or --debug to print extra information
 **No other output than the debug information will be printed**
 ```
 python3 cdb.py -d <word> [<file.json>] [<query.txt>]
+```
+```
 python3 cdb.py --debug <word> [<file.json>] [<query.txt>]
 ```
+
+**all of the above flags can be used simultaneously**
+**However if both -o and -m are set there won't be any output**
 
 use -h or --help to print the help
 ```
 python3 cdb.py -h
+```
+```
 python3 cdb.py --help
+```
+
+## tests
+
+both programs are tested using **pytest** to ensure quality
+to run this program use:
+```
+pytest
+```
+in your command line while in this directory
+
+the program is also tested on style by **pycodestyle**
+to run this use:
+```
+pycodestyle <file.py>
 ```
