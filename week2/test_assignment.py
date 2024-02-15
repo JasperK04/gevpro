@@ -1,5 +1,6 @@
 import cdb
 import anagrams
+import time
 
 
 class TestCDB:
@@ -39,3 +40,9 @@ class TestCDB:
 class TestAnagrams:
     def test_find(self):
         assert anagrams.find('eten', 'words.json') == {'eten', 'teen', 'neet'}
+
+    def test_find_many(self):
+        start = time.perf_counter()
+        anagrams.find_many('query.txt', 'words.json')
+        end = time.perf_counter()
+        assert ((end - start) < 1)
