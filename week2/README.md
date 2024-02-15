@@ -44,27 +44,36 @@ by default this file is query.txt
 
 to run the program use:
 ```
-python3 anagrams.py <word> [<file.json>] [<query.txt>]
+python3 anagrams.py <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 
 ### options
 use -o or --one to print only the result of running the function find
 this function takes a single word and returns its anagrams as a set
 ```
-python3 cdb.py -o <word> [<file.json>] [<query.txt>]
+python3 anagrams.py -o <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 ```
-python3 cdb.py --one <word> [<file.json>] [<query.txt>]
+python3 anagrams.py --one <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 
 use -m or --many to print only the result of running the function find_many
 this function takes the query and returns all anagrams as a dictionary
 unfortunately a word still has to be specified even though it is not used
 ```
-python3 cdb.py -m <word> [<file.json>] [<query.txt>]
+python3 anagrams.py -m <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 ```
-python3 cdb.py --many <word> [<file.json>] [<query.txt>]
+python3 anagrams.py --many <word> [<file.json>] [<query.txt>] [{all,usefull}]
+```
+
+use all or usefull to print all or just the usefull results of find_many
+the default on this function is usefull
+```
+python3 anagrams.py <word> [<file.json>] [<query.txt>] [{all,usefull}]
+```
+```
+python3 anagrams.py <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 
 **if neither of the above flags are set both functions will run**
@@ -72,19 +81,19 @@ python3 cdb.py --many <word> [<file.json>] [<query.txt>]
 
 use -t or --time to print the timed results
 ```
-python3 cdb.py -t <word> [<file.json>] [<query.txt>]
+python3 anagrams.py -t <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 ```
-python3 cdb.py --time <word> [<file.json>] [<query.txt>]
+python3 anagrams.py --time <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 
 use -d or --debug to print extra information
 **No other output than the debug information will be printed**
 ```
-python3 cdb.py -d <word> [<file.json>] [<query.txt>]
+python3 anagrams.py -d <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 ```
-python3 cdb.py --debug <word> [<file.json>] [<query.txt>]
+python3 anagrams.py --debug <word> [<file.json>] [<query.txt>] [{all,usefull}]
 ```
 
 **all of the above flags can be used simultaneously**
@@ -92,10 +101,10 @@ python3 cdb.py --debug <word> [<file.json>] [<query.txt>]
 
 use -h or --help to print the help
 ```
-python3 cdb.py -h
+python3 anagrams.py -h
 ```
 ```
-python3 cdb.py --help
+python3 anagrams.py --help
 ```
 
 ## tests

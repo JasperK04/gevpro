@@ -94,6 +94,9 @@ def create_parser():
     parser.add_argument("query", metavar="<query.txt>", type=str, nargs="?",
                         default="query.txt",
                         help="Optionally add a query for 'find_many'")
+    parser.add_argument("qOutput", choices=["all", "usefull"],
+                        default="usefull", nargs="?",
+                        help="add an output mode for 'find_many'")
     parser.add_argument("-d", "--debug", action="store_true",
                         help="Enables the debug mode")
     parser.add_argument("-t", "--time", action="store_true",
@@ -156,9 +159,19 @@ def main():
             print(f"time to execute 'find many': {end - start} seconds")
         else:
             # print the output of the 'find_many' function
-            for key in anagramDict.keys():
-                print(f"Anagrams of {anagramDict[key][0]} are: ", end="")
-                print(f"{set(anagramDict[key])}")
+            for item in anagramDict.values():
+                itemSet = set(item)
+                # check if flag for output is set
+                if args.qOutput == "usefull":
+                    if len(itemSet) > 1:
+                        itemSet.remove(item[0])
+                        print(f"Anagrams of {item[0]} are: ", end="")
+                        print(f"{itemSet}")
+                # print all output
+                else:
+                    print(f"Anagrams of {item[0]} are: ", end="")
+                    print(f"{itemSet}")
+
 
             # check if flag for time is set
             if args.time:
