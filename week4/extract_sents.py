@@ -7,50 +7,49 @@ import os
 def tokenizeSentence(line):
     tokens = []
     words = re.split(r'\s', line)
-    #print(words)
     for token in words:
         tokens += re.split(r'(\,|\!|\?|\"|\&|\;)', token)
 
     sentence = []
     for token in tokens:
-        if (len(re.split(r'(^[0-9]+\.[0-9]{2}|^[0-9]+\:[0-9]{2})', token)) > 1):
+        if len(re.split(r'(^[0-9]+\.[0-9]{2}|^[0-9]+\:[0-9]{2})', token)) > 1:
             sentence.append(token)
             continue
         elif len(re.split(r'(^[A-Z]\.)', token)) > 1:
             sentence.append(token)
             continue
-        elif (len(re.split(r'(^\w+\-[a-zA-Z]+)', token)) > 1):
+        elif len(re.split(r'(^\w+\-[a-zA-Z]+)', token)) > 1:
             sentence.append(token)
             continue
-        elif (len(re.split(r'(^[a-zA-Z]+\'s)', token)) > 1):
+        elif len(re.split(r'(^[a-zA-Z]+\'s)', token)) > 1:
             sentence.append(token)
             continue
         else:
             sentence += re.split(r'(\.|\:|\-|\')', token)
 
-    #print(sentence)
     tokens = []
     for token in sentence:
         if not token == '':
             tokens.append(token)
 
-    #print(sentence)
     return tokens
-    
+
 
 def tokenizeLine(filename):
     tokens = []
     count = 0
     with gzip.open(filename, 'rt', encoding='utf8') as inp:
         infile = inp.read()
-    p = re.compile(r'[^ ].*?(?:\.[0-9]+.*?[.!?]\"?| [A-Z]\. .*?[A-Z]\. .*?[.!?]\"?|[.!?]\"?|\n)')
+    p = re.compile(r"""[^ ].*?
+                    (?:\.[0-9]+.*?[.!?]\"?|
+                    [A-Z]\..*?[A-Z]\..*?[.!?]\"?|
+                    [.!?]\"?|
+                    \n) """, flags=re.VERBOSE)
     infile = p.findall(infile)
     for line in infile:
         line = line.strip()
-        # print(line)
         sentence = tokenizeSentence(line)
-        #print(sentence)
-        # don't print empty lines and don't print until 2 empty lines have passed
+        # don't print empty lines, don't print until 2 empty lines have passed
         if (not sentence == []) and count >= 2:
             tokens.append(sentence)
             print(' '.join(sentence))
@@ -76,7 +75,7 @@ def input_tests(args):
 def create_parser():
     # create the command line argument parser
     parser = argparse.ArgumentParser(description="create tokenized file")
-    parser.add_argument("input", metavar="<input file>", type=str, 
+    parser.add_argument("input", metavar="<input file>", type=str,
                         help="Enter a valid .gz file to tokenize")
     return parser.parse_args()
 
@@ -87,15 +86,9 @@ def main():
 
     # call on function to test if input is valid
     input_tests(args)
-    
+
     # call on function to tokenize the file
     tokens = tokenizeLine(args.input)
-
-    #for line in tokens:
-     #   print(line)
-    
-
-    #print(tokenizeLine("Er liep een man op straat. Hij had een tas bij zich. Wie was hij?"))
 
 
 if __name__ == '__main__':
