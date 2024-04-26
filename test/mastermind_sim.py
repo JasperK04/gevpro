@@ -32,6 +32,8 @@ def simulate_game(code: list[str], length: int = 4):
 
     option_list = [options[:] for _ in range(length)]
 
+    result = ['' for _ in range(len(code))]
+
     for attemts in range(NR_OF_GUESSES):
 
         guess = []
@@ -41,8 +43,7 @@ def simulate_game(code: list[str], length: int = 4):
         colours_in_code = {colour: code.count(colour) for colour in options}
 
         correct = 0
-
-        result = ['not included' for _ in range(len(code))]
+        skip = []
 
         for i in range(len(code)):
             guess_color = guess[i]
@@ -52,37 +53,30 @@ def simulate_game(code: list[str], length: int = 4):
                 correct += 1
                 result[i] = "correct"
                 colours_in_code[guess_color] -= 1
+                # only one option left
+                option_list[i] = [guess[i]]
 
-        for i in range(len(code)):
-            guess_color = guess[i]
-            code_color = code[i]
-
-            if colours_in_code[guess_color] > 0 and guess_color != code_color:
+            elif colours_in_code[guess_color] > 0 and guess_color != code_color:
                 colours_in_code[guess_color] -= 1
                 result[i] = "misplaced"
+                # remove the option from the list
+                option_list[i].remove(guess[i])
+                skip.append(guess[i])
+
+            else:
+                result[i] = "not included"
 
         if correct == length:
-            #print('correct')
             return True, attemts + 1
 
-        skip = []
         for i in range(len(code)):
-            status = tuple([result[i], guess[i], i])
             if result[i] == 'not included':
-                delete = guess[i]
                 if guess[i] not in skip:
                     for j in range(len(option_list)):
                         if guess[i] in option_list[j] and len(option_list[j]) > 1:
                             option_list[j].remove(guess[i])
                 else:
                     option_list[i].remove(guess[i])
-
-            if result[i] == 'correct':
-                option_list[i] = [guess[i]]
-
-            if result[i] == 'misplaced':
-                option_list[i].remove(guess[i])
-                skip.append(guess[i])
         
     return False, 'unsolved'
     
