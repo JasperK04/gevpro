@@ -3,7 +3,7 @@ from collections import defaultdict
 import argparse
 
 # Set to True to enable time tracking
-TIME = True
+TIME = False
 if TIME:
     import time
 
@@ -102,8 +102,8 @@ def simulate_n_iterations(iterations: int = 1000):
     # Print the results
     persentage = wins / iterations * 100
     print(f"Out of {iterations} games, the player won {wins} times ({persentage:.2f}%).")
-    for key, value in total_nr_of_guesses.items():
-        print(f"{key} guesses: {value} times.")
+    for i in range(1, NR_OF_GUESSES + 1):
+        print(f"{i} guesses: {total_nr_of_guesses[i]} times.")
     average = sum([key * value for key, value in total_nr_of_guesses.items() if key != 'unsolved']) / iterations
     print(f"The average number of guesses was {average:.2f}.")
 
