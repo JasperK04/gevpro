@@ -2,11 +2,16 @@ from random import choice, choices
 from collections import defaultdict
 import argparse
 
+# Set to True to enable time tracking
+TIME = True
+if TIME:
+    import time
+
 # Set to True to enable debug mode
 DEBUG = False
 
 # Game settings
-NR_OF_GUESSES = 8
+NR_OF_GUESSES = 6
 NR_OF_COLOURS = 4
 
 
@@ -14,11 +19,11 @@ def setup_game(nr_of_colours: int = 4) -> list[str]:
     '''
     This function will setup the game by generating a random code for the player to guess.
     '''
-    colours = ["red", "green", "blue", "yellow", "purple", "orange"]
+    colours = [1, 2, 3, 4, 5, 6]
     code = choices(colours, k=nr_of_colours)
 
     if DEBUG:
-        code = ['purple', 'purple', 'green', 'blue']
+        code = [1, 2, 3, 4]
         print(f"DEBUG: The code is {code}")
 
     return code
@@ -28,11 +33,9 @@ def simulate_game(code: list[str], length: int = 4):
     '''
     This function will simulate the game and return True if the player wins.
     '''
-    options = ["red", "green", "blue", "yellow", "purple", "orange"]
+    options = [1, 2, 3, 4, 5, 6]
 
     option_list = [options[:] for _ in range(length)]
-
-    result = ['' for _ in range(len(code))]
 
     for attemts in range(NR_OF_GUESSES):
 
@@ -51,33 +54,27 @@ def simulate_game(code: list[str], length: int = 4):
 
             if guess_color == code_color:
                 correct += 1
-                result[i] = "correct"
                 colours_in_code[guess_color] -= 1
                 # only one option left
                 option_list[i] = [guess[i]]
 
+                if correct == length:
+                    return True, attemts + 1
+
             elif colours_in_code[guess_color] > 0 and guess_color != code_color:
                 colours_in_code[guess_color] -= 1
-                result[i] = "misplaced"
                 # remove the option from the list
                 option_list[i].remove(guess[i])
                 skip.append(guess[i])
 
             else:
-                result[i] = "not included"
-
-        if correct == length:
-            return True, attemts + 1
-
-        for i in range(len(code)):
-            if result[i] == 'not included':
                 if guess[i] not in skip:
                     for j in range(len(option_list)):
                         if guess[i] in option_list[j] and len(option_list[j]) > 1:
                             option_list[j].remove(guess[i])
                 else:
                     option_list[i].remove(guess[i])
-        
+
     return False, 'unsolved'
     
 
@@ -85,6 +82,10 @@ def simulate_n_iterations(iterations: int = 1000):
     '''
     This function will simulate the game n times and return the percentage of wins.
     '''
+    if TIME:
+        start_time = time.time()
+
+    # Simulate the game and count the wins
     wins = 0
     total_nr_of_guesses = defaultdict(int)
     for _ in range(iterations):
@@ -93,6 +94,12 @@ def simulate_n_iterations(iterations: int = 1000):
         total_nr_of_guesses[attemts] += 1
         if solved:
             wins += 1
+
+    if TIME:
+        end_time = time.time()
+        print(f"Simulation took {end_time - start_time:.2f} seconds.")
+    
+    # Print the results
     persentage = wins / iterations * 100
     print(f"Out of {iterations} games, the player won {wins} times ({persentage:.2f}%).")
     for key, value in total_nr_of_guesses.items():
